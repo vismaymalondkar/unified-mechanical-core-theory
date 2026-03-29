@@ -40,7 +40,7 @@ In this model, particle accelerators (like CERN) are not discovering "new" build
 * The Survival Filter: Just like a musical instrument, only certain "harmonics" are stable. The exotic particles are unstable harmonics; they "shiver" and decay almost instantly because their wave-geometry cannot sustain itself against the pressure of the surrounding field.
 * The Transition Cycle: When an external field (light/energy) hits a stable system, it pushes the "standing wave" into one of these high-energy, unstable states. Before the system can be observed in a steady state, it "sheds" that extra energy as radiation and snaps back into a stable resonance.
 
-7. Final Summary of the "Hallucination"
+7. Final Summary
 
 * The Core: The only "real" physical matter (a stable vortex).
 * The Field: The medium that carries the "symptoms" (Gravity, Electricity, Magnetism).
