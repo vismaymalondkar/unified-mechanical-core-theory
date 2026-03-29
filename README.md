@@ -1,5 +1,5 @@
 # Unified mechanical core theory
-Repo to track progress of a fun retirement project of a mechanical, non-spooky model of where gravity, electromagnetism are dynamic component of a single field originating from physical matter.
+Repo to track progress of a fun retirement project of a mechanical, non-spooky model where gravity, electromagnetism are dynamic component of a single field originating from physical matter.
 
 1. The Physical Core (The Matter)
 
