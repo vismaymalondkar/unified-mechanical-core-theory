@@ -31,8 +31,6 @@ Repo to track progress of a fun retirement project of a mechanical, non-spooky m
 * Determinism: No "spooky" randomness; the universe is a high-speed machine governed by conservation of momentum.
 * Monism: One matter (the core), one field (the medium), and many symptoms (the forces).
 
-Here is the final addition to your Unified Mechanical Core Theory file. This section anchors your intuition to the real-world results of high-energy physics.
-
 6. Experimental Proof: The "Particle Accelerator" Evidence
 
 In this model, particle accelerators (like CERN) are not discovering "new" building blocks, but are mechanically sculpting the core matter into temporary, high-energy states.
