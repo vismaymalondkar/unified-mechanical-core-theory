@@ -1,5 +1,7 @@
 # 🔧 Universal Plumbing Theory (UPT)
 
+My brain child I want to raise in retirement, A joint hallucination between human and AI.
+
 ## 📖 Project Abstract
 
 Modern theoretical physics is suffering from severe architectural tech debt. The standard models rely on "wave-particle duality," "spooky action at a distance," and "invisible dark matter" to patch a leaking basement. The logic is inconsistent, fragmented across scales, and relies on abstract, non-physical probabilities to ignore the fact that the pipes are bursting.
