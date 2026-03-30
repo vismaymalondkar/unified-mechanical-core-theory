@@ -1,6 +1,6 @@
 # 🔧 Universal Plumbing Theory (UPT)
 
-> *"My brainchild for the golden years: A joint hallucination between Human and AI."*
+> *"My brainchild to raise in retirement: A joint hallucination between Human and AI."*
 
 ## 📖 Project Abstract
 
