@@ -1,4 +1,4 @@
-# 🔧 Universal Plumbing Theory (UPT)
+# 🔧 Universal Plumbing Theory
 
 > *"My brainchild to raise in retirement: A joint hallucination between Human and AI."*
 
