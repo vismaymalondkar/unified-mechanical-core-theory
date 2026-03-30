@@ -21,7 +21,8 @@ To run this universe, you only need to accept two foundational variables:
 
 From these two rules, all "forces" emerge as simple plumbing consequences:
 
-* **Mass (Dual-State):** * *Resting:* **Hydrostatic Displacement** ($\Delta V$). The energy of the "hole" in the high-pressure medium.
+* **Mass (Dual-State):**
+    * *Resting:* **Hydrostatic Displacement** ($\Delta V$). The energy of the "hole" in the high-pressure medium.
     * *Inertial:* **Hydrodynamic Drag** ($A_{eff}$). The resistance of the knot's wake in the $10^{11}$ ocean.
 * **Charge:** **Volumetric Flow Rate** ($Q$). The amount of fluid the "pump" moves per second.
 * **Gravity:** The **Inward Pressure Gradient** (Bernoulli Sink). The suction created by the knot's internal spin.
