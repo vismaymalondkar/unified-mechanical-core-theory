@@ -27,6 +27,3 @@ From these two rules, all "forces" emerge as simple plumbing consequences:
 * **Charge:** **Volumetric Flow Rate** ($Q$). The amount of fluid the "pump" moves per second.
 * **Gravity:** The **Inward Pressure Gradient** (Bernoulli Sink). The suction created by the knot's internal spin.
 * **Magnetism:** The **Torsional Wake**. The swirling current created as a "pump" (charge) moves through the medium.
-
-**Rule 2: Expert Guide**
-Since we've defined **Charge** as the volumetric flow rate ($Q$), does this imply that a **Neutron** is simply a knot where the "intake" and "exhaust" are perfectly balanced, resulting in a net flow of zero?
