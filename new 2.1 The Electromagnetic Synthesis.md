@@ -30,6 +30,9 @@ When two of these high-pressure systems interact, they obey the laws of fluid di
 4.  **The Coulomb Identity:** Substituting the field gives the exact mechanical derivation of Coulomb's Law:
     $$F_e = \frac{\rho}{4\pi} \cdot \frac{Q_1 Q_2}{d^2}$$
     > **The UPT Bridge:** This proves that the **Permittivity of Free Space ($\epsilon_0$)** is the inverse of the **Medium Density ($1/\rho$)**.
+    > 
+    > **Calculating Universal Density:** By taking the reciprocal of the measured real-world vacuum permittivity ($\epsilon_0 \approx 8.854 \times 10^{-12} \text{ F/m}$), we mechanically derive the absolute density of the universal ocean:
+    > $$\rho = \frac{1}{\epsilon_0} \approx \mathbf{1.129 \times 10^{11} \text{ kg/m}^3}$$
 
 ---
 
