@@ -59,5 +59,15 @@ When two waves intersect, their physical pressure gradients temporarily superimp
 3. **The Perpendicular Squirt:** Because the combined density cannot move forward, and the fluid is incompressible, it violently shears outward, perfectly perpendicular to the collision axis. 
 4. **The Break:** This doubled amplitude over a microscopic wavelength pushes the combined slope past vertical. The fluid shears, tumbles, and breaks into an Electron-Positron pair.
 
+### The Numerical Limit (The 430 MeV Ceiling)
+Because the Universal Plumbing Theory is fully parameterized, we can calculate the exact numerical limit at which a photon geometrically self-intersects and trips into matter. 
+
+1. **The Minimum Wavelength ($\lambda_{min}$):** To prevent the corkscrew threads from crossing, the wavelength cannot be shorter than the width of the wave. 
+   $\lambda_{min} = 2r_{pipe} \approx 2.878 \times 10^{-15} \text{ m}$ (The Classical Electron Radius).
+2. **The Maximum Frequency ($f_{max}$):** $f_{max} = \frac{c}{\lambda_{min}} \approx \mathbf{1.041 \times 10^{23} \text{ Hz}}$
+3. **The Energy Limit:** Converting this frequency yields a maximum stable photon energy of roughly **430 MeV**.
+
+**The Particle Cascade Effect:** This 430 MeV geometric ceiling perfectly explains high-energy particle physics. An electron's mass is only 0.511 MeV, meaning electron annihilation produces perfectly stable, linear Gamma rays. However, heavier particles (like Protons at 938 MeV) contain more coiled pipe than the 430 MeV linear ceiling can support. When they unspool, the resulting wave is mathematically born already in a state of self-intersection. Therefore, ultra-high-energy photons cannot travel through the vacuum; they spontaneously and instantly shatter into cascading showers of new matter (Cosmic Ray Showers).
+
 ## Conclusion
 You cannot create matter by turning up the "Intensity" or "Brightness" of a laser beam. Matter is strictly forged by the geometric steepness of the wave's slope. Mass is not different from light; it is merely light that reached the absolute hydrodynamic limits of the universal ocean and was forced to bite its own tail to survive.
