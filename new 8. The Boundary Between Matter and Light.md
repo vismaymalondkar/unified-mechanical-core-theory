@@ -4,12 +4,15 @@
 
 ---
 
-## 1. Matter: The Closed Loop (Fermions / Spin 1/2)
-Particles like electrons have mass and exert gravity because they are **Localized Pumps**. To stay "solid" in a 10¹¹ density medium, the fluid must loop back on itself.
+## 1. Matter: The Closed Engine (Fermions / Knots)
+Particles like electrons and protons have mass and exert gravity because they are localized, self-sustaining pumps. To stay "solid" in a high-density superfluid, the fluid must loop back on itself to trap its own momentum.
 
-* **The Geometry (Toroidal Knot):** To trap energy in a stationary location, the **Standard Pipe** must form a closed Torus Knot (a 3D smoke ring). 
-* **The Bernoulli Sink (Mass/Gravity):** Because the fluid is spinning at $c$ inside this closed loop, it creates a permanent, localized drop in static pressure. This **Bernoulli Sink** is what we perceive as Resting Mass and Gravity. It is the universe "pushing" inward on the knot's effective surface area.
-* **The 720° Spin Cycle:** To return to its exact original state, a point of fluid in a Toroidal Knot must travel both around the main ring (toroidal) and through the center of the tube (poloidal). This "dual-axis" journey requires two full 360° rotations—totaling 720°—to close the geometric circuit. This is the mechanical reality of **Spin 1/2**.
+* **The Geometry (Closed Toroidal Knots):** To trap energy in a stationary location, the **Standard Pipe** must form a closed geometric knot. 
+  * A simple Toroidal ring forms an inward-pumping sink (Electron).
+  * A folded Trefoil knot forms an outward-pumping source (Proton). 
+  * Both are variations of a closed Toroidal knot, creating the Dual-Axis Engine that drives Gravity and Charge.
+* **The Bernoulli Sink (Mass/Gravity):** Regardless of the knot's fold, the fluid spinning at $c$ inside the microscopic Rankine core ($r_c$) creates a permanent, localized drop in static pressure ($\Delta P$). This is Resting Mass and Gravity—the universe crushing inward on the knot.
+* **The $720^\circ$ Kinematic Cycle:** As derived in the UPT Turnover Rate ($\Omega$), the baseline fermion is a **(1,2) Toroidal Vortex**. To return to its exact original starting phase, a point of fluid must travel around the macroscopic structure *twice* (a total path length of $4\pi R_{torus}$). This $720^\circ$ plumbing requirement is the physical, mechanical reality of **Quantum Spin 1/2**.
 
 ---
 
@@ -28,7 +31,7 @@ The universe uses one engine (the fluid) but two different "transmission" states
 
 | Property | The Knot (Matter) | The Ripple (Light) |
 | :--- | :--- | :--- |
-| **Plumbing State** | Closed Toroidal Loop | Open Helical Spiral |
+| **Plumbing State** | Closed Toroidal Knot (Ring or Trefoil) | Open Helical Spiral |
 | **Mechanical Spin** | Spin 1/2 (720° Cycle) | Spin 1 (360° Cycle) |
 | **Hydraulic Profile** | Creates Bernoulli Sink | Moves at Medium's Limit ($c$) |
 | **Gravity / Mass** | YES (Localized Suction) | NO (Untethered Ripple) |
