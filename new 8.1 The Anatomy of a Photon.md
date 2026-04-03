@@ -22,10 +22,6 @@ The Photon is a 3D spiral thread of high-speed fluid. Its energy is stored in th
 * **Frequency ($f$):** The number of helical rotations that pass a fixed point per second ($f = c / \lambda$).
 
 
-
-[Image of transverse vs longitudinal waves]
-
-
 ---
 
 ## 3. The Mechanical Broadcast: Sending Pressure Waves
