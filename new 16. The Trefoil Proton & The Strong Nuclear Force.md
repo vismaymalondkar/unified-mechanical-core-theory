@@ -9,8 +9,9 @@ Because the universe is a continuous fluid, the core of the atom cannot be a sol
 
 * **The Mass Scaling:** As derived previously, the Proton is 1,836 times heavier than the Electron because it is made of a segment of pipe 1,836 times longer. 
 * **The Topology:** To maintain Quantized Stability, this massive length of pipe cannot exist as a simple ring; it must fold over itself into a complex, 3-lobed **Trefoil Knot** (a $3_1$ torus knot). 
+* **Charge Identity:** Even though the Trefoil is massive, it is still built from the exact same Standard Pipe operating at the exact same internal $c$-velocity as the electron. Therefore, its maximum **Volumetric Flow Rate ($Q$)** is identical. This mechanically guarantees that the Proton and the Electron possess the exact same magnitude of Electric Charge, perfectly decoupling Mass from Charge.
 * **The "Quark" Illusion:** Standard physics collides particles into the proton, detects three distinct high-density "points" of deflection, and invents three subatomic particles called Quarks. In the UPT, these three points of deflection are simply the **three structural lobes** of the Trefoil Knot. 
-* **Color Confinement:** Standard physics states you can never pull a single Quark out of a proton (Color Confinement). The UPT explains this mechanically: You cannot pull one fold out of a tightened Trefoil knot without snapping the continuous pipe (which instantly unspools the proton into light via the Acoustic Forge).
+* **Color Confinement:** Standard physics states you can never pull a single Quark out of a proton. The UPT explains this mechanically: You cannot pull one fold out of a tightened Trefoil knot without snapping the continuous pipe (which instantly unspools the proton into light).
 
 ---
 
