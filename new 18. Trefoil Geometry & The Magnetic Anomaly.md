@@ -11,9 +11,12 @@ We can calculate the absolute minimum physical space this pipe can occupy by fin
 
 **Step A: The Volume of the Proton Pipe ($V_p$)**
 Using our locked pipe radius ($r_{pipe} = 1.439 \times 10^{-15} \text{ m}$) and the total unspooled length ($L_p = 2.275 \times 10^{-9} \text{ m}$):
-* $$V_p = \text{Area} \cdot \text{Length} = (\pi \cdot r_{pipe}^2) \cdot L_p$$
-* $$V_p = \pi \cdot (1.439 \times 10^{-15})^2 \cdot (2.275 \times 10^{-9})$$
-* $$V_p \approx \mathbf{1.48 \times 10^{-38} \text{ m}^3}$$
+
+$$V_p = \text{Area} \cdot \text{Length} = (\pi \cdot r_{pipe}^2) \cdot L_p$$
+
+$$V_p = \pi \cdot (1.439 \times 10^{-15})^2 \cdot (2.275 \times 10^{-9})$$
+
+$$V_p \approx \mathbf{1.48 \times 10^{-38} \text{ m}^3}$$
 
 Because the fluid is strictly incompressible, this $1.48 \times 10^{-38} \text{ m}^3$ is the absolute "hard floor." The Trefoil knot cannot be crushed into a space smaller than this volume without the fluid geometry self-intersecting. The physical overlapping of these loops creates an armored, impenetrable geometric shell that standard physics interprets as a solid "particle."
 
