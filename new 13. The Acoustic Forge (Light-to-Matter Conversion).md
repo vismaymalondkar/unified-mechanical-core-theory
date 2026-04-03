@@ -43,9 +43,16 @@ Classical fluid mechanics dictates that you cannot create a localized rotation (
 
 ---
 
-## 5. The Intersection Layover (Breit-Wheeler Process)
-A single photon rarely possesses enough frequency to trip on its own. The Acoustic Forge is almost entirely driven by the **Breit-Wheeler Process**: the collision of two separate photons.
+## 5. The Two Paths to the Forge
+Because the Universal Plumbing Theory relies on physical geometry, a wave will trip into matter the moment its slope becomes steeper than the fluid can support. There are two distinct ways this hydrodynamic threshold is breached:
 
+### Path A: Spontaneous Tripping (The Hard Ceiling)
+Standard physics assumes the electromagnetic spectrum goes on forever. The UPT proves there is a hard, geometric ceiling to how much energy a single photon can carry. 
+* **The Limit:** The width of the photon's corkscrew is locked at $2r_{pipe}$. If a wave is generated with an extreme frequency where the wavelength ($\lambda$) becomes shorter than the width of the pipe itself ($\lambda < 2r_{pipe}$), the helical threads would physically intersect. 
+* **The Result:** Because the superfluid is incompressible, self-intersection is impossible. A wave generated above this frequency is geometrically "too steep to exist" as a linear signal. It spontaneously trips over its own geometry and instantly collapses into a particle pair the moment it is formed, without needing to collide with anything.
+
+### Path B: The Intersection Layover (Breit-Wheeler Process)
+If a single photon is below the hard ceiling, it can still be forged into matter by colliding with another photon. 
 When two waves intersect, their physical pressure gradients temporarily superimpose (add together).
 1. **Low-Frequency Failure:** If you collide two low-frequency waves (like radio or visible light), their wavelengths are so massive that doubling their locked amplitude still results in a gentle slope. The fluid stretches smoothly, and the waves pass right through each other like ghosts. 
 2. **High-Frequency Success:** If two high-pitch Gamma rays collide head-on, their forward linear momentum perfectly cancels out at the point of impact. 
