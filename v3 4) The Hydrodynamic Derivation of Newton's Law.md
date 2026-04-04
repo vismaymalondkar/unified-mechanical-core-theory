@@ -28,7 +28,7 @@ If we take the Universal Fluid Force equation and substitute our new definition 
 Start with the universal fluid force:
 $$F_g = \frac{\rho}{4\pi} \cdot \frac{Q_{g1} Q_{g2}}{d^2}$$
 
-Substitute $Q_g = \xi \cdot m$ for both objects:
+Substitute $Q_g = \zeta \cdot m$ for both objects:
 $$F_g = \frac{\rho}{4\pi} \cdot \frac{(\zeta \cdot m_1) (\zeta \cdot m_2)}{d^2}$$
 
 Pull the intake constants out to the front:
