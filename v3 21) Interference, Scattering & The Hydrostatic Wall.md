@@ -1,17 +1,16 @@
-# Universal Plumbing Theory: Interference, Scattering & The Hydrostatic Wall
+# **Universal Plumbing Theory: Interference, Scattering & The Hydrostatic Wall**
 
 > *"Pilot Waves can share space because they are just pressure data moving through the fluid. Payloads and Knots cannot share space because they are physical $r_{pipe}$ structures churning the fluid."*
 
 In legacy quantum mechanics, wave superposition, particle scattering, and the Pauli Exclusion Principle are treated as disjointed phenomena governed by abstract probabilities and mathematical bans.
 
-In the **Universal Plumbing Theory (UPT)**, all of these behaviors are deterministic fluid dynamics occurring within the $10^{11} \text{ kg/m}^3$ acoustic superfluid. Whether entities pass through each other, scatter, or act as solid walls depends entirely on the mechanical interaction between **Acoustic Pressure Fronts** and **Physical $r_{pipe}$ Boundaries**.
+In the **Universal Plumbing Theory (UPT)**, all of these behaviors are deterministic fluid dynamics occurring within the $1.129 \times 10^{11} \text{ kg/m}^3$ acoustic superfluid ocean. Whether entities pass through each other, scatter, or act as solid walls depends entirely on one mechanical variable: the interaction between **Acoustic Pressure Fronts** and **Physical $r_{pipe}$ Boundaries**.
 
 Here is the mechanical blueprint for how Light and Matter interact in the universal medium.
 
 ---
 
-## 1. Light vs. Light: The Mechanics of Superposition
-
+## **1. Light vs. Light: The Mechanics of Superposition**
 When two photons cross paths, they do not crash like billiard balls. Because a photon is a **Composite System** (a tiny Helical Payload generating a massive, V-shaped Pilot Wave), the interaction is almost entirely acoustic.
 
 * **The Pilot Wave Crossing (Superposition):** As the two V-shaped Mach Cones intersect, the fluid physically compresses and decompresses. This follows the strict rules of linear acoustics. 
@@ -21,20 +20,18 @@ When two photons cross paths, they do not crash like billiard balls. Because a p
 
 ---
 
-## 2. Light vs. Matter: The Acoustic Strike (Compton Scattering)
-
+## **2. Light vs. Matter: The Acoustic Strike (Compton Scattering)**
 What happens when a traveling helical thread (a Photon) strikes a localized, standing knot (an Electron or Proton)? 
 
 The interaction happens in two distinct mechanical phases: the **Pre-Shock** and the **Physical Strike**.
 
 1. **The Pre-Shock (The Wobble):** Before the photon's payload arrives, its wide **Pilot Wave** hits the knot. The high-pressure V-cone slams into the knot's topological boundary, temporarily distorting its quantized geometry. The knot "wobbles" as it absorbs this acoustic strain.
 2. **The Physical Strike (Scattering):** If the photon's trajectory is a direct hit, the moving $r_{pipe}$ thread of the photon physically strikes the stationary $r_{pipe}$ boundary of the knot. 
-3. **The Exit (Redshift/Momentum Transfer):** The knot acts as a rigid shock absorber. The physical nudge to the knot is what we observe as **Compton Scattering** (momentum transfer). To overcome the knot's acoustic impedance, the helical payload expends kinetic energy. Its internal spin rate slows down, increasing its physical wavelength. The photon exits the collision structurally intact, but **Redshifted**.
+3. **The Exit (Redshift/Momentum Transfer):** The knot acts as a rigid shock absorber. The physical nudge to the knot is what we observe as **Compton Scattering** (momentum transfer). To overcome the knot's acoustic impedance, the helical payload expends kinetic energy. Its internal spin rate slows down, physically increasing its structural wavelength. The photon exits the collision structurally intact, but **Redshifted**.
 
 ---
 
-## 3. Matter vs. Matter: The Hydrostatic Wall
-
+## **3. Matter vs. Matter: The Hydrostatic Wall**
 If Pilot Waves can pass through each other, why does a brick wall stop your hand? Why doesn't matter just slide through itself? Because particles are not just passing pressure data; they are **Permanent Rotational Engines**. 
 
 When two electron knots approach each other, their physical $r_{pipe}$ cores do not touch. They hit each other's **Hydrostatic Boundaries**.
@@ -47,11 +44,11 @@ When two electron knots approach each other, their physical $r_{pipe}$ cores do 
 
 ---
 
-## Summary Ledger: The UPT Translation
+## **Summary Ledger: The UPT Translation**
 
 | Legacy Quantum Concept | Mainstream Abstraction | UPT Plumbing Translation |
 | :--- | :--- | :--- |
 | **Superposition** | Wavefunctions existing in multiple states simultaneously. | Pilot Waves (Mach Cones) algebraically adding and subtracting physical fluid pressure. |
-| **Compton Scattering** | Point-particle billiard ball collision. | The physical strike between a Helical $r_{pipe}$ Payload and a localized Topological Knot. |
-| **Electrostatic Repulsion** | The exchange of abstract virtual photons. | The high-pressure Stagnation Zone created by conflicting centripetal fluid wakes. |
+| **Compton Scattering** | Point-particle billiard ball collision. | The physical strike between a moving Helical $r_{pipe}$ Payload and a localized Topological Knot. |
+| **Electrostatic Repulsion** | The exchange of abstract "virtual photons." | The high-pressure Stagnation Zone created by conflicting centripetal fluid wakes. |
 | **Pauli Exclusion Principle**| A mathematical quantum state restriction preventing overlap. | The mechanical impossibility of merging two fluid vortex engines without causing cavitation and structural failure. |
