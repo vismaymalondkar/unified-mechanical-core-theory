@@ -37,7 +37,7 @@ This exact distance ($\approx 5.29 \times 10^{-11} \text{ m}$) is the **Bohr Rad
 ## **4. Resolving the Larmor Catastrophe (Why it doesn't crash)**
 Classical physics says any accelerating charge must radiate energy, meaning the orbiting electron should bleed its kinetic energy into the vacuum as light and immediately spiral into the nucleus (The Larmor Catastrophe). 
 
-**The UPT v3 Solution:** Radiation (making a wave) requires a particle to forcibly *plow through* a resting medium, generating a transverse wake. But the orbiting Electron is **not plowing through resting fluid**. 
+**The UPT Solution:** Radiation (making a wave) requires a particle to forcibly *plow through* a resting medium, generating a transverse wake. But the orbiting Electron is **not plowing through resting fluid**. 
 
 The Electron is sitting inside the Proton's massive Azimuthal slipstream. The fluid in the orbital lane is *already moving* at the exact same orbital velocity as the Electron. Relative to the local fluid immediately surrounding it, the Electron is completely at rest! 
 
