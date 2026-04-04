@@ -33,7 +33,7 @@ In the UPT, this is a strict geometric necessity.
 
 ---
 
-## **4. The Ultimate Plumbing Unification (v3 Summary)**
+## **4. The Ultimate Plumbing Unification **
 By defining the nucleus as a complex fluid knot, we achieve a total, unbroken mechanical inventory of the universe using a single fundamental substance:
 
 1. **The Ocean:** The resting, high-density ($\approx 10^{11} \text{ kg/m}^3$) universal acoustic superfluid.
