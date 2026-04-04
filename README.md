@@ -26,3 +26,4 @@ From these two rules, all "forces" emerge as simple plumbing consequences:
 * **Charge:** **Volumetric Flow Rate** ($Q$). The integrated amount of fluid the "pump" moves per second.
 * **Gravity:** The **Inward Pressure Gradient** (Bernoulli Sink). The extreme $c$-velocity core creates an absolute static pressure minimum, and the $1/r$ velocity envelope mathematically generates Newton's exact $1/r^2$ gravitational drop-off.
 * **Magnetism:** The **Torsional Wake**. The swirling current created as a "pump" (charge) moves through the medium.
+
