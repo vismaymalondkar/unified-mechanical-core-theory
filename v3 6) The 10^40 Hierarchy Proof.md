@@ -1,4 +1,4 @@
-# **Universal Plumbing Theory (v3): The $10^{40}$ Hierarchy Proof**
+# **Universal Plumbing Theory: The $10^{40}$ Hierarchy Proof**
 
 **Core Thesis:** In standard physics, the "Hierarchy Problem" is one of the greatest unsolved mysteries: Why is Gravity roughly $10^{40}$ times weaker than the Electric Force? Standard physics has no explanation and just treats it as a lucky, fundamental constant. The **Universal Plumbing Theory (UPT)** derives this number organically. The hierarchy is purely geometric: it is the ratio of the Toroidal Helix's macroscopic **Classical wire boundary** to its microscopic **Planck-scale core**.
 
