@@ -17,8 +17,8 @@ In the UPT, Gravity is the continuous suction of fluid directly into the $c$-spe
 
 Because every micrometer of the vortex thread is identical, the total volumetric intake ($Q_g$) of a particle is perfectly proportional to the total length of its wire. Since Mass ($m$) is also defined as the total length of the wire ($L_{pipe}$), Gravitational Intake is mathematically locked to Mass.
 
-We define the **Specific Volumetric Intake ($\xi$)**, which is the exact amount of fluid sucked in per kilogram of wire (measured in $\text{m}^3/\text{s} \cdot \text{kg}$). Therefore, the total gravity flow for any object is:
-$$Q_g = \xi \cdot m$$
+We define the **Specific Volumetric Intake ($\zeta$)**, which is the exact amount of fluid sucked in per kilogram of wire (measured in $\text{m}^3/\text{s} \cdot \text{kg}$). Therefore, the total gravity flow for any object is:
+$$Q_g = \zeta \cdot m$$
 
 ---
 
@@ -40,11 +40,11 @@ Look closely at the resulting structure. It is the exact, undeniable mathematica
 
 ## **4. Decoding the Gravitational Constant ($G$)**
 By comparing our fluid derivation to Newton's historical equation, we completely decode the Gravitational Constant. $G$ is not a fundamental property of the universe; it is a composite plumbing ratio:
-$$G = \frac{\rho \cdot \xi^2}{4\pi}$$
+$$G = \frac{\rho \cdot \zeta^2}{4\pi}$$
 
-If we rearrange this to solve for the specific intake ($\xi$) using the UPT ocean density ($\rho \approx 1.129 \times 10^{11} \text{ kg/m}^3$) and the measured value of $G$:
-$$\xi = \sqrt{\frac{4\pi G}{\rho}}$$
-$$\xi \approx 8.6 \times 10^{-11} \text{ m}^3/\text{s per kg}$$
+If we rearrange this to solve for the specific intake ($\zeta$) using the UPT ocean density ($\rho \approx 1.129 \times 10^{11} \text{ kg/m}^3$) and the measured value of $G$:
+$$\zeta = \sqrt{\frac{4\pi G}{\rho}}$$
+$$\zeta \approx 8.6 \times 10^{-11} \text{ m}^3/\text{s per kg}$$
 
 ---
 
