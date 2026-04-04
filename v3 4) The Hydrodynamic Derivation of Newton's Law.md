@@ -29,10 +29,10 @@ Start with the universal fluid force:
 $$F_g = \frac{\rho}{4\pi} \cdot \frac{Q_{g1} Q_{g2}}{d^2}$$
 
 Substitute $Q_g = \xi \cdot m$ for both objects:
-$$F_g = \frac{\rho}{4\pi} \cdot \frac{(\xi \cdot m_1) (\xi \cdot m_2)}{d^2}$$
+$$F_g = \frac{\rho}{4\pi} \cdot \frac{(\zeta \cdot m_1) (\zeta \cdot m_2)}{d^2}$$
 
 Pull the intake constants out to the front:
-$$F_g = \left( \frac{\rho \cdot \xi^2}{4\pi} \right) \cdot \frac{m_1 m_2}{d^2}$$
+$$F_g = \left( \frac{\rho \cdot \zeta^2}{4\pi} \right) \cdot \frac{m_1 m_2}{d^2}$$
 
 Look closely at the resulting structure. It is the exact, undeniable mathematical form of **Newton's Law of Universal Gravitation** ($F = G \frac{m_1 m_2}{d^2}$). 
 
