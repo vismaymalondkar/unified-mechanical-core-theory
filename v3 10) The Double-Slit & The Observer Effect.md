@@ -1,4 +1,4 @@
-# **Universal Plumbing Theory (v3): The Double-Slit & The Observer Effect**
+# **Universal Plumbing Theory: The Double-Slit & The Observer Effect**
 
 **Core Thesis:** The greatest mystery of standard quantum mechanics is the Double-Slit Experiment, where a particle appears to pass through two slits simultaneously, and the act of "observing" it magically collapses its wavefunction. In the **Universal Plumbing Theory (UPT)**, there is no magic, no superposition, and no spooky observation. The experiment is governed entirely by deterministic **Slipstream Hydrodynamics** and **Induction Override**.
 
