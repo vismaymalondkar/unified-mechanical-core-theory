@@ -57,15 +57,17 @@ A free neutron is a high-tension geometric state. Without the external "vortex b
     * **The Electron ($0_1$):** Exactly 1.0 $L_e$ of the severed wire successfully plugs its own ends together, trapping its fluid and surviving as an armored Electron. 
     * **The Antineutrino:** The remaining ~1.53 $L_e$ of severed wire *fails to close a loop*. As derived in the UPT $E=mc^2$ rules, an unspooled wire acts as a jet-engine. This short segment becomes an **Open Spring**, instantly translating linearly at $c$ with zero rest mass. We call this flying piece of wire an Antineutrino.
   
-### **The Structural Yield (Why it doesn't shatter into 1,800 electrons)**
-If the Electron is the simplest, most stable state of the wire, why doesn't the decaying Neutron simply shatter into ~1,838 electrons? 
+### **The Structural Yield (The Single Point of Failure)**
+If the Electron ($0_1$ Donut) is the ultimate stable baseline of the vortex thread, why doesn't a decaying Neutron simply disintegrate into a cloud of ~1,838 electrons? 
 
 The answer lies in the mechanical difference between a **Kinetic Collision** and **Static Structural Fatigue**. 
-* When an ultra-high-energy photon breaches the 430 MeV limit, the spring geometrically collides with itself at $c$. The wire shears at thousands of simultaneous intersection points, shattering the thread into a shower of thousands of electron loops. 
-* A resting Neutron is not colliding. It is a closed geometric knot experiencing extreme static tension. 
 
-In structural engineering, when a cable under high tension fails, it does not instantly vaporize into dust. It snaps at a **Single Point of Failure**—its weakest geometric link. 
-When the $6_3$ knot fails, the wire snaps at exactly one high-tension crossover. Because the thread only broke in one place, the vast majority of the massive wire remains continuous. The crushing $10^{11} \text{ kg/m}^3$ ocean pressure prevents it from fully unraveling, instantly forcing the intact bulk into the next most stable topological configuration: the $3_1$ Trefoil (Proton). Only the small, severed tip is ejected to become the single Electron and Antineutrino.
+* **The Kinetic Collision (The Spring Jam):** When an ultra-high-energy photon breaches the 430 MeV limit, the spring is translating at $c$ when it violently rear-ends its own geometry. The wire suffers catastrophic vortex reconnection at thousands of simultaneous intersection points, instantly shattering the continuous thread into a shower of individual electron loops. 
+* **Static Fatigue (The Single Snap):** A resting Neutron is not colliding with anything. It is a closed, stationary geometric knot stretched to its absolute limit by immense static tension. 
+
+In structural engineering, when a bridge cable under extreme tension fails, it does not instantly vaporize into iron dust. It snaps at a **Single Point of Failure**—its weakest geometric link. 
+
+When the $6_3$ knot fails, the wire snaps at exactly one high-tension crossover. Because the thread only broke in one place, the vast majority of the massive wire remains continuous. The crushing $10^{11} \text{ kg/m}^3$ ocean pressure prevents it from fully unraveling, instantly forcing the intact bulk to fold into the next available, lower-energy topological configuration: the $3_1$ Trefoil (Proton). Only the small, severed tip is ejected, becoming the single Electron and the jet-propelling Antineutrino.
 
 ---
 
