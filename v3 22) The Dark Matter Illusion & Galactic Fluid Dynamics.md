@@ -79,3 +79,6 @@ The variation exists because the Milky Way is not a perfect, hard-walled cylinde
 If this fluid mechanic is true, small star clusters that fail to align their spins should not exhibit "Dark Matter" effects. 
 
 **Verification:** Deep space observations confirm that "Globular Clusters" (spherical clusters of a few million stars) maintain standard $1/r^2$ Newtonian orbits and show absolutely no signs of flat rotation curves. Because they lack the collective angular momentum to overcome fluid viscosity and stir the medium into a 2D whirlpool, they remain 3D point-sources. This perfectly validates the UPT geometric constraint.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
