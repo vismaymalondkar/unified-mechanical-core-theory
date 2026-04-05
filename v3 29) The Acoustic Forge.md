@@ -120,3 +120,6 @@ $$N_f = C \cdot \alpha^{-9.2}$$
 | **Beta Decay** | Spontaneous emission of a W boson. | Harmonic fatigue snapping the $6_3$ knot, unspooling it back into a $3_1$ and an Unknot. |
 
 **Conclusion:** The ability to melt electrons into protons, and for protons and electrons to tangle into neutrons, is undeniable proof that "conservation of baryon number" is an illusion. The universe operates on fluid mechanics using a single, modular acoustic medium.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
