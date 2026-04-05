@@ -34,3 +34,6 @@ No, because Electric Charge is a **Far-Field Boundary Effect**.
 
 ## **Conclusion**
 For a Proton to exist, its vortex thread must maintain structural integrity. Because the universe is a superfluid, **Helmholtz's Second Theorem** guarantees the strength of this thread is conserved along its entire length. Because the exposed Boundary Surface, the Wire Thickness ($r_{pipe}$), and the Pitch Angle ($\alpha$) are locked, it is a strict mathematical guarantee that a stable Proton and a stable Electron output the exact same magnitude of macroscopic Electric Swirl ($1e$).
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
