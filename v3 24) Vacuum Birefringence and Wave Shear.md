@@ -38,3 +38,6 @@ Astronomers recently observed that light traveling through the "empty" vacuum ne
 Under the UPT, a strong magnetic field is literally a **Geometric Lens**. It doesn't just bend the path of point-particles; it physically "drags" the medium, changing the refractive index of space itself. 
 
 **Conclusion:** A wave is never independent of its medium. If the medium moves, the wave must drift. "Vacuum Birefringence" is simply the visual, macroscopic evidence that the vacuum of space is a high-pressure fluid in motion.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
