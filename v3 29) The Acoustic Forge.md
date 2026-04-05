@@ -69,17 +69,18 @@ $$\frac{\alpha_{excess(n)}}{\alpha_{excess(p)}} = \sqrt{\frac{1.683}{0.152}} \ap
 
 The boundary layer of the $6_3$ Neutron is wound **3.33 times steeper** than the stable $3_1$ Proton (beyond the standard Pre-Load). This immense geometric strain (an extra $1.683 \text{ m}_e$ of stretched vacuum core) is the mechanical cause of the harmonic fatigue ($da/dN$) that ultimately triggers Beta Decay. The Neutron is structurally over-torqued.
 
-## **Axiom 3: The Universal Fatigue Curve (Calibrating the Medium)**
+## **Axiom 3: The Topological Packing Limit (Fixing $\alpha$)**
+If the Mass of a particle is determined by how tightly its thread is twisted ($\alpha$), what physical mechanism dictates the exact twist? 
 
-Legacy quantum mechanics treats the lifespan of a decaying particle as a random, probabilistic event. In the UPT, decay is strictly dictated by the classical **S-N (Strain-Life) Curve** of the universal acoustic superfluid. 
+In the UPT, $\alpha$ is not assigned randomly; it is strictly dictated by the mathematical law of **Ropelength** (Hydrodynamic Steric Hindrance). 
 
-In mechanical engineering, fatigue curves are calculated strictly using **Excess Strain** (subtracting the baseline resting tension of the material). Because we isolated the Hyper-Torsion of the heavy particles from the Pre-Load of the fundamental loops, we can plot exactly how many cycles ($N_f$) the universal fluid can survive at a given excess pitch angle ($\alpha_{excess}$).
+Because the particle is a continuous fluid streamline, its physical walls ($r_{pipe}$) can never intersect. If the high-velocity boundaries cross, the currents grind and the particle annihilates. 
 
-1. **The Endurance Limit (Stable Matter):** If the excess torsional strain is near zero (like the stable $3_1$ Proton, which barely exceeds the Pre-Load threshold), the medium can sustain the acoustic vibration infinitely without wear ($N_f = \infty$). This is the mechanical definition of stable matter.
-2. **The Neutron (Mid-Range Strain):** At an excess torsional ratio of $\alpha = 3.33$, the fluid boundary layer is strained past the endurance limit. The universal material law dictates it will suffer catastrophic failure at exactly $N_f = 1.996 \times 10^{26}$ cycles (879.4 seconds). 
-3. **Exotic Particles (Extreme Strain):** High-energy particles (Muons, Tau leptons) are standard topological knots that have been hyper-torqued. Their massive excess $\alpha$ values place them at the very top of the S-N curve, forcing their boundary layers to snap in microseconds. 
+1. **The Steric Hindrance:** When ambient collision pressure forces the fluid to fold into a complex knot (like the $3_1$ Proton), the pipe must cross over itself multiple times. If the thread is too short or too "fat," the inner walls will crash into each other.
+2. **The Elongation Fix:** To prevent self-intersection, the thread must be twisted tighter (increasing $\alpha$). As proven in Axiom 1, twisting the helix physically elongates the thread, providing the geometric slack necessary to weave the complex lobes.
+3. **The Geometric Lock:** Twisting the thread requires immense hydrostatic energy. Therefore, the universal pressure will only twist the thread exactly as much as necessary. The twisting permanently halts at the exact angle where the outer boundaries of the pipe rest perfectly flush against each other without crossing. 
 
-**Conclusion:** The universe does not roll dice. "Half-life" and "Decay Timers" are just standard engineering outputs derived from plotting the specific Excess Strain ($\alpha_{excess}$) of the particle against the absolute shear fatigue limits of the universal ocean.
+**Conclusion:** The pitch angle ($\alpha$)—and therefore the exact Mass of a particle—is mathematically fixed by the absolute minimum geometric packing limit of its specific topological fold. A $6_3$ Neutron is heavier than a $3_1$ Proton because six crossings require significantly more thread length to clear than three.
 
 ## **Axiom 4: The Cosmic Basquin Law (Calculating Decay)**
 
@@ -111,6 +112,15 @@ Applying the Universal Decay Equation ($N_f = C \cdot \alpha^{-9.2}$) yields a p
 $$N_f = C \cdot \alpha^{-9.2}$$
 
 **Conclusion:** Quantum decay is entirely deterministic. The universe follows an exact $9.2$ inverse power law, perfectly mirroring the structural fatigue curves of high-strength alloys. A particle's lifespan is explicitly dictated by how steeply its helical boundary layer is twisted against the shear modulus of the vacuum. "Probability" is merely the legacy term for uncalculated material fatigue.
+
+### **Addendum 1.A: The Hydrodynamic Rigidity of $r_{pipe}$**
+A critical mechanical question arises: If the thread is physically stretched and elongated by hyper-torsion ($\Delta L_{excess}$), does the wire get thinner like a stretched rubber band?
+
+In the UPT, the wire is a fluid streamline, not a solid object. It does not suffer from the Poisson effect (thinning under strain) because its thickness ($r_{pipe}$) is a strictly defined pressure boundary, not a fixed volume of material. 
+
+The thickness of the wire is defined as the exact radial distance where the Rankine core's velocity ($c$) decays to match the ambient pressure of the universe ($P_0$). Because both $c$ and $P_0$ are universal constants, the $r_{pipe}$ boundary is mathematically rigid. 
+
+When hyper-torsion elongates the thread, the pipe does not thin out; it acts as an open system, continuously recruiting and organizing more ambient fluid from the $10^{11} \text{ kg/m}^3$ ocean into its Mach 1 streamline to maintain its exact structural thickness. The cross-section is preserved, the $137:1$ gear ratio remains locked, and the mass strictly increases.
 
 ---
 
