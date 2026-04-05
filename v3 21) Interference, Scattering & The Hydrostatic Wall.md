@@ -66,3 +66,6 @@ The traveling drill bits of light have successfully tied themselves into stable,
 | **Electrostatic Repulsion** | The exchange of abstract "virtual photons." | The high-pressure Stagnation Zone created by conflicting centripetal fluid wakes. |
 | **Pauli Exclusion Principle**| A mathematical quantum state restriction preventing overlap. | The mechanical impossibility of merging two fluid vortex engines without causing cavitation and structural failure. |
 | **Pair Production (Breit-Wheeler)** | Energy spontaneously converting into mass via quantum probability. | A head-on $r_{pipe}$ collision buckling under hydrostatic pressure to tie mirrored topological knots. |
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
