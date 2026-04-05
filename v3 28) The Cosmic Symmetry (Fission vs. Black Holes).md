@@ -39,3 +39,6 @@ Both phenomena are simply different settings on the identical universal engine. 
 
 **Conclusion:**
 The universe does not have a "Quantum" boundary and a "Relativistic" boundary. Whether the $10^{11} \text{ kg/m}^3$ medium is shedding mass in a nuclear reactor or trapping it in a collapsed star, it is balancing the exact same fluid-dynamic equation. Fission is the **Failure of the Loop**; Black Hole formation is the **Ultimate Success of the Loop**.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
