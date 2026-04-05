@@ -54,6 +54,16 @@ In the UPT, the $r_{pipe}$ boundary layer is not infinitely divisible. It exists
 
 **Conclusion:** What legacy physics calls "Binding Energy" or "Mass Defect" is purely the mechanical, torsional potential energy required to hold a specific topological fold in the universal fluid.
 
+## **Axiom 1: The Universal Thread Constant ($L_0$)**
+In the UPT, the $r_{pipe}$ boundary layer is not infinitely divisible. It exists as a standardized quantum of length ($L_0$), equivalent to the relaxed state of a single Electron (The Unknot). Because the physical length of the fundamental thread is constant, the mass of any complex particle in the universe is strictly derived from a two-part geometric formula:
+
+**$Mass = \text{Integer } (N) + \text{Fraction } (\Delta m_\alpha)$**
+
+1. **The Integer (Topological Loops):** To build heavier particles, the engine must weave multiple fundamental loops ($N$) together. This accounts for the integer value of a particle's mass. (e.g., A Proton contains 1,836 standard loops).
+2. **The Fraction (Helical Torsion):** To fold those loops into complex, stable geometries (like the $3_1$ Trefoil or $6_3$ knot), the ambient pressure of the universal medium must twist the pipe, steepening the pitch angle ($\alpha$) of the helix. This stored torsional tension accounts for the fractional remainder of a particle's mass. 
+
+**Conclusion:** What legacy physics calls "Binding Energy" or "Mass Defect" is purely the mechanical, torsional potential energy required to hold a specific topological fold in the universal fluid.
+
 ---
 
 ## **4. Summary Ledger: The UPT Translation**
