@@ -1,3 +1,5 @@
+> © 2026 Vismay Malondkar. **Universal Plumbing Theory (UPT)**. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
 # 🔧 Universal Plumbing Theory
 Make physics flow again.
 
