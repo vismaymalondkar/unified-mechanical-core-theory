@@ -46,3 +46,6 @@ By defining the nucleus as a complex fluid knot, we achieve a total, unbroken me
     * **Strong Force:** Physical Vortex Interlocking (Contact Range only).
 
 There are no separate fundamental forces and no separate fundamental particles. There is only the localized 3D geometry of the universal plumbing.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
