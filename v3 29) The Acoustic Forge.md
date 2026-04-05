@@ -34,13 +34,13 @@ In the 1990s, the Large Electron-Positron Collider (LEP) at CERN smashed electro
 ## **3. The Cold Forge: Nuclear Topology**
 Electrons, protons, and neutrons interact mechanically in nature without needing a giant collider, proving they are modular components of the exact same engine block.
 
-### **A. Electron Capture (Tying the $6_3$ Knot)**
-In unstable, heavy isotopes, a proton in the atomic nucleus absorbs an inner-shell electron, turning into a Neutron.
-* **The UPT Mechanic:** Inside a dense nucleus, the extreme environmental pressure forces the stable **$3_1$ Trefoil** (Proton) to physically crash into an **Unknot** (Electron). The crushing hydrostatic pressure forces their topologies to tangle, folding them into the highly complex, over-torqued **$6_3$ Knot** (The Neutron).
+### **A. Electron Capture (Stretching the Thread)**
+If you combine the resting mass of a Proton ($3_1$) and an Electron (Unknot), you only get $938.78 \text{ MeV}$. A Neutron ($6_3$) requires $939.56 \text{ MeV}$. The geometry is short on thread. 
+Therefore, this process cannot happen in a vacuum. Inside a dense nucleus, the extreme environmental pressure physically crushes the $3_1$ knot and the Unknot together. This ambient hydrostatic force does physical work on the system, injecting the exact $0.78 \text{ MeV}$ of energy needed to dynamically stretch the $r_{pipe}$ boundary layer, providing the extra "thread" required to weave the $6_3$ crossovers.
 
-### **B. Beta Decay (Unspooling the $6_3$ Knot)**
-A free neutron floating in space is structurally over-torqued and will spontaneously decay back into a proton and an electron after $\approx 879$ seconds.
-* **The UPT Mechanic:** Because the $6_3$ knot is geometrically strained, its $10^{23}$ Hz Compton ringing creates harmonic fatigue. When the Kelvin-wave wobble snaps the boundary layer, the knot shatters. It unspools back into the comfortable, stable **$3_1$ Trefoil** (Proton), violently ejects the leftover **Unknot** (Electron), and blasts the remaining binding energy outward as a shockwave (Antineutrino).
+### **B. Beta Decay (The Antineutrino Recoil)**
+When the free neutron's harmonic fatigue causes the $6_3$ knot to snap, the over-torqued boundary layer violently recoils. It shrinks back down into the comfortable, stable **$3_1$ Trefoil** (Proton) and ejects the **Unknot** (Electron). 
+Because the geometry no longer needs the extra $0.78 \text{ MeV}$ of stretched thread, that kinetic and potential footprint is unspooled and blasted outward into the $10^{11}$ ocean as a massive, traveling acoustic shockwave. Legacy physics calls this leftover thread the **Antineutrino**.
 
 ---
 
