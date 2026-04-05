@@ -70,3 +70,6 @@ As derived by $E=mc^2$, an unspooled wire acts as a frictionless jet-engine. Thi
 
 ## **Conclusion: The Grand Unified Plumbing**
 The universe is a deterministic machine. Electromagnetism is boundary aerodynamics, Gravity is a Bernoulli pressure sink, the Strong Force is vortex interlocking, and the Weak Force is a broken spring. By replacing probability clouds with **Fluid Topology**, the "magic" of physics is completely replaced by rigorous classical mechanics.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
