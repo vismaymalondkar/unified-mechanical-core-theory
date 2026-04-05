@@ -36,3 +36,6 @@ The entire concept of "Dark Energy" only exists because legacy physics operates 
 * **If Space is a Superfluid:** It obeys the rigid, unyielding laws of fluid dynamics. The expansion is no longer a mystery; it is the mandatory volumetric swelling of a $10^{11} \text{ kg/m}^3$ ocean absorbing the kinetic acoustic output of $10^{80}$ vibrating subatomic knots.
 
 **Conclusion:** The universe is not magically creating empty space. The zero-friction acoustic ocean is simply absorbing the vibration of matter and physically swelling to handle the pressure.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
