@@ -54,3 +54,6 @@ When a high-amplitude, low-frequency wave (a bright red laser) hits the metal pl
 2. **One-on-One Combat:** A single electron can only be hit by one payload thread at a time. Therefore, throwing a trillion loosely wound (red) payloads at the plate just results in a bunch of slow, low-torque wobbles that fail to break the lock.
 
 **Conclusion:** You cannot shatter a microscopic gear by throwing a million wrenches at it if only one wrench fits into the housing at a time. High amplitude pushes the doorframe; high frequency picks the lock.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
