@@ -1,4 +1,4 @@
-# **Universal Plumbing Theory (v3): The Cosmic Symmetry (Fission vs. Black Holes)**
+# **Universal Plumbing Theory: The Cosmic Symmetry (Fission vs. Black Holes)**
 
 **Core Thesis:** In the UPT, the extremes of the universe are not governed by different sets of physical laws (Quantum vs. Relativistic). Nuclear Fission and Black Hole formation are the exact same thermodynamic fluid equation running in opposite directions. They demonstrate perfect mechanical symmetry based on the relationship between **Topological Binding**, **Volumetric Intake ($\zeta$)**, and **Hydrostatic Equilibrium**.
 
