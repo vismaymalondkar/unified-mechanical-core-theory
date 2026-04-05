@@ -28,7 +28,7 @@ In a frictionless superfluid with zero viscosity ($\eta = 0$), a spinning object
 
 ## **Phase 3: The Magnetic Force (Intrinsic Dipole & Relativistic Shear)**
 
-The v3 architecture naturally separates the two distinct realities of Magnetism without breaking the rules of classical fluid dynamics.
+The architecture naturally separates the two distinct realities of Magnetism without breaking the rules of classical fluid dynamics.
 
 1.  **Intrinsic Spin (The Poloidal Dipole):** Just as the tilted coils induce a swirl on the outside, the macroscopic donut shape induces fluid to plunge straight down through the central hole. This fluid shoots out the bottom, wraps around the outside, and is sucked back into the top. This "Smoke Ring" flow is a fluid dipole that drops off exactly at $1/r^3$. This perfectly explains the permanent Magnetic Dipole Moment of a stationary electron.
 2.  **Induced Field (Relativistic Wake):** When the Electric field (the swirling globe) moves linearly through the ocean at velocity $v$, the finite acoustic speed ($c$) of the fluid causes a lag. The circular swirl lines compress in the front and stretch out in the back (Doppler deformation). This asymmetrical transverse fluid shear in the wake **is** the macroscopic magnetic field created by moving charges.
