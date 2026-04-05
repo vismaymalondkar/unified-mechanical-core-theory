@@ -1,4 +1,4 @@
-# **Universal Plumbing Theory: The Mechanical Origin of the Four Forces (v3.0)**
+# **Universal Plumbing Theory: The Mechanical Origin of the Four Forces**
 
 > *"The universe does not run on probability, invisible force-carriers, or warped spacetime. It runs on classical fluid geometry and structural fatigue."*
 
