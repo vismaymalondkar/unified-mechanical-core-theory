@@ -45,25 +45,27 @@ Because no physical piece of the $r_{pipe}$ thread breaks off, there is no unspo
 Legacy physics calls this invisible energy the **Antineutrino**. In the UPT, a Neutrino is defined as the pure longitudinal pressure pulse created by the torsional recoil of the helical pipe. Because it has no spinning topological payload to generate hydrodynamic drift or mesh with other particles, it passes completely through the hydrostatic boundaries of standard matter undetected.
 
 ## **Axiom 1: The Universal Thread Constant ($L_0$)**
-In the UPT, the $r_{pipe}$ boundary layer is not infinitely divisible. It exists as a standardized quantum of length ($L_0$), equivalent to the relaxed state of a single Electron (The Unknot). Because the physical length of the fundamental thread is constant, the mass of any complex particle in the universe is strictly derived from a two-part geometric formula:
+In mainstream physics, "Mass Defect" or "Binding Energy" relies on the magical assumption that abstract energy can convert into physical gravity ($E=mc^2$). The UPT rejects this. Gravity is strictly the volumetric intake of the $r_{core}$ vacuum thread. Therefore, the only way to increase a particle's mass is to **physically lengthen the thread**. 
 
-**$Mass = \text{Integer } (N) + \text{Fraction } (\Delta m_\alpha)$**
+The fundamental thread length ($L_0$) is the relaxed, unstrained baseline of a single Electron (The Unknot). The mass of any complex particle is strictly derived from a two-part geometric measurement of its thread length:
 
-1. **The Integer (Topological Loops):** To build heavier particles, the engine must weave multiple fundamental loops ($N$) together. This accounts for the integer value of a particle's mass. (e.g., A Proton contains 1,836 standard loops).
-2. **The Fraction (Helical Torsion):** To fold those loops into complex, stable geometries (like the $3_1$ Trefoil or $6_3$ knot), the ambient pressure of the universal medium must twist the pipe, steepening the pitch angle ($\alpha$) of the helix. This stored torsional tension accounts for the fractional remainder of a particle's mass. 
+**$Mass = \text{Integer } (N) + \text{Fraction } (\Delta L_\alpha)$**
 
-**Conclusion:** What legacy physics calls "Binding Energy" or "Mass Defect" is purely the mechanical, torsional potential energy required to hold a specific topological fold in the universal fluid.
+1. **The Integer (Topological Loops):** To build heavier particles, the engine must weave multiple fundamental loops ($N$) together. (e.g., A Proton contains exactly 1,836 standard loop lengths).
+2. **The Fraction (Torsional Elongation):** To fold those loops into complex, stable geometries (like the $3_1$ Trefoil or $6_3$ knot), the ambient pressure of the universal medium must twist the pipe, steepening the pitch angle ($\alpha$) of the helix. Geometrically, twisting a helix tighter requires drawing out more wire. This physical stretching of the thread ($\Delta L_\alpha$) extends the length of the $r_{core}$ vacuum, perfectly accounting for the fractional remainder of a particle's mass. 
+
+**Conclusion:** What legacy physics calls "Stored Binding Energy" is purely the mechanical **Elongation** of the fluid thread required to hold a specific topological fold. 
 
 ## **Axiom 2: The Torsional Failure Limit (Deriving $\alpha$)**
-By strictly enforcing the conservation of thread length ($N$), we can isolate the exact Torsional Potential Energy ($\Delta m$) of any particle. 
+By strictly enforcing the conservation of thread length, we can isolate the exact Torsional Elongation ($\Delta L_\alpha$) of any particle. 
 
-* **Proton Thread Ledger:** $1836$ Loops + $0.152 \text{ m}_e$ Torsion
-* **Neutron Thread Ledger:** $1837$ Loops + $1.683 \text{ m}_e$ Torsion
+* **Proton Thread Ledger:** $1836$ Loops + $0.152 \text{ m}_e$ of Elongated Thread
+* **Neutron Thread Ledger:** $1837$ Loops + $1.683 \text{ m}_e$ of Elongated Thread
 
-Because torsional energy in a helical system scales with the square of the pitch angle ($E \propto \alpha^2$), we can derive the exact geometric strain on the $6_3$ Neutron knot. 
+Because the physical elongation of a helical wire under hydrostatic torsion scales with the square of its pitch angle ($\Delta L \propto \alpha^2$), we can derive the exact geometric strain on the $6_3$ Neutron knot. 
 $$\frac{\alpha_n}{\alpha_p} = \sqrt{\frac{1.683}{0.152}} \approx \mathbf{3.33}$$
 
-The boundary layer of the $6_3$ Neutron is wound **3.33 times steeper** than the stable $3_1$ Proton. This immense geometric strain ($1.683 \text{ m}_e$ of pure hydrostatic tension) is the mechanical cause of the harmonic fatigue ($da/dN$) that ultimately triggers Beta Decay. The Neutron is structurally over-torqued.
+The boundary layer of the $6_3$ Neutron is wound **3.33 times steeper** than the stable $3_1$ Proton. This immense geometric strain (an extra $1.683 \text{ m}_e$ of stretched vacuum core) is the mechanical cause of the harmonic fatigue ($da/dN$) that ultimately triggers Beta Decay. The Neutron is structurally over-torqued.
 
 ## **Axiom 3: The Universal Fatigue Curve (Calibrating the Medium)**
 
