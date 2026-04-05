@@ -40,3 +40,6 @@ When trillions of particles are crushed together, their individual $r_{pipe}$ bo
 
 **Conclusion:**
 The universe does not change its engineering rules based on size. Whether you are observing the microscopic magnetic poles of a single electron or the massive relativistic jets of a supermassive quasar, you are observing the exact same **Universal Pump** executing the exact same fluid mechanics. The only difference is the size of the void.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
