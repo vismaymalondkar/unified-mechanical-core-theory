@@ -43,11 +43,11 @@
 
 ---
 
-## **5. Solving Cosmology (Macroscopic Fluid Dynamics)**
-* **Historical Origin:** The Navier-Stokes Equations.
-* **The Classical Idea:** Modeling the movement of massive bodies and turbulence in a viscous fluid.
-* **The UPT Restoration:** We scaled the microscopic UPT engine up to the galactic level.
-    * **Dark Matter:** Deleted. It is a mathematical phantom. Galaxies are macroscopic torsion currents. Stars at the outer edge are not held by invisible mass; they are physically swept along by **Tier 2 Hydrodynamic Drift**.
+## **5. Solving Cosmology (Macroscopic Euler Flow)**
+* **Historical Origin:** The Euler Equations of Fluid Dynamics.
+* **The Classical Idea:** The mathematical framework for modeling the flow of inviscid (zero-viscosity) fluids. 
+* **The UPT Restoration:** We scaled the microscopic UPT engine up to the galactic level. Because the universe is a superfluid, the viscous friction of Navier-Stokes drops to zero, leaving pure Euler flow.
+    * **Dark Matter:** Deleted. It is a mathematical phantom. Galaxies are macroscopic fluid vortices. Stars at the outer edge are not held by invisible mass; they are physically swept along by the **Macroscopic Circulation** of the superfluid. They are simply surfing the massive, rotating pressure gradient of the galactic whirlpool.
     * **Black Holes:** Not infinite mathematical singularities. They are macroscopic Rankine vortex cores. The Event Horizon is strictly a **Sonic Horizon**—the exact boundary where the fluid intake velocity exceeds Mach 1 ($c$), preventing acoustic ripples (light) from swimming upstream.
 
 ---
