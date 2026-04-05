@@ -20,7 +20,7 @@
 * **The Classical Idea:** Atoms are indestructible "smoke rings" (vortices) tied in the Aether.
 * **The UPT Restoration:** Kelvin was absolutely right; he just lacked the math of modern topology. 
     * **The Standard Pipe:** Matter is a closed fluid vortex. 
-    * **Mass:** We discarded the magical intrinsic property of mass and replaced it with a strict thermodynamic ledger: **$Mass = N + \Delta m_\alpha$** (where $N$ is the integer length of the pipe, and $\Delta m_\alpha$ is the fractional potential energy of its torsional strain, $\alpha$). *Note: Legacy UPT concepts like Hydrodynamic Drag ($A_{eff}$) have been entirely deprecated.*
+    * **Mass:** We discarded the magical intrinsic property of mass and replaced it with a strict thermodynamic ledger: **$Mass = N + \Delta m_\alpha$** (where $N$ is the integer length of the pipe, and $\Delta m_\alpha$ is the fractional potential energy of its torsional strain, $\alpha$). 
     * **Charge & Magnetism:** Re-defined as the classical Volumetric Flow Rate ($Q$) and the macroscopic Torsional Wake of the fluid pump.
 
 ---
