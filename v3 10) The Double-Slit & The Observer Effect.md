@@ -43,3 +43,6 @@ By applying pure, frictionless fluid geometry to the vacuum, the UPT eliminates 
 | **The Path** | Superposition (Magically passes through both) | Deterministic (Payload passes through ONE slit) |
 | **The Pattern** | Probability Wave Collapse | Fluid Slipstream Steering (Surfing the Wake) |
 | **The Observer** | Conscious Knowledge alters reality | Induction Override (Equipment destroys the wake) |
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
