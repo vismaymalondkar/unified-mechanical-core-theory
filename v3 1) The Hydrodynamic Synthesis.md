@@ -43,11 +43,6 @@ Gravity is the absolute baseline intake of the engine, entirely separate from th
 2.  **The Radial Intake:** The particle acts as a microscopic, spherical sink, continuously sucking the ambient $10^{11} \text{ kg/m}^3$ ocean radially inward to satisfy the core vacuum.
 3.  **The Scaling:** To maintain a constant intake rate across an expanding 3D volume, the inward velocity of the fluid must drop exactly with the surface area of a sphere. This yields the flawless $1/r^2$ scaling of Newtonian gravity. 
 
-> **The UPT Bridge: Medium Density**
-> By removing abstract constants and replacing them with fluid mechanics, the Permittivity of Free Space ($\epsilon_0$) is revealed to simply be the inverse of the universal fluid's density. 
-> By taking the reciprocal of the measured real-world vacuum permittivity ($\epsilon_0 \approx 8.854 \times 10^{-12} \text{ F/m}$), we mechanically derive the absolute density of the universal ocean:
-> $$\rho = \frac{1}{\epsilon_0} \approx \mathbf{1.129 \times 10^{11} \text{ kg/m}^3}$$
-
 ---
 
 ## **Summary: The Unified Field Architecture**
