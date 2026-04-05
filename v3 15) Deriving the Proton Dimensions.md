@@ -41,5 +41,6 @@ This architecture mechanically solves one of the most glaring logical paradoxes 
 * **The Measurement:** When standard physics measures the Proton's "Charge Radius," they are not measuring a wide, open loop. They are measuring the dense, tightly packed geometric center of the braided knot. 
 
 The Proton is not "smaller" than the Electron in terms of physical volume; it is a massive, 2.27-nanometer hose coiled so violently tight that its macroscopic footprint is crushed into a tiny, dense knot.
+
 ---
 *© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
