@@ -35,12 +35,15 @@ In the 1990s, the Large Electron-Positron Collider (LEP) at CERN smashed electro
 Electrons, protons, and neutrons interact mechanically in nature without needing a giant collider, proving they are modular components of the exact same engine block.
 
 ### **A. Electron Capture (Stretching the Thread)**
-If you combine the resting mass of a Proton ($3_1$) and an Electron (Unknot), you only get $938.78 \text{ MeV}$. A Neutron ($6_3$) requires $939.56 \text{ MeV}$. The geometry is short on thread. 
-Therefore, this process cannot happen in a vacuum. Inside a dense nucleus, the extreme environmental pressure physically crushes the $3_1$ knot and the Unknot together. This ambient hydrostatic force does physical work on the system, injecting the exact $0.78 \text{ MeV}$ of energy needed to dynamically stretch the $r_{pipe}$ boundary layer, providing the extra "thread" required to weave the $6_3$ crossovers.
+If you combine the resting mass of a Proton ($3_1$) and an Electron (Unknot), you only get $938.78 \text{ MeV}$. A Neutron ($6_3$) requires $939.56 \text{ MeV}$. The geometry is short on material. 
+Therefore, this process cannot happen in a vacuum. Inside a dense nucleus, extreme environmental pressure physically crushes the $3_1$ knot and the Unknot together. This ambient hydrostatic force does physical work on the system, injecting $0.78 \text{ MeV}$ of energy to dynamically **stretch** the $r_{pipe}$ boundary layers (like a rubber band), providing the slack required to weave the $6_3$ crossovers.
 
-### **B. Beta Decay (The Antineutrino Recoil)**
-When the free neutron's harmonic fatigue causes the $6_3$ knot to snap, the over-torqued boundary layer violently recoils. It shrinks back down into the comfortable, stable **$3_1$ Trefoil** (Proton) and ejects the **Unknot** (Electron). 
-Because the geometry no longer needs the extra $0.78 \text{ MeV}$ of stretched thread, that kinetic and potential footprint is unspooled and blasted outward into the $10^{11}$ ocean as a massive, traveling acoustic shockwave. Legacy physics calls this leftover thread the **Antineutrino**.
+### **B. Beta Decay (The Pure Acoustic Recoil)**
+When the free neutron's harmonic fatigue causes the $6_3$ knot to snap, the over-torqued boundary layer violently relaxes. It recoils back into the unstrained, comfortable **$3_1$ Trefoil** (Proton) and ejects the **Unknot** (Electron). 
+Because no physical piece of the $r_{pipe}$ thread breaks off, there is no helical payload to create a Photon. Instead, the $0.78 \text{ MeV}$ of stored hydrostatic tension is instantly dumped into the $1.129 \times 10^{11} \text{ kg/m}^3$ ocean as a pure **Longitudinal Acoustic Shockwave**. 
+
+**The Identity of the Neutrino:**
+Legacy physics calls this invisible energy the **Antineutrino**. In the UPT, a Neutrino is defined as a pure pressure pulse lacking a transverse helical payload. Because it has no spinning topological "drill bit" to generate hydrodynamic drift or mesh with other particles, it passes through the hydrostatic boundaries of standard matter almost completely undetected.
 
 ---
 
