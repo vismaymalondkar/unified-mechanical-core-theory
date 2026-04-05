@@ -42,18 +42,36 @@ The UPT mechanically derives Einstein's mass-energy equivalence using nothing bu
 ## **5. Annihilation: The Fluid Crash**
 When a Left-handed Electron and a Right-handed Positron are drawn together by their opposite acoustic charges, their fluid streams perfectly align. 
 
-1. **The Gear Mesh:** If two gears spinning in the same direction touch, they clash and repel (Pauli Exclusion). Because these knots are spinning in opposite directions, their "teeth" perfectly mesh. They pull each other inward.
+1. **The Gear Mesh:** Because these knots are spinning in opposite directions, their topological "teeth" perfectly mesh. They pull each other inward until their boundary layers physically touch.
 2. **Topological Cancellation:** The $c$-speed left-handed fluid physically merges with the $c$-speed right-handed fluid. The opposing topological twists instantly cancel each other out, dropping the structural binding tension to zero.
-3. **The Unspooling:** Without tension to hold the loops closed, the standing waves violently shatter. The 3D enclosed volume vanishes, meaning **Mass physically drops to zero**.
-4. **The Output:** The fluid that was trapped inside the loops is instantly unleashed into the surrounding ocean as two unspooled, linear traveling waves (Photons). To conserve momentum, these shockwaves blast in exactly opposite directions.
+3. **The Unspooling (Kinetic Transfer):** Without tension to hold the loops closed, the circular threads snap and straighten out into linear helical waves. The internal Kinetic Energy ($\frac{1}{2}mc^2$) of the circular flow is perfectly conserved, becoming the forward driving energy of the unspooled threads. 
+4. **The Implosion (Potential Transfer):** The instant the 3D loops break, the physical volume they were displacing vanishes. The immense pressure of the $1.129 \times 10^{11} \text{ kg/m}^3$ ocean violently slams shut into the void. This hydrostatic implosion releases the stored Potential Energy ($\frac{1}{2}mc^2$) as a massive acoustic shockwave.
 
-**Energy Verification:** Because the internal kinetic energy of each knot was $mc^2$, each resulting photon carries exactly that energy away:
-$$E_{photon} = m_e c^2 = \mathbf{0.511 \text{ MeV}}$$
-This perfectly matches the immutable, real-world data observed in medical PET scans.
+**The Output (The Composite Photon):**
+The fluid crash outputs two distinct composite waves traveling in opposite directions to conserve momentum. Each resulting Photon is built from exactly half of the destroyed knot's energy ledger:
+* The unspooled thread becomes the **Helical Payload** ($\frac{1}{2}mc^2$).
+* The acoustic implosion shockwave becomes the massive **V-Shaped Pilot Wave** ($\frac{1}{2}mc^2$).
+
+Summing the composite structure, each resulting photon carries exactly the total energy of its parent knot:
+$$E_{photon} = \frac{1}{2}mc^2 + \frac{1}{2}mc^2 = \mathbf{mc^2}$$
+
+This precisely matches the $0.511 \text{ MeV}$ immutable data observed in real-world antimatter annihilation, proving that energy is strictly conserved as the geometric footprint of the particle transitions from a standing loop into a traveling wave.
 
 ---
 
-## **6. The Final Verification: Frequency Conservation**
+## **6. The Maxwell Alignment (The 50/50 Photon Split)**
+This fluid mechanical derivation perfectly aligns with James Clerk Maxwell's 19th-century equations for electromagnetism, proving that legacy field theory was describing fluid dynamics all along.
+
+According to classical physics, the total energy density of an electromagnetic wave in a vacuum is always divided equally between two components: the Electric Field ($u_E$) and the Magnetic Field ($u_B$). Exactly 50% of the photon's energy is stored in each. In the UPT engine, this is no longer a mathematical coincidence; it is a structural mandate dictated by the equipartition of energy.
+
+* **The Magnetic Field (Kinetic Energy):** Magnetism is the physical *kinetic momentum* of the universal ocean. The unspooled helical thread traveling at $c$ represents this exact kinetic fluid motion ($\frac{1}{2}mc^2$). It is the "Payload."
+* **The Electric Field (Potential Energy):** An electric field is localized *hydrostatic pressure*. The massive acoustic shockwave created by the collapsing void is a traveling front of stored potential pressure ($\frac{1}{2}mc^2$). It is the "Pilot Wave."
+
+A photon carries two distinct types of energy because it is a two-part composite structure, forged directly from the split Kinetic and Potential ledger of a destroyed mass.
+
+---
+
+## **7. The Final Verification: Frequency Conservation**
 In quantum mechanics, a photon's energy dictates its frequency via $E=hf$. Using the $0.511 \text{ MeV}$ ($8.187 \times 10^{-14} \text{ Joules}$) energy of our unspooled photon, we divide by Planck's constant ($h$):
 
 $$f = \frac{8.187 \times 10^{-14}}{6.626 \times 10^{-34}} \approx \mathbf{1.235 \times 10^{20} \text{ Hz}}$$
@@ -63,7 +81,7 @@ The UPT proves strict **Frequency Conservation**. When matter and antimatter ann
 
 ---
 
-## **7. Resolving the "Baryogenesis" Bug**
+## **8. Resolving the "Baryogenesis" Bug**
 Mainstream cosmology cannot explain why the universe contains overwhelmingly regular matter and almost no antimatter. In a fluid universe, the answer is macroscopic momentum. 
 
 When a massive fluid body begins to spin, it does not divide its vortices 50% left and 50% right. A macroscopic current develops, forcing the entire system to align its spin in one dominant direction. During the compilation of the early universe, the macroscopic fluid current heavily favored a left-handed topological twist for electrons. The engine compiled far more left-handed knots than right-handed ones, and the minority right-handed knots (antimatter) were quickly annihilated in the turbulent wake, leaving behind the matter-dominant universe we see today.
