@@ -41,3 +41,6 @@ Because the proton's wire has a strict, incompressible physical thickness ($\app
 
 ## **Conclusion**
 The Proton does not have an "anomalous" magnetic moment. It has a precisely engineered **$2.79$** magnetic moment because it is a 3-loop fluid coil (yielding a theoretical baseline of 3.0), minus the topological inefficiency caused by the wire's physical thickness at its 3 mandatory geometric crossovers. It is textbook mechanical engineering at the femtometer scale.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
