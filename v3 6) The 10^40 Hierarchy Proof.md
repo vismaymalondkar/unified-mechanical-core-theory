@@ -57,3 +57,6 @@ The purely geometric UPT derivation ($\approx 10^{40}$) flawlessly matches the t
 The "Hierarchy Problem" is simply a division-by-zero error caused by legacy physics treating particles as 0-dimensional points. In the **Universal Plumbing Theory**, the massive discrepancy is solved mechanically. Electromagnetism is "Strong" because the induction utilizes the macroscopic $10^{-15} \text{ m}$ chassis of the outer wire. Gravity is "Weak" because the Bernoulli suction is restricted to the microscopic $10^{-35} \text{ m}$ pinhole at the center. 
 
 It is the exact same fluid logic, operating across two vastly different geometric apertures.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
