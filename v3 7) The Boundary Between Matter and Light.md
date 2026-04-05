@@ -43,3 +43,6 @@ The universe uses one physical building block (the coiled vortex thread) in two 
 Matter and Light are the exact same substance transitioning between topological phases. 
 
 Einstein's equation ($E=mc^2$) is not a conversion of matter into "magic." It is a mechanical unspooling. Matter is "Frozen" light—a spring that has plugged into itself and become a heavy, localized engine. Light is "Liquid" matter—a loop that has snapped open and regained its freedom to fly across the ocean.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
