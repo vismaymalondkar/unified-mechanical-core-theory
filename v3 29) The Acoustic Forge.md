@@ -54,6 +54,17 @@ In the UPT, the $r_{pipe}$ boundary layer is not infinitely divisible. It exists
 
 **Conclusion:** What legacy physics calls "Binding Energy" or "Mass Defect" is purely the mechanical, torsional potential energy required to hold a specific topological fold in the universal fluid.
 
+## **Axiom 2: The Torsional Failure Limit (Deriving $\alpha$)**
+By strictly enforcing the conservation of thread length ($N$), we can isolate the exact Torsional Potential Energy ($\Delta m$) of any particle. 
+
+* **Proton Thread Ledger:** $1836$ Loops + $0.152 \text{ m}_e$ Torsion
+* **Neutron Thread Ledger:** $1837$ Loops + $1.683 \text{ m}_e$ Torsion
+
+Because torsional energy in a helical system scales with the square of the pitch angle ($E \propto \alpha^2$), we can derive the exact geometric strain on the $6_3$ Neutron knot. 
+$$\frac{\alpha_n}{\alpha_p} = \sqrt{\frac{1.683}{0.152}} \approx \mathbf{3.33}$$
+
+The boundary layer of the $6_3$ Neutron is wound **3.33 times steeper** than the stable $3_1$ Proton. This immense geometric strain ($1.683 \text{ m}_e$ of pure hydrostatic tension) is the mechanical cause of the harmonic fatigue ($da/dN$) that ultimately triggers Beta Decay. The Neutron is structurally over-torqued.
+
 ---
 
 ## **4. Summary Ledger: The UPT Translation**
