@@ -52,3 +52,6 @@ The "Singularity" is actually a physical, spinning **Macroscopic Rankine Core**.
 
 **Conclusion:**
 A Black Hole is not a tear in the fabric of reality; it is the universe’s most extreme **Fluid Recycler**. It uses immense flow gradients to strip matter down to its base acoustic components, merging those components into a single, highly efficient macroscopic intake engine.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
