@@ -73,3 +73,6 @@ When the $6_3$ knot fails, the wire snaps at exactly one high-tension crossover.
 
 ## **Conclusion**
 The Neutron is not a fundamentally "neutral" particle; it is a perfectly balanced, 6-valved fluid engine that cancels its own exterior swirl. Its anomalous properties, its exact mass, and its radioactive decay are not quantum mysteries; they are the strict, unavoidable mechanical consequences of a $6_3$ topological wire snapping under tension.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
