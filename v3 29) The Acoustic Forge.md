@@ -122,6 +122,16 @@ The thickness of the wire is defined as the exact radial distance where the Rank
 
 When hyper-torsion elongates the thread, the pipe does not thin out; it acts as an open system, continuously recruiting and organizing more ambient fluid from the $10^{11} \text{ kg/m}^3$ ocean into its Mach 1 streamline to maintain its exact structural thickness. The cross-section is preserved, the $137:1$ gear ratio remains locked, and the mass strictly increases.
 
+### **Addendum 1.B: Calculating the Unstretched Baseline ($L_{straight}$)**
+To find the exact physical length of the fundamental thread before it is subjected to any universal pressure (The Photon Baseline), we must strip the Topological Pre-Load away from the resting mass of the Electron ($0.511 \text{ MeV}$). 
+
+Because the physical elongation of a fluid streamline scales with the square of its pitch angle ($\Delta L = k \cdot \alpha^2$), the Pre-Load of the Electron is defined as:
+$$\Delta L_{preload} = k \times \left(\frac{1}{137}\right)^2 \approx k \times 0.000053$$
+
+Because the Electron (The $0_1$ Unknot) has zero geometric crossings to clear, its $\alpha$ is incredibly shallow. Squaring this shallow angle results in an infinitesimally small elongation multiplier ($1/18769$). 
+
+Therefore, when we extract the raw straight thread ($L_{straight} = 0.511 \text{ MeV} - \Delta L_{preload}$), we find that the Electron is roughly $99.99\%$ raw, unstrained track, and less than $0.01\%$ structural torsion. This microscopic strain profile is the mechanical reason the Electron is the most stable and easily forged particle in the universal ocean.
+
 ---
 
 ## **4. Summary Ledger: The UPT Translation**
