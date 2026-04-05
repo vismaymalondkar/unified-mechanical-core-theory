@@ -85,3 +85,6 @@ The UPT proves strict **Frequency Conservation**. When matter and antimatter ann
 Mainstream cosmology cannot explain why the universe contains overwhelmingly regular matter and almost no antimatter. In a fluid universe, the answer is macroscopic momentum. 
 
 When a massive fluid body begins to spin, it does not divide its vortices 50% left and 50% right. A macroscopic current develops, forcing the entire system to align its spin in one dominant direction. During the compilation of the early universe, the macroscopic fluid current heavily favored a left-handed topological twist for electrons. The engine compiled far more left-handed knots than right-handed ones, and the minority right-handed knots (antimatter) were quickly annihilated in the turbulent wake, leaving behind the matter-dominant universe we see today.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
