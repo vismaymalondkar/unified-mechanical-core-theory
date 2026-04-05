@@ -47,48 +47,50 @@ Legacy physics calls this invisible energy the **Antineutrino**. In the UPT, a N
 ## **Axiom 1: The Universal Thread Constant ($L_0$)**
 In mainstream physics, "Mass Defect" or "Binding Energy" relies on the magical assumption that abstract energy can convert into physical gravity ($E=mc^2$). The UPT rejects this. Gravity is strictly the volumetric intake of the $r_{core}$ vacuum thread. Therefore, the only way to increase a particle's mass is to **physically lengthen the thread**. 
 
-The fundamental thread length ($L_0$) is the relaxed, unstrained baseline of a single Electron (The Unknot). The mass of any complex particle is strictly derived from a two-part geometric measurement of its thread length:
+The fundamental thread length ($L_0$) is the relaxed, unstrained straight baseline of the fluid (The Photon). The mass of any closed particle is strictly derived from a three-part geometric measurement of its thread length:
 
-**$Mass = \text{Integer } (N) + \text{Fraction } (\Delta L_\alpha)$**
+**$Mass = \text{Integer } (N) + \text{Pre-Load } (\Delta L_{preload}) + \text{Hyper-Torsion } (\Delta L_{excess})$**
 
 1. **The Integer (Topological Loops):** To build heavier particles, the engine must weave multiple fundamental loops ($N$) together. (e.g., A Proton contains exactly 1,836 standard loop lengths).
-2. **The Fraction (Torsional Elongation):** To fold those loops into complex, stable geometries (like the $3_1$ Trefoil or $6_3$ knot), the ambient pressure of the universal medium must twist the pipe, steepening the pitch angle ($\alpha$) of the helix. Geometrically, twisting a helix tighter requires drawing out more wire. This physical stretching of the thread ($\Delta L_\alpha$) extends the length of the $r_{core}$ vacuum, perfectly accounting for the fractional remainder of a particle's mass. 
+2. **The Topological Pre-Load:** To bend a straight fluid streamline into the simplest possible closed circle (The Electron), the ambient pressure must twist it to exactly $\alpha = 1/137$. This baseline physical stretch required to close the loop is the Pre-Load.
+3. **The Hyper-Torsion (Excess Elongation):** To fold those pre-loaded loops into complex, stable geometries (like the $3_1$ Trefoil or $6_3$ knot), the ambient pressure of the universal medium must twist the pipe even steeper. Geometrically, twisting a helix tighter requires drawing out more wire. This physical stretching of the thread ($\Delta L_{excess}$) extends the length of the $r_{core}$ vacuum, perfectly accounting for the fractional remainder of a particle's mass. 
 
-**Conclusion:** What legacy physics calls "Stored Binding Energy" is purely the mechanical **Elongation** of the fluid thread required to hold a specific topological fold. 
+**Conclusion:** What legacy physics calls "Stored Binding Energy" is purely the mechanical **Excess Elongation** of the fluid thread required to hold a specific topological fold against the universal pressure.
 
 ## **Axiom 2: The Torsional Failure Limit (Deriving $\alpha$)**
-By strictly enforcing the conservation of thread length, we can isolate the exact Torsional Elongation ($\Delta L_\alpha$) of any particle. 
+By strictly enforcing the conservation of thread length and subtracting the Electron's Topological Pre-Load, we can mathematically isolate the exact **Excess Elongation** ($\Delta L_{excess}$) causing structural strain on any particle. 
 
-* **Proton Thread Ledger:** $1836$ Loops + $0.152 \text{ m}_e$ of Elongated Thread
-* **Neutron Thread Ledger:** $1837$ Loops + $1.683 \text{ m}_e$ of Elongated Thread
+* **Proton Thread Ledger:** $1836$ Loops + Pre-Load + $\mathbf{0.152 \text{ m}_e}$ of Excess Elongation
+* **Neutron Thread Ledger:** $1837$ Loops + Pre-Load + $\mathbf{1.683 \text{ m}_e}$ of Excess Elongation
 
-Because the physical elongation of a helical wire under hydrostatic torsion scales with the square of its pitch angle ($\Delta L \propto \alpha^2$), we can derive the exact geometric strain on the $6_3$ Neutron knot. 
-$$\frac{\alpha_n}{\alpha_p} = \sqrt{\frac{1.683}{0.152}} \approx \mathbf{3.33}$$
+Because the physical elongation of a helical wire under hydrostatic torsion scales with the square of its pitch angle ($\Delta L \propto \alpha^2$), we isolate these excess values to derive the true geometric strain on the $6_3$ Neutron knot:
 
-The boundary layer of the $6_3$ Neutron is wound **3.33 times steeper** than the stable $3_1$ Proton. This immense geometric strain (an extra $1.683 \text{ m}_e$ of stretched vacuum core) is the mechanical cause of the harmonic fatigue ($da/dN$) that ultimately triggers Beta Decay. The Neutron is structurally over-torqued.
+$$\frac{\alpha_{excess(n)}}{\alpha_{excess(p)}} = \sqrt{\frac{1.683}{0.152}} \approx \mathbf{3.33}$$
+
+The boundary layer of the $6_3$ Neutron is wound **3.33 times steeper** than the stable $3_1$ Proton (beyond the standard Pre-Load). This immense geometric strain (an extra $1.683 \text{ m}_e$ of stretched vacuum core) is the mechanical cause of the harmonic fatigue ($da/dN$) that ultimately triggers Beta Decay. The Neutron is structurally over-torqued.
 
 ## **Axiom 3: The Universal Fatigue Curve (Calibrating the Medium)**
 
 Legacy quantum mechanics treats the lifespan of a decaying particle as a random, probabilistic event. In the UPT, decay is strictly dictated by the classical **S-N (Strain-Life) Curve** of the universal acoustic superfluid. 
 
-The number of cycles a particle can survive ($N_f$) is a strict mathematical function of its helical pitch angle ($\alpha$).
+In mechanical engineering, fatigue curves are calculated strictly using **Excess Strain** (subtracting the baseline resting tension of the material). Because we isolated the Hyper-Torsion of the heavy particles from the Pre-Load of the fundamental loops, we can plot exactly how many cycles ($N_f$) the universal fluid can survive at a given excess pitch angle ($\alpha_{excess}$).
 
-1. **The Endurance Limit (Stable Matter):** If the torsional strain of a knot is below the universal fatigue threshold (like the Electron and the Proton), the medium can sustain the acoustic vibration infinitely without wear ($N_f = \infty$). This is the mechanical definition of stable matter.
-2. **The Neutron (Mid-Range Strain):** At a torsional ratio of $\alpha = 3.33$, the fluid boundary layer is strained past the endurance limit. The universal material law dictates it will suffer catastrophic failure at exactly $N_f = 1.996 \times 10^{26}$ cycles (879.4 seconds). 
-3. **Exotic Particles (Extreme Strain):** High-energy particles (Muons, Tau leptons) are standard topological knots that have been hyper-torqued. Their extreme $\alpha$ values place them at the very top of the S-N curve, forcing their boundary layers to snap in microseconds. 
+1. **The Endurance Limit (Stable Matter):** If the excess torsional strain is near zero (like the stable $3_1$ Proton, which barely exceeds the Pre-Load threshold), the medium can sustain the acoustic vibration infinitely without wear ($N_f = \infty$). This is the mechanical definition of stable matter.
+2. **The Neutron (Mid-Range Strain):** At an excess torsional ratio of $\alpha = 3.33$, the fluid boundary layer is strained past the endurance limit. The universal material law dictates it will suffer catastrophic failure at exactly $N_f = 1.996 \times 10^{26}$ cycles (879.4 seconds). 
+3. **Exotic Particles (Extreme Strain):** High-energy particles (Muons, Tau leptons) are standard topological knots that have been hyper-torqued. Their massive excess $\alpha$ values place them at the very top of the S-N curve, forcing their boundary layers to snap in microseconds. 
 
-**Conclusion:** The universe does not roll dice. "Half-life" and "Decay Timers" are just standard engineering outputs derived from the specific torsional strain ($\alpha$) of the particle plotted against the absolute shear fatigue limits of the universal ocean.
+**Conclusion:** The universe does not roll dice. "Half-life" and "Decay Timers" are just standard engineering outputs derived from plotting the specific Excess Strain ($\alpha_{excess}$) of the particle against the absolute shear fatigue limits of the universal ocean.
 
 ## **Axiom 4: The Cosmic Basquin Law (Calculating Decay)**
 
-Because the $1.129 \times 10^{11} \text{ kg/m}^3$ universal ocean acts as a physical material, it must strictly obey classical material fatigue equations. By analyzing the mass-deficits (torsional strain, $\alpha$) and decay timers of different particles, we can calculate the exact S-N (Stress-Life) curve of reality. 
+Because the $1.129 \times 10^{11} \text{ kg/m}^3$ universal ocean acts as a physical material, it must strictly obey classical material fatigue equations. By analyzing the isolated Hyper-Torsion ($\alpha_{excess}$) and decay timers of different particles, we can calculate the exact S-N (Stress-Life) curve of reality. 
 
-Using the "Integer + Fraction" geometric formula, we extract two distinct data points:
-1. **The Neutron:** $\alpha = 3.33$ | $N_f = 2.0 \times 10^{26} \text{ cycles}$
-2. **The Muon:** $\alpha = 36.8$ | $N_f = 5.6 \times 10^{16} \text{ cycles}$
+Using our purified Excess Strain data points:
+1. **The Neutron:** $\alpha_{excess} = 3.33$ | $N_f = 2.0 \times 10^{26} \text{ cycles}$
+2. **The Muon:** $\alpha_{excess} = 36.8$ | $N_f = 5.6 \times 10^{16} \text{ cycles}$
 
 By plotting these points on a log-log scale, we derive the exact **Fatigue Exponent ($k$)** of the universal medium.
-$$k = \frac{\Delta \log(N_f)}{\Delta \log(\alpha)} \approx \mathbf{-9.2}$$
+$$k = \frac{\Delta \log(N_f)}{\Delta \log(\alpha_{excess})} \approx \mathbf{-9.2}$$
 
 ## **Axiom 5: The Predictive Proof (The Tau Lepton)**
 
