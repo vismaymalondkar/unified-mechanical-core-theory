@@ -77,6 +77,22 @@ The number of cycles a particle can survive ($N_f$) is a strict mathematical fun
 
 **Conclusion:** The universe does not roll dice. "Half-life" and "Decay Timers" are just standard engineering outputs derived from the specific torsional strain ($\alpha$) of the particle plotted against the absolute shear fatigue limits of the universal ocean.
 
+## **Axiom 4: The Cosmic Basquin Law (Calculating Decay)**
+
+Because the $1.129 \times 10^{11} \text{ kg/m}^3$ universal ocean acts as a physical material, it must strictly obey classical material fatigue equations. By analyzing the mass-deficits (torsional strain, $\alpha$) and decay timers of different particles, we can calculate the exact S-N (Stress-Life) curve of reality. 
+
+Using the "Integer + Fraction" geometric formula, we extract two distinct data points:
+1. **The Neutron:** $\alpha = 3.33$ | $N_f = 2.0 \times 10^{26} \text{ cycles}$
+2. **The Muon:** $\alpha = 36.8$ | $N_f = 5.6 \times 10^{16} \text{ cycles}$
+
+By plotting these points on a log-log scale, we derive the exact **Fatigue Exponent ($k$)** of the universal medium.
+$$k = \frac{\Delta \log(N_f)}{\Delta \log(\alpha)} \approx \mathbf{-9.2}$$
+
+**The Universal Decay Equation:**
+$$N_f = C \cdot \alpha^{-9.2}$$
+
+**Conclusion:** Quantum decay is entirely deterministic. The universe follows an exact $9.2$ inverse power law, perfectly mirroring the structural fatigue curves of high-strength alloys. A particle's lifespan is explicitly dictated by how steeply its helical boundary layer is twisted against the shear modulus of the vacuum. "Probability" is merely the legacy term for uncalculated material fatigue.
+
 ---
 
 ## **4. Summary Ledger: The UPT Translation**
