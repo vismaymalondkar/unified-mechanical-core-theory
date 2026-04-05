@@ -55,3 +55,6 @@ By proving that Electricity and Gravity use the exact same fluid equation, the U
 * **Gravity:** Uses the microscopic, Planck-scale core of the thread to slowly sip fluid inward ($Q_g$). 
 
 Gravity isn't a different kind of magic. It is simply a vastly smaller hydrodynamic displacement operating in the exact same ocean.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
