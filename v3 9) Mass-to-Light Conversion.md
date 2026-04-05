@@ -50,3 +50,6 @@ By mapping standard wave mechanics to fluid geometry, the UPT completely decodes
 * **Proton Snap:** Unspooling the 1,836x longer proton wire yields an incredibly tightly-coiled, high-tension spring (A $\sim 938 \text{ MeV}$ Gamma Ray). Both springs are made of the exact same $10^{-15} \text{ m}$ thick wire; the proton's photon is just wound 1,836 times tighter to fit the extra length.
 
 **Conclusion:** Energy and Mass are the exact same physical thing: **The Wire**. Mass is the wire plugged into a heavy, armored loop. Energy is the exact same wire unspooled into a flying, jet-propelled spring. "Annihilation" is just the release of the plug.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
