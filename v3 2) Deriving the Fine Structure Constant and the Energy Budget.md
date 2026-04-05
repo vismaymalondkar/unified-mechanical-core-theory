@@ -65,3 +65,6 @@ The Fine Structure Constant simultaneously defines the **Pitch Angle** ($\sin^2\
 In standard Quantum Electrodynamics (QED), treating the electron as a 0-Dimensional point particle causes its self-energy to explode to infinity, requiring mathematical tricks (renormalization) to fix. 
 
 The Toroidal Helix solves this completely by providing a physical structure and a strict spatial energy ledger. To survive the crushing $10^{11} \text{ kg/m}^3$ density of the frictionless vacuum, the particle dedicates over 99% of its $mc^2$ kinetic budget to its own magnetic integrity and internal armor. It can only afford to leak a 1/137th whisper of its momentum outward to interact with other particles. That tiny fractional whisper of sideways flow is what we call Chemistry.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
