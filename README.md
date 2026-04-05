@@ -37,11 +37,20 @@ Gravity and Electromagnetism are not separate forces; they are the dual outputs 
 * **Gravity (The Static Pressure Drop):** The internal $c$-velocity rotation of the knot creates a localized Bernoulli pressure drop. Gravity is simply the classical advection of the surrounding high-pressure ocean rushing inward to fill the void ($Q = \zeta m$). 
 * **Electromagnetism (The Flow & Wake):** What legacy physics calls "Charge" is simply the **Volumetric Flow Rate ($Q$)** of the pump's intake and exhaust. "Magnetism" is the physical **Kinetic Momentum** (the torsional wake) left in the ocean as the pump spins or moves. You cannot have Mass without EM—they are two sides of the exact same fluid disturbance.
 
-### **3. Quantum Decay (The Basquin Power Law)**
+### **3. The Nature of Light (The Composite Wave)**
+Legacy physics relies on the paradox of "Wave-Particle Duality" to explain light. The UPT proves this duality is an illusion. A photon is not a magical shape-shifting point; it is the hydrodynamic wreckage of a destroyed particle. 
+
+When a fluid knot snaps (Annihilation), its rotational momentum unspools into a **Two-Part Composite Wave**:
+* **The Pilot Wave (Longitudinal):** The violent snapping of the knot creates a massive, diffuse acoustic shockwave in the medium that propagates at exactly Mach 1 ($c$). 
+* **The Payload (Transverse):** The uncoiled helical thread of the destroyed pipe. It retains its intense angular momentum, spiraling forward like a bullet while surfing strictly inside the low-pressure pocket of the pilot wave. 
+
+**The Double-Slit Resolution:** The broad Pilot Wave passes through *both* slits, creating a classical fluid interference pattern on the other side. The dense Payload passes through only *one* slit, but surfs the resulting fluid currents to land strictly on the interference peaks. It hits like a particle, but routes like a wave. Duality is a myth; there is only a payload riding a wake.
+
+### **4. Quantum Decay (The Basquin Power Law)**
 God does not play dice. Particle decay is entirely deterministic. Treating the vacuum as a physical material, quantum decay perfectly follows the classical S-N (Fatigue) Curve. The structural lifespan of any particle ($N_f$) is strictly dictated by its torsional pitch angle ($\alpha$) according to the Universal Fatigue Equation: 
 **$N_f \propto \alpha^{-9.2}$**
 
-### **4. Time Dilation (Torsional Relaxation)**
+### **5. Time Dilation (Torsional Relaxation)**
 "Time" is just the structural fatigue rate of the fluid spring. Time Dilation is simply the physical unwinding of that spring.
 * **Velocity** physically stretches the helical boundary layer longitudinally.
 * **Gravity** (dropping the ambient Bernoulli pressure) physically loosens the hydrostatic vise holding the boundary layer. 
