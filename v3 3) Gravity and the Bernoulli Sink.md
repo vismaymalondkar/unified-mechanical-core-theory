@@ -66,3 +66,6 @@ If we map Newton's Gravitational Constant ($G$) to the Bernoulli intake of the f
 
 ## **Conclusion**
 Gravity is buoyancy running in reverse. The Earth does not "pull" the apple down. Instead, the Earth’s trillions of vortex wires create a massive pressure void, and the raw, omnidirectional hydrostatic weight of the cosmos ($10^{11} \text{ kg/m}^3$ density) pushes the apple downward to fill that void. Gravity is not an invisible tether; it is the **Universal Atmospheric Crush**.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
