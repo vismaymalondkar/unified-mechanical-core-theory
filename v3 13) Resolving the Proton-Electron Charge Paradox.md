@@ -36,3 +36,6 @@ In the UPT, Charge Polarity (+ vs -) is not a magical property; it is simply **T
 
 ## **Conclusion**
 Mass and Charge are fully decoupled variables. You can make a hose as incredibly long and tangled as you want (increasing its Mass), but if the thickness of the hose and the angle of its coils remain exactly the same, the aerodynamic slipstream it generates (Charge) will never change.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
