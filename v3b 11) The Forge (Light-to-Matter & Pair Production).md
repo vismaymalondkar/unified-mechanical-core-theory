@@ -47,3 +47,6 @@ If a single photon is below the 430 MeV ceiling, it can still be forged into mat
 
 ## **Conclusion**
 You cannot create matter by turning up the "Brightness" of a laser beam. Matter is strictly forged by the geometric tension of the photon's spring. Mass is not distinct from light; it is merely a photon that became too tightly wound to exist, jamming its own hardware and biting its own tail to survive.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
