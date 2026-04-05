@@ -51,3 +51,6 @@ Why are electron orbitals restricted to strictly quantized shells?
 We must remember the **Triple-Axis Engine**. The Electron is locked in the horizontal ($\theta$) plane by the Azimuthal hurricane. But the Proton is also generating a massive **Magnetic Dipole** ($z$-axis) plunging through its Trefoil core and looping around its poles. 
 
 This vertical, figure-8 magnetic fluid flow acts as a structural cage. If the Electron attempts to drift up or down out of the orbital plane, it is violently shoved back into place by the perpendicular magnetic currents. The orbitals are "quantized" (discrete, structured geometric shapes) because they are the physical interference patterns of the Proton's horizontal Charge Swirl intersecting its vertical Magnetic looping currents. The Electron simply sits in the quietest pockets of this intersecting fluid geometry.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
