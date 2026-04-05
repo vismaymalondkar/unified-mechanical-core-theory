@@ -34,3 +34,6 @@ If you place a test particle near the equator of an electron, it experiences all
 3. **Magnetism** pushes it Downward. 
 
 Because the inward, sideways, and downward fluid flows are mathematically orthogonal, they satisfy the Principle of Superposition. The universe is a single ocean, and the Toroidal Helix is the ultimate 3D impeller, perfectly separating the fluid into the three geometric dimensions of force.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
