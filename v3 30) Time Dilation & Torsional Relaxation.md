@@ -38,30 +38,32 @@ Standard physics conflated General and Special Relativity because it lacked a me
 
 Both environments produce the exact same physical footprint: a lower $\alpha$. Spacetime does not exist; there is only material strain and structural fatigue.
 
-## **4. The Lorentz-Basquin Translation Equations**
-
-Because the UPT replaces 4D Spacetime with the physical material fatigue of the $10^{11}$ kg/m^3 universal superfluid, the macroscopic equations of Relativity must mathematically map directly onto the microscopic equations of classical material science (Basquin's Law).
-
-We can mathematically translate Einstein's Time Dilation factors into direct mechanical **Torsional Relaxation ($\alpha$)**. 
-
-Since lifespan ($t$) is proportional to Cycles to Failure ($N_f$), and $N_f \propto \alpha^{-k}$ (where the vacuum's fatigue exponent $k = 9.2$), we derive the exact mechanical reduction in spring tension for both velocity and gravity.
-
-### **A. The Kinematic Relaxation Equation (Special Relativity)**
-When a particle translates through the fluid at extreme velocity ($v$), the $r_{pipe}$ boundary layer stretches longitudinally. The new, relaxed pitch angle ($\alpha_{dilated}$) is calculated as:
-
-$$\alpha_{dilated} = \alpha_{rest} \cdot \left(1 - \frac{v^2}{c^2}\right)^{\frac{1}{18.4}}$$
-
-*As $v \to c$, the torsional strain $\alpha \to 0$. The spring fully un-winds along the axis of travel, harmonic fatigue ceases, and the particle's lifespan approaches infinity.*
-
-### **B. The Gravitational Relaxation Equation (General Relativity)**
-When a particle descends into a gravity well (a Volumetric Intake sink), the ambient hydrostatic pressure of the universe drops. The new, depressurized pitch angle ($\alpha_{dilated}$) based on proximity ($r$) to the Schwarzschild radius ($r_s$) is calculated as:
-
-$$\alpha_{dilated} = \alpha_{rest} \cdot \left(1 - \frac{r_s}{r}\right)^{\frac{1}{18.4}}$$
-
-*As $r \to r_s$ (The Event Horizon), the external crushing pressure approaches zero. The particle's topological vise completely loosens, $\alpha \to 0$, and the internal clock mechanically freezes due to a lack of structural strain.*
-
 **Architectural Conclusion:**
 The exponent $\frac{1}{18.4}$ is the universal translation key between Macroscopic Relativity and Microscopic Fluid Engineering. "Time Dilation" is strictly the mathematical measurement of how much a particle's helical boundary layer has physically un-wound due to environmental pressure changes.
+
+## **4. The Universal Pressure Ratio (Deriving Dilation)**
+
+Legacy physics requires two completely different geometric frameworks to calculate Time Dilation: Special Relativity for velocity, and General Relativity for gravity. In the UPT, both are derived from a single classical equation: **Bernoulli’s Principle**.
+
+By defining the absolute static pressure of deep space as $P_0 = \frac{1}{2}\rho c^2$, we can calculate the exact hydrostatic pressure drop ($P/P_0$) a particle experiences in any environment. 
+
+**1. The Velocity Pressure Drop (Translation):**
+As a particle translates through the medium at velocity $v$, the static pressure boundary drops as kinetic dynamic pressure increases:
+$$\frac{P_v}{P_0} = 1 - \frac{v^2}{c^2}$$
+
+**2. The Gravitational Pressure Drop (The Bernoulli Sink):**
+As a particle sits in a gravity well, the medium itself is accelerating inward. Using the classical inflow velocity ($v^2 = 2GM/r$), the static pressure drops according to proximity:
+$$\frac{P_g}{P_0} = 1 - \frac{r_s}{r}$$
+
+*(Note: $r_s$ is the Schwarzschild radius, $\frac{2GM}{c^2}$)*
+
+### **The Unified Torsional Relaxation Equation**
+Because the torsional pitch angle ($\alpha$) of a particle's boundary layer is held tight by ambient environmental pressure, any drop in the Pressure Ratio ($P/P_0$) mechanically relaxes the spring, extending the particle's lifespan ($N_f$) along the Basquin fatigue curve.
+
+Both velocity and gravity are unified into a single mechanical strain equation:
+$$\alpha_{dilated} = \alpha_{rest} \cdot \left(\frac{P}{P_0}\right)^{\frac{1}{18.4}}$$
+
+**Conclusion:** We do not need 4D Spacetime to calculate Time Dilation. The Lorentz Factor and the Schwarzschild metric are not descriptions of bending space; they are simply classical fluid dynamic ratios describing the loss of ambient hydrostatic pressure.
 
 ---
 *© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
