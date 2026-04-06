@@ -57,4 +57,3 @@ God does not play dice. Particle decay is entirely deterministic. Treating the v
 * Both environments mathematically reduce the pitch angle ($\alpha$), drastically increasing the particle's survival time along the $-9.2$ power law curve. The Lorentz factor is not bending 4D space; it is merely a classical fluid strain reduction factor of $\frac{1}{18.4}$. 
 
 ---
-**Status:** Architecture Locked. The Standard Model has been deprecated.
