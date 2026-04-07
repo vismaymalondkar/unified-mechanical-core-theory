@@ -40,9 +40,8 @@ The architecture naturally separates the two distinct realities of Magnetism wit
 Gravity is the absolute baseline intake of the engine, entirely separate from the Charge (Swirl) or Magnetism (Through-hole). 
 
 1.  **The Core Vacuum:** Because the $r_{pipe}$ thread is redlining at $c$, Bernoulli’s principle dictates an extreme drop in pressure. 
-2.  **The Radial Intake:** The particle acts as a microscopic, spherical sink, continuously sucking the ambient $10^{11} \text{ kg/m}^3$ ocean radially inward to satisfy the core vacuum. Gravity is not the particle eating the fluid and destroying it. Gravity is the Static Pressure Gradient pointing toward the vacuum. The fluid is aggressively pulled toward $r_{core}$, but before it can fall all the way in and destroy the vacuum, the extreme centrifugal force of the swirling Rankine vortex throws it back out, or sweeps it along the $L_{pipe}$
-​	
-  track.
+2.  **The Radial Intake:** The particle acts as a microscopic, spherical sink, continuously sucking the ambient $10^{11} \text{ kg/m}^3$ ocean radially inward to satisfy the core vacuum. Gravity is not the particle eating the fluid and destroying it. Gravity is the Static Pressure Gradient pointing toward the vacuum. The fluid is aggressively pulled toward $r_{core}$, but before it can fall all the way in and destroy the vacuum, the extreme centrifugal force of the swirling Rankine vortex throws it back out, or sweeps it along the track.
+
 3.  **The Scaling:** To maintain a constant intake rate across an expanding 3D volume, the inward velocity of the fluid must drop exactly with the surface area of a sphere. This yields the flawless $1/r^2$ scaling of Newtonian gravity. 
 
 ---
