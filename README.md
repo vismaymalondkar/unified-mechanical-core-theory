@@ -59,3 +59,4 @@ God does not play dice. Particle decay is entirely deterministic. Treating the v
 ---
 
 ![Electron](images/electron.png)
+![Electron](images/light.png)
