@@ -42,5 +42,6 @@ $$1 - \alpha_n = \left(\frac{M_{proton}}{M_{neutron}}\right)^2$$
 $$\mathbf{\alpha_n = 1 - \left(\frac{M_{proton}}{M_{neutron}}\right)^2}$$
 
 **The Geometric Result:** Plugging in the real-world mass values ($\approx 938.27 / 939.56$) yields a pitch efficiency of **$\mathbf{\alpha_n \approx 0.00275}$**. The Neutron is twisted to an extreme angle of **$\mathbf{\approx 3.0^\circ}$**, requiring $1.3 \text{ MeV}$ of extra wire to clear its complex folds.
+
 ---
 *© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
