@@ -132,21 +132,7 @@ Because the Electron (The $0_1$ Unknot) has zero geometric crossings to clear, i
 
 Therefore, when we extract the raw straight thread ($L_{straight} = 0.511 \text{ MeV} - \Delta L_{preload}$), we find that the Electron is roughly $99.99\%$ raw, unstrained track, and less than $0.01\%$ structural torsion. This microscopic strain profile is the mechanical reason the Electron is the most stable and easily forged particle in the universal ocean.
 
----
-
-## **4. Summary Ledger: The UPT Translation**
-
-| Real-World Phenomenon | Mainstream Physics View | UPT Plumbing Translation |
-| :--- | :--- | :--- |
-| **Particle Colliders** | Magical creation of quarks from pure energy. | Melting simple Unknots to forge heavy $3_1$ Trefoil knots via massive fluid pressure. |
-| **Quarks** | Fundamental, fractional-charge point particles. | The three physical, geometric lobes of the $3_1$ Trefoil knot. |
-| **Electron Capture** | Weak Nuclear Force interaction. | Hydrostatic pressure forcing a $3_1$ knot and an Unknot to tangle into a $6_3$ knot. |
-| **Beta Decay** | Spontaneous emission of a W boson. | Harmonic fatigue snapping the $6_3$ knot, unspooling it back into a $3_1$ and an Unknot. |
-
-**Conclusion:** The ability to melt electrons into protons, and for protons and electrons to tangle into neutrons, is undeniable proof that "conservation of baryon number" is an illusion. The universe operates on fluid mechanics using a single, modular acoustic medium.
-
-
-### **Appendix C: The Cosmic Basquin Law (Predicting Particle Decay)**
+### **Addendum 1.C: The Cosmic Basquin Law (Predicting Particle Decay)**
 
 In standard Quantum Mechanics, particle decay is treated as a fundamentally random, probabilistic event driven by the "Weak Nuclear Force." 
 
@@ -186,6 +172,19 @@ This -9.2 power law perfectly maps the entire particle zoo onto a single, classi
 3. **The Shrapnel (Tau Lepton):** The Tau particle is a geometric monstrosity. It is twisted to an extreme pitch angle, maximizing internal shear. The -9.2 power law predicts its containment wall will catastrophically fail in just $1.2 \times 10^{11}$ cycles, perfectly matching its real-world lifespan of $10^{-13}$ seconds.
 
 **The Verdict:** Transmutation and decay are not quantum alchemy. They are the catastrophic structural failures of a fluid pipe subjected to exact, calculable harmonic fatigue.
+
+---
+
+## **4. Summary Ledger: The UPT Translation**
+
+| Real-World Phenomenon | Mainstream Physics View | UPT Plumbing Translation |
+| :--- | :--- | :--- |
+| **Particle Colliders** | Magical creation of quarks from pure energy. | Melting simple Unknots to forge heavy $3_1$ Trefoil knots via massive fluid pressure. |
+| **Quarks** | Fundamental, fractional-charge point particles. | The three physical, geometric lobes of the $3_1$ Trefoil knot. |
+| **Electron Capture** | Weak Nuclear Force interaction. | Hydrostatic pressure forcing a $3_1$ knot and an Unknot to tangle into a $6_3$ knot. |
+| **Beta Decay** | Spontaneous emission of a W boson. | Harmonic fatigue snapping the $6_3$ knot, unspooling it back into a $3_1$ and an Unknot. |
+
+**Conclusion:** The ability to melt electrons into protons, and for protons and electrons to tangle into neutrons, is undeniable proof that "conservation of baryon number" is an illusion. The universe operates on fluid mechanics using a single, modular acoustic medium.
 
 ---
 *© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
