@@ -32,3 +32,6 @@ Because the pipe is open, it acts as a frictionless flow-through jet engine:
 * **Zero Rest Mass:** Because the fluid is exhausting rather than endlessly circulating in a closed loop, the particle has no gyroscopic armor. It physically cannot rest, and therefore has zero Rest Mass.
 * **No Gravity:** Intake at the front perfectly equals exhaust at the back. Furthermore, because it is traveling at the absolute speed limit of the medium, the ocean never has time to set up a stationary, omnidirectional pressure sink (Gravity) around it. 
 * **The Electromagnetic Wave (The Transverse Wake):** As the open, coiled spring flies forward at Mach 1, its helical threads slice through the resting ocean like a propeller. This continuous slicing displaces fluid sideways, leaving an oscillating, expanding wake behind it. The physical spring is the payload; the wake it leaves behind is the Electromagnetic Wave.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
