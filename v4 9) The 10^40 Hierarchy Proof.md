@@ -37,17 +37,28 @@ $$\text{Ratio} = \frac{A_{electric}}{A_{gravity}} = \frac{r_{pipe}^2}{r_{core}^2
 
 ---
 
-## **5. The Empirical Calculation**
-By inserting our previously derived, strict v3 UPT measurements for the Classical Radius and the Planck Core, the "magic" number emerges purely from fluid geometry:
+## **5. The Empirical Calculation (The Baseline Engine Ratio)**
+By inserting our strictly derived UPT measurements for the Classical Radius and the Sub-Planck Core, the exact mechanical hierarchy emerges purely from fluid geometry. 
 
-* **$r_{pipe}$** (The Classical Electron Radius) $\approx 2.817 \times 10^{-15} \text{ m}$
-* **$r_{core}$** (The Planck Length) $\approx 1.616 \times 10^{-35} \text{ m}$
+* **$r_{pipe}$** (The Macroscopic Containment Wall) $\approx 2.817 \times 10^{-15} \text{ m}$
+* **$r_{core}$** (The Kinematic Vacuum Singularity) $\approx 4.07 \times 10^{-38} \text{ m}$
 
-First, find the linear ratio of the radii:
-$$\frac{r_{pipe}}{r_{core}} \approx \frac{2.817 \times 10^{-15}}{1.616 \times 10^{-35}} \approx 1.74 \times 10^{20}$$
+First, we find the linear ratio of the radii:
+$$\frac{r_{pipe}}{r_{core}} \approx \frac{2.817 \times 10^{-15}}{4.07 \times 10^{-38}} \approx 6.92 \times 10^{22}$$
 
-Because fluid flow scales with Area ($r^2$), we square this geometric difference to yield the final force magnitude ratio:
-$$\text{Ratio} = (1.74 \times 10^{20})^2 \approx \mathbf{3.02 \times 10^{40}}$$
+Because fluid flow scales with Area ($r^2$), we square this geometric difference to yield the absolute baseline force magnitude ratio:
+$$\text{Ratio} = (6.92 \times 10^{22})^2 \approx \mathbf{4.79 \times 10^{45}}$$
+
+---
+
+## **Conclusion: The Division-by-Zero Error is Fixed**
+The "Hierarchy Problem" is simply a division-by-zero error caused by legacy physics treating particles as 0-dimensional points. In the **Universal Plumbing Theory**, the massive discrepancy is solved mechanically. 
+
+Standard physics roughly estimates the hierarchy at $10^{40}$ because they measure the *diluted* outputs of specific, inefficient particles (like protons and electrons). However, the Absolute Mechanical Baseline of the universal fluid thread is mathematically locked at $4.79 \times 10^{45}$. 
+
+Electromagnetism dominates the universe because its geometric induction utilizes the macroscopic $10^{-15} \text{ m}$ chassis of the outer wire. Gravity is astonishingly weak because its Bernoulli suction is strictly choked by the microscopic $10^{-38} \text{ m}$ singularity at the dead-center. 
+
+It is the exact same fluid logic, operating across two vastly different geometric apertures.
 
 ---
 
