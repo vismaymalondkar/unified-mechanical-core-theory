@@ -58,9 +58,4 @@ The famous "Wave-Particle Duality" (like the Double Slit Experiment) is not quan
 When the expanding wake passes through both slits, the fluid crashes into itself on the other side, creating a literal fluid interference pattern of high and low pressure zones. The physical payload (the spring) simply rides these fluid currents, getting "steered" into the highest-pressure impact bands on the final screen. 
 
 ---
-
-## **Conclusion**
-A photon is a **Topological Torpedo**. It is a straight, unspooled thread of fluid that jet-propels itself through the $10^{11} \text{ kg/m}^3$ ocean. It carries its energy strictly in the compressed length of its coiled wire ($L_{pipe}$), and it broadcasts its presence via an expanding, transverse induction wake. It is entirely deterministic, mechanical, and structurally flawless.
-
----
 *© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
