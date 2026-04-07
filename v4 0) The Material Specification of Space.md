@@ -25,3 +25,6 @@ Below are the five absolute physical constants that define the empty vacuum of s
 * **Value:** $0 \text{ Pa}\cdot\text{s}$ (Absolute Zero)
 * **The Physics:** The medium is a perfect Superfluid with strictly zero internal friction.
 * **The Function:** It guarantees the eternal survival of atomic structure. Because there is zero frictional shear stress, the extreme $1/r$ velocity gradients that protect particles can spin perpetually without losing a single joule of energy to heat. It enables the perpetual motion of quantum topology and frictionless acoustic refraction.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
