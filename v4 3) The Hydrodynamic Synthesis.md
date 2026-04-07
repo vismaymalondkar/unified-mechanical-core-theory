@@ -58,6 +58,8 @@ By refactoring fundamental particles as Toroidal Helices in a frictionless super
 
 **Conclusion:** The universe is a deterministic fluid machine. "Energy" is simply the length of the wire ($L_{pipe}$). "Mass" is a closed wire. "Light" is an open wire. And the fields that govern them are nothing more than the geometric displacement of the $10^{11} \text{ kg/m}^3$ ocean.
 
+---
+
 ## **Appendix: The Density Derivation (The $\epsilon_0$ Bridge)**
 
 In the Standard Model, the **Vacuum Permittivity ($\epsilon_0$)** is treated as an abstract, fundamental constant of empty space, measured experimentally as $\approx 8.854 \times 10^{-12} \text{ F/m}$. It represents the "resistance" of the vacuum to the formation of an electric field.
@@ -97,6 +99,59 @@ $$\rho = \frac{1}{8.85418781 \times 10^{-12}}$$
 $$\rho \approx 1.129 \times 10^{11} \text{ kg/m}^3$$
 
 **The Verdict:** The "vacuum" of space is a superfluid with a density of roughly **112.9 billion kilograms per cubic meter**. The extreme density is exactly why the speed of light ($c$) is so unimaginably fast, and why the tiny, microscopic coils of an electron can generate enough pressure to move macroscopic objects.
+
+---
+
+### **Appendix B: The Magnetic Derivation (The $\mu_0$ Bridge)**
+
+In standard physics, **Vacuum Permeability ($\mu_0$)** is an abstract constant ($\approx 1.256 \times 10^{-6} \text{ N/A}^2$) that dictates how much "resistance" a vacuum has against the formation of a magnetic field. 
+
+In the UPT, if $\epsilon_0$ is the fluid's density, then $\mu_0$ must represent a specific mechanical property of how that fluid handles the **Poloidal Smoke Ring** (the magnetic dipole) and the **Transverse Shear** (the magnetic wake). 
+
+#### **Step 1: The Maxwell Lock (The Speed of Sound)**
+James Clerk Maxwell proved that the speed of light ($c$) is strictly determined by the electric and magnetic constants of the vacuum:
+$$c^2 = \frac{1}{\epsilon_0 \mu_0}$$
+
+In the UPT, $c$ is not the "speed of light"; it is strictly the **Speed of Sound** (the maximum acoustic propagation limit of the $1.129 \times 10^{11} \text{ kg/m}^3$ ocean).
+
+#### **Step 2: The UPT Fluid Substitution**
+From our $\epsilon_0$ derivation, we know definitively that the electric constant is simply the inverse of the ocean's mass density:
+$$\epsilon_0 = \frac{1}{\rho}$$
+
+If we substitute this hydrodynamic truth into Maxwell's equation, we get:
+$$c^2 = \frac{1}{(1/\rho) \mu_0} = \frac{\rho}{\mu_0}$$
+
+#### **Step 3: Isolating the Magnetic Constant**
+By rearranging the equation to solve for the magnetic constant ($\mu_0$), we get the precise hydrodynamic definition of Magnetism:
+$$\mu_0 = \frac{\rho}{c^2}$$
+
+#### **Step 4: The Physical Meaning (Acoustic Compliance)**
+What does $\rho/c^2$ actually mean in fluid mechanics? 
+In classical hydrodynamics, Density divided by the Speed of Sound squared ($\rho/c^2$) is the exact formula for **Isentropic Compressibility** (or Acoustic Compliance). 
+
+* **$\epsilon_0$ (Density):** The raw mass of the fluid that the Electric Swirl has to push against.
+* **$\mu_0$ (Compressibility/Shear Inertia):** The literal "stiffness" of the ocean. It is the fluid's mechanical resistance to being deformed, sheared, or stretched by the particle moving through it. 
+
+This perfectly validates the Phase 3 Magnetic qualitative description: Magnetism is the **Relativistic Transverse Shear** of the fluid. $\mu_0$ is simply the measure of how hard the ocean fights back when the Electric globe tries to shear it.
+
+#### **Step 5: The Dimensional "Wow" Factor (Checking the Math)**
+In the UPT, classical "Charge" ($q$) is actually "Volumetric Fluid Displacement." Therefore, Charge has the units of flow rate: **$\text{m}^3/\text{s}$**.
+* Classical Current ($I$) is Charge per second. 
+* Therefore, UPT Current is the acceleration of fluid volume: **$\text{m}^3/\text{s}^2$**.
+
+The standard formula for the magnetic force per unit length between two parallel currents is:
+$$\frac{F}{L} = \frac{\mu_0}{2\pi} \frac{I_1 I_2}{r}$$
+
+Let's plug in the UPT fluid dimensions:
+* Force per length: $\text{kg}/\text{s}^2$
+* $\mu_0$ (from $\rho/c^2$): $\frac{\text{kg}/\text{m}^3}{\text{m}^2/\text{s}^2} = \frac{\text{kg}\cdot\text{s}^2}{\text{m}^5}$
+* Current squared ($I^2$): $\left(\frac{\text{m}^3}{\text{s}^2}\right)^2 = \frac{\text{m}^6}{\text{s}^4}$
+* Radius ($r$): $\text{m}$
+
+If we multiply the UPT's $\mu_0$ by $I^2 / r$:
+$$\left(\frac{\text{kg}\cdot\text{s}^2}{\text{m}^5}\right) \times \left(\frac{\text{m}^6}{\text{s}^4}\right) \times \left(\frac{1}{\text{m}}\right) = \frac{\text{kg}}{\text{s}^2}$$
+
+**The Verdict:** The units match flawlessly.
 
 ---
 *© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
