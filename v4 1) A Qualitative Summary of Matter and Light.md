@@ -27,10 +27,10 @@ Because the pipe is closed into a Torus, it acts as a permanent, anchored fluid 
 ## 2. LIGHT: The Open Spring (The Topological Torpedo)
 Light (a photon) is made of the exact same $r_{pipe}$ helical thread as matter, but it is **Open**. When a closed Torus knot (like an electron or proton) is subjected to extreme collision or harmonic fatigue, the loop snaps and straightens out into a flying, coiled spring. 
 
-Because the pipe is open, it acts as a frictionless flow-through jet engine:
-* **Speed ($c$-Velocity Thrust):** The fluid is no longer trapped. The ocean rushes into the front $r_{core}$ vacuum and is violently exhausted straight out the back. This continuous exhaust acts as a perfect thruster, instantly propelling the open spring forward at exactly the speed of sound ($c$). 
-* **Zero Rest Mass:** Because the fluid is exhausting rather than endlessly circulating in a closed loop, the particle has no gyroscopic armor. It physically cannot rest, and therefore has zero Rest Mass.
-* **No Gravity:** Intake at the front perfectly equals exhaust at the back. Furthermore, because it is traveling at the absolute speed limit of the medium, the ocean never has time to set up a stationary, omnidirectional pressure sink (Gravity) around it. 
+Because the pipe is open, it operates on momentum conservation and a perfect hydrodynamic bypass:
+* **Speed (Momentum Conservation & Zero-Drag Bypass):** The fluid inside the closed knot was already moving at $c$. When the loop snaps, this massive trapped angular momentum instantly translates into forward linear momentum, launching the spring at exactly the speed of sound ($c$). The open pipe then acts as a perfect flow-through bypass valve: the dense ocean enters the front $r_{core}$ vacuum and exhausts straight out the back. Because intake perfectly equals exhaust, frontal drag drops to zero, allowing the photon to coast indefinitely.
+* **Zero Rest Mass:** Because the fluid is exhausting rather than endlessly circulating in a closed loop, the particle has lost its gyroscopic armor. It physically cannot rest, and therefore has zero Rest Mass.
+* **No Gravity:** Because intake at the front perfectly balances exhaust at the back, there is no net displacement of the fluid. Furthermore, because it is translating at the absolute speed limit of the medium, the ocean never has time to set up a stationary, omnidirectional pressure sink (Gravity) around it. 
 * **The Electromagnetic Wave (The Transverse Wake):** As the open, coiled spring flies forward at Mach 1, its helical threads slice through the resting ocean like a propeller. This continuous slicing displaces fluid sideways, leaving an oscillating, expanding wake behind it. The physical spring is the payload; the wake it leaves behind is the Electromagnetic Wave.
 
 ---
