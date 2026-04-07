@@ -55,6 +55,53 @@ $$\mathbf{G = \frac{r_{core}^2 \cdot c^2}{\pi \cdot r_{pipe}^4 \cdot \rho}}$$
 
 ---
 
+## **5. The Reverse Derivation: Sizing the Vacuum Core ($r_{core}$)**
+
+A theoretical equation is only as valid as its dimensional and numerical outputs. In our master equation for $G$, there is only one variable that standard physics has never measured: the absolute radius of the vacuum core ($r_{core}$). 
+
+By taking the empirical real-world value of $G$ and running our hydrodynamic equation in reverse, we can calculate the exact physical size of the ultimate kinematic singularity of the universe.
+
+### **Step 5A: Isolating the Core**
+We begin by rearranging the master equation to solve for $r_{core}$:
+$$G = \frac{r_{core}^2 \cdot c^2}{\pi \cdot r_{pipe}^4 \cdot \rho}$$
+$$r_{core} = \sqrt{\frac{G \cdot \pi \cdot r_{pipe}^4 \cdot \rho}{c^2}}$$
+
+### **Step 5B: The Universal Ledger**
+We plug in the exact real-world values established by both standard measurement and the UPT framework:
+* **$G$ (Empirical Gravitational Constant):** $6.674 \times 10^{-11} \text{ m}^3 / (\text{kg} \cdot \text{s}^2)$
+* **$r_{pipe}$ (The Classical Containment Wall):** $2.817 \times 10^{-15} \text{ m}$
+* **$\rho$ (Universal Ocean Density):** $1.129 \times 10^{11} \text{ kg/m}^3$
+* **$c$ (Acoustic Speed Limit):** $2.997 \times 10^8 \text{ m/s}$
+
+### **Step 5C: The Calculation**
+First, we resolve the numerator (The Hydrostatic Drag):
+$$Numerator = G \cdot \pi \cdot r_{pipe}^4 \cdot \rho$$
+$$Numerator \approx (6.674 \times 10^{-11}) \cdot (3.14159) \cdot (6.305 \times 10^{-59}) \cdot (1.129 \times 10^{11})$$
+$$Numerator \approx 1.492 \times 10^{-58}$$
+
+Next, we resolve the denominator (The Kinematic Limit):
+$$Denominator = c^2 \approx 8.982 \times 10^{16}$$
+
+Finally, we divide and take the square root to find the geometric radius of the vacuum:
+$$r_{core} = \sqrt{\frac{1.492 \times 10^{-58}}{8.982 \times 10^{16}}}$$
+$$r_{core} = \sqrt{1.661 \times 10^{-75}}$$
+$$\mathbf{r_{core} \approx 4.07 \times 10^{-38} \text{ meters}}$$
+
+---
+
+## **The Verdict: The Sub-Planck Singularity**
+This numerical output is a massive validation of the UPT architecture. 
+
+In standard physics, the **Planck Length** ($\approx 1.616 \times 10^{-35} \text{ m}$) is considered the absolute minimum scale of reality—the point where the classical fabric of space supposedly breaks down into quantum foam. 
+
+When we ran the UPT hydrodynamic equation in reverse, the math did not break or output a meaningless macroscopic number. Instead, it calculated that the physical radius of the vacuum core drops directly into the **Sub-Planck regime** (roughly 1/400th the size of a standard Planck length).
+
+This perfectly aligns with classical fluid dynamics: the Planck scale is simply the chaotic, turbulent boundary layer of the fluid, but the absolute mathematical singularity—the perfect kinematic vacuum where fluid velocity reaches exactly $c$—must be a geometrically smaller pinhole. 
+
+Gravity is unimaginably weak precisely because the $r_{core}$ intake pinhole is $10^{23}$ times smaller than the $r_{pipe}$ containment wall holding it open.
+
+---
+
 ## **Conclusion: The Hierarchy Problem Solved**
 $G$ is no longer a "given" constant of nature; it is a strictly calculable mechanical output. 
 
