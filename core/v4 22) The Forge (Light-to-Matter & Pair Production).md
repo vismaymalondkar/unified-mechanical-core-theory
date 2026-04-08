@@ -18,8 +18,8 @@ This creates a hard, physical limit:
 ## **2. The "Jam" and The Snap**
 When an ultra-high-frequency photon breaches this self-intersection threshold, the fluid dynamics violently change.
 
-* **The Spring Jams:** Because the $10^{11} \text{ kg/m}^3$ universal medium is an incompressible superfluid, the wire cannot pass through itself. The forward linear velocity ($c$) is physically blocked by the photon's own coils. 
-* **The Vector Shift:** The frictionless fluid inside the wire must go somewhere. The blocked linear momentum shears violently, bending into a circular path. 
+* **The Spring Jams:** Because the physical wire is a dense boundary layer of fluid already spinning at the absolute Mach 1 acoustic limit, the coils physically cannot pass through each other. The forward linear velocity ($c$) is structurally blocked by the photon's own compressed coils. 
+* **The Vector Shift:** The frictionless fluid inside the wire must go somewhere. The blocked linear momentum shears violently, bending into a radial, circular path. 
 * **Closing the Loop:** To prevent the high-pressure fluid from ripping the vacuum apart, the severed ends of the wire plug into each other. The Open Spring becomes a Closed Donut. The jet-propulsion stops, the internal fluid is trapped as Gyroscopic Armor, and a localized mass is born.
 
 ---
@@ -28,7 +28,7 @@ When an ultra-high-frequency photon breaches this self-intersection threshold, t
 Classical fluid mechanics dictates that you cannot snap a spinning spring and form a single, isolated whirlpool without violating the conservation of angular momentum. 
 
 * **The Twin Knots:** When the spring jams and snaps, it must resolve its rotational twist symmetrically. It shears into *two* topological loops with opposite chirality (handedness).
-* **Electron and Positron:** One loop plugs together with a $+4.9^\circ$ coil pitch, and the other plugs together with a $-4.9^\circ$ coil pitch. They are mechanically identical but mirror images of one another. The universe has perfectly conserved the momentum of the light by forging equal parts Matter and Antimatter.
+* **Electron and Positron:** One loop plugs together into a **Left-Handed** Toroidal Helix with a -4.9° coil pitch (Electron), and the other plugs together into a **Right-Handed** Toroidal Helix with a +4.9° coil pitch (Positron). They are mechanically identical but mirror images of one another. The universe has perfectly conserved the momentum of the light by forging equal parts Matter and Antimatter.
 
 ---
 
@@ -40,10 +40,11 @@ Standard physics assumes the electromagnetic spectrum goes on forever. The UPT p
 * **The Solid Height Limit:** A spring cannot be compressed tighter than the physical thickness of the wire it is made from. If we calculate the exact frequency where the photon's wavelength equals the physical diameter of the standard fluid pipe ($\lambda = 5.634 \times 10^{-15} \text{ m}$), the maximum stable energy of a photon is strictly capped at **220 MeV**. 
 * **The Cascade Effect:** What happens if a heavy particle, like a Proton (938 MeV), annihilates? The unspooled wire is carrying four times more energy than the absolute structural ceiling. It is born already in a state of catastrophic geometric failure (the coils mathematically intersect). Therefore, it instantly shatters into a cascade of smaller, stable photons and electron/positron pairs. This perfectly explains ultra-high-energy **Cosmic Ray Showers** and **Pion Decay**.
 
-### **Path B: The Intersection Layover (Breit-Wheeler Process)** (todo)
-If a single photon is below the 430 MeV ceiling, it can still be forged into matter by colliding with another photon. 
-* When two stable Gamma rays collide head-on, their forward linear momentum perfectly cancels out at the point of impact. 
-* Because the fluid is incompressible, the wires crush into each other, compressing their combined coils past the intersection limit. The spring jams, the fluid shears perpendicular to the collision axis, and the loops snap closed into an Electron-Positron pair.
+### **Path B: The Stagnation Point (Breit-Wheeler Process)**
+If a photon is below the 220 MeV structural ceiling, it can still be forged into solid matter by colliding with another photon. 
+* **The Blocked Intake:** The photon is an open Acoustic Ramjet that survives by eating fluid through its front. When two Gamma rays collide head-on, their intakes block each other, instantly choking their internal vacuum cores.
+* **The Radial Blowout:** Because the universal fluid is compressible, the head-on collision violently compresses the fluid between them into a hyper-dense Stagnation Point. The extreme localized pressure has only one escape path: a violent radial explosion perpendicular to the collision axis. 
+* **The Snap:** This massive sideways shear force catches the open, spinning coils of the choked photons, violently bending them outward until their open ends meet. The springs snap shut into closed Toroidal Helices. Because the two colliding photons possess opposite helicity, the blowout perfectly spits out one Left-Handed loop (Electron) and one Right-Handed loop (Positron).
 
 ## **Conclusion**
 You cannot create matter by turning up the "Brightness" of a laser beam. Matter is strictly forged by the geometric tension of the photon's spring. Mass is not distinct from light; it is merely a photon that became too tightly wound to exist, jamming its own hardware and biting its own tail to survive.
