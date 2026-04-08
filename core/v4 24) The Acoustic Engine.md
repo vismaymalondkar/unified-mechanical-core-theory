@@ -10,7 +10,7 @@ $$c_s^2 = \frac{K}{\rho}$$
 
 * **$K$ (Bulk Modulus):** The universal ocean's elastic stiffness, or its violent resistance to being crushed or displaced. 
 * **$\rho$ (Density):** The resting mass of the universal ocean ($\approx 10^{11} \text{ kg/m}^3$). 
-* **$c_s$ (Speed of Sound):** The absolute acoustic speed limit of the fluid (Mach 1). Legacy physics calls this $c$ (the speed of light).
+* **$c_s$ (Speed of Sound):** The absolute acoustic speed limit of the fluid (Mach 1).
 
 By rearranging this classical equation, we algebraically lock the definition of Elastic Stiffness: 
 $$K = \rho \cdot c_s^2$$
@@ -33,21 +33,34 @@ $$\text{Elastic Energy} = \Delta m \cdot c_s^2$$
 ## **3. The Bose-Einstein Analogue (Analogue Gravity)**
 This UPT derivation is fully supported by the modern study of Bose-Einstein Condensates (frictionless superfluids). 
 
-In the field of Analogue Gravity, physicists have proven that acoustic shockwaves (Phonons) traveling through a superfluid obey the exact same Lorentz transformations as light in a vacuum. To calculate the energy of these acoustic particles, physicists use the exact acoustic formula derived by the UPT:
+In the field of Analogue Gravity, physicists have proven that acoustic shockwaves traveling through a superfluid obey the exact same Lorentz transformations as light in a vacuum. To calculate the energy of these acoustic particles, physicists use the exact acoustic formula derived by the UPT:
 $$E = m_{eff} \cdot c_s^2$$
 *(Where $m_{eff}$ is the effective acoustic mass, perfectly mirroring the UPT's "Borrowed Length").*
 
-Legacy physics currently uses this math for isolated laboratory superfluids. The UPT simply scales it to the entire universe.
+---
+
+## **4. The Two Outputs: Shrapnel vs. Sound**
+This is where the UPT clarifies the "Radiation" mix-up. The collapse of the $E=mc^2$ tension acts as the propellant, but the resulting "radiation" depends on what is being ejected:
+
+### **A. The Antineutrino (Pure Acoustic Shockwave)**
+* **Mechanism:** The tension collapses, but no physical wire ($L_{base}$) is severed or left over.
+* **Composition:** Zero wire. It is a pure, non-oscillating longitudinal pulse of displaced fluid.
+* **Behavior:** Because it has no hardware, it phases through atomic knots like a ghost. It is the pure "sonic boom" of the $6_3 \rightarrow 3_1$ transition.
+
+### **B. The Photon/Gamma Ray (Physical Hardware Shrapnel)**
+* **Mechanism:** The tension collapses and *severs* a piece of the $L_{base}$ vacuum pipe (via vortex reconnection).
+* **Composition:** A physical, unspooled helical spring (open wire).
+* **Behavior:** The $E=mc^2$ energy acts as the gunpowder, firing the wire shrapnel at Mach 1 ($c$). Because it is physical wire, it possesses an aerodynamic wake (frequency) and can crash into objects (photoelectric effect).
 
 ---
 
-## **4. The Grand Translation (The Sonic Boom)**
-By treating the universe as a compressible superfluid, $E=mc^2$ ceases to be a mystery. It is a simple mechanical ledger. 
-* **$m$ (The Variable):** The "Mass Defect" is actually the **Strain**—a tightened geometric spring acting as a fully drawn bowstring. 
-* **$c^2$ (The Multiplier):** The universal fluid's absolute velocity limit squared, acting as the strict mechanical conversion factor that translates geometric elasticity into acoustic violence. 
-* **$E$ (The Output):** The violent acoustic shockwave generated when the topology untangles or nests, violently displacing the heavy fluid at Mach 1. 
+## **5. The Grand Translation**
+The "Mass Defect" is the disappearance of **Borrowed Length**. 
+* **The Energy:** The collapsing strain ($Strain \times c^2$).
+* **The Antineutrino:** The pure sound of that collapse (The Snap).
+* **The Photon/Gamma Ray:** Physical shrapnel propelled by that collapse (The Bullet).
 
-Whether it is a $0.782 \text{ MeV}$ Antineutrino from a decaying Neutron, or a $2.22 \text{ MeV}$ Gamma Ray from a fusing star, the mechanic is identical. Radiation is simply the acoustic sonic boom of a collapsing fluid spring.
+By distinguishing between the **Acoustic Wave** and the **Physical Wire**, the UPT resolves Wave-Particle Duality: Light is a bullet with a sound wave attached; the Neutrino is just the sound wave.
 
 ---
 *© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
