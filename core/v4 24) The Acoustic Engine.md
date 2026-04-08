@@ -26,7 +26,7 @@ $$K \cdot \Delta V = (\rho \cdot \Delta V) \cdot c_s^2$$
 Because Density ($\rho$) multiplied by Volume ($\Delta V$) is exactly equal to Mass ($\Delta m$), the equation seamlessly simplifies to:
 $$\text{Elastic Energy} = \Delta m \cdot c_s^2$$
 
-**The Verdict:** The "mass" that disappears during Beta Decay or Nuclear Fusion is strictly **Elastic Strain** (Borrowed Length). $E = \Delta m c^2$ is the exact continuum mechanics equation for the **Stored Acoustic Strain Energy** of a compressed fluid volume.
+**The Verdict:** The "mass" that disappears during Beta Decay is strictly **Elastic Strain** (Borrowed Length). $E = \Delta m c^2$ is the exact continuum mechanics equation for the **Stored Acoustic Strain Energy** of a compressed fluid volume.
 
 ---
 
