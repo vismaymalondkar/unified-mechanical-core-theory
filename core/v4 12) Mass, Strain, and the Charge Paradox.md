@@ -34,8 +34,6 @@ Legacy physics uses the Fine-Structure Constant ($\alpha \approx 1/137$) as a ma
 
 In the UPT, $\alpha$ is not a magical quantum probability. It is the trigonometric tangent of the **Universal Macroscopic Pitch Angle**. It proves that no matter how complex or strained the internal plumbing of a stable charged particle becomes, the geometry of 3D space strictly dictates that its *net escaping aerodynamic profile* will always perfectly cancel down to match the $1/137$ unobstructed baseline. 
 
----
-*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
 In the UPT, Charge Polarity (+ vs -) is not a magical property; it is simply **Topological Chirality** (Handedness). It dictates the direction the hurricane is spinning. 
 
 * **Negative Charge (The Electron):** The simple $0_1$ Donut geometry orients the $0.418^\circ$ pitched coils to push the fluid in one specific direction (e.g., Counter-Clockwise). We arbitrarily label this "Negative."
