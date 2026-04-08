@@ -40,9 +40,4 @@ In the UPT, Charge Polarity (+ vs -) is not a magical property; it is simply **T
 * **Positive Charge (The Proton):** To tie the wire into a $3_1$ Trefoil knot, the tube must physically loop and invert through its own center three times. These topological folds physically reverse the orientation of the coils relative to the outside ocean. The pitch remains $4.9^\circ$, but the geometry is turned inside-out, forcing the fluid to swirl in the exact opposite direction (Clockwise). We label this "Positive."
 
 ---
-
-## **Conclusion**
-Mass and Charge are fully decoupled variables. You can make a hose as incredibly long and tangled as you want (increasing its Mass), but if the thickness of the hose and the angle of its coils remain exactly the same, the aerodynamic slipstream it generates (Charge) will never change.
-
----
 *© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
