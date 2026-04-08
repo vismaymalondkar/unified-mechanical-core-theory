@@ -38,7 +38,7 @@ In the UPT, $\alpha$ is not a magical quantum probability. It is the trigonometr
 *© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
 In the UPT, Charge Polarity (+ vs -) is not a magical property; it is simply **Topological Chirality** (Handedness). It dictates the direction the hurricane is spinning. 
 
-* **Negative Charge (The Electron):** The simple $0_1$ Donut geometry orients the $4.9^\circ$ pitched coils to push the fluid in one specific direction (e.g., Counter-Clockwise). We arbitrarily label this "Negative."
+* **Negative Charge (The Electron):** The simple $0_1$ Donut geometry orients the $0.418^\circ$ pitched coils to push the fluid in one specific direction (e.g., Counter-Clockwise). We arbitrarily label this "Negative."
 * **Positive Charge (The Proton):** To tie the wire into a $3_1$ Trefoil knot, the tube must physically loop and invert through its own center three times. These topological folds physically reverse the orientation of the coils relative to the outside ocean. The pitch remains $4.9^\circ$, but the geometry is turned inside-out, forcing the fluid to swirl in the exact opposite direction (Clockwise). We label this "Positive."
 
 ---
