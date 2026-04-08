@@ -57,5 +57,20 @@ The famous "Wave-Particle Duality" (like the Double Slit Experiment) is not quan
 
 When the expanding wake passes through both slits, the fluid crashes into itself on the other side, creating a literal fluid interference pattern of high and low pressure zones. The physical payload (the spring) simply rides these fluid currents, getting "steered" into the highest-pressure impact bands on the final screen. 
 
+## **6. Photon Helicity (The Antimatter Bridge)**
+Because the photon is a 3D coiled spring, it possesses strict **Chirality** (handedness). The fluid wire must be physically wound in either a clockwise or counter-clockwise direction. 
+
+This is not a random trait; it is a permanent topological artifact of the particle that birthed it. 
+In the UPT, fundamental matter (mass) is simply a standard fluid pipe tied into a closed loop. But a loop can be tied in two directions. 
+* **The Electron (Matter):** A Left-Handed knot. 
+* **The Positron (Antimatter):** A Right-Handed knot. 
+
+When an electron and a positron collide (Annihilation), their opposing topologies unravel each other. The loops physically snap and unspool into open flying springs. 
+Because the physical wire is never cut or reversed, the resulting photons permanently retain the handedness of their parent knots. 
+* A destroyed Electron unspools into a **Left-Handed Photon** (Spin $-1$).
+* A destroyed Positron unspools into a **Right-Handed Photon** (Spin $+1$).
+
+Standard physics treats matter and antimatter as magical opposites that annihilate into abstract energy. The UPT proves they are simply left-handed and right-handed fluid screws.
+
 ---
 *© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
