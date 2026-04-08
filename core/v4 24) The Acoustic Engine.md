@@ -40,12 +40,14 @@ $$E = m_{eff} \cdot c_s^2$$
 ---
 
 ## **4. The Two Outputs: Shrapnel vs. Sound**
-This is where the UPT clarifies the "Radiation" mix-up. The collapse of the $E=mc^2$ tension acts as the propellant, but the resulting "radiation" depends on what is being ejected:
+This is where the UPT clarifies the "Radiation" mix-up. The collapse of the $E=mc^2$ tension acts as the propellant, but the resulting "radiation" depends on what is actually being moved:
 
-### **A. The Antineutrino (Pure Acoustic Shockwave)**
-* **Mechanism:** The tension collapses, but no physical wire ($L_{base}$) is severed or left over.
-* **Composition:** Zero wire. It is a pure, non-oscillating longitudinal pulse of displaced fluid.
-* **Behavior:** Because it has no hardware, it phases through atomic knots like a ghost. It is the pure "sonic boom" of the $6_3 \rightarrow 3_1$ transition.
+### **A. The Neutrinos (Pure Acoustic Shockwaves)**
+* **Mechanism:** The geometric tension collapses or spikes, but no physical wire ($L_{base}$) is severed or left over.
+* **Composition:** Zero wire. They are pure, unidirectional longitudinal pulses of displaced fluid. Because they have no hardware, they phase through atomic knots like ghosts. 
+* **Chirality (The Spin Difference):** Legacy physics notes that Antineutrinos and Neutrinos spin in opposite directions, but cannot explain why. In the UPT, because the 3D knot must physically twist as it changes states, the resulting sonic boom carries orbital angular momentum (an Acoustic Vortex).
+    * **The Antineutrino (Right-Handed):** Generated when a knot *unwinds* and relaxes (e.g., $6_3 \rightarrow 3_1$ Beta Decay). The unwinding motion twists the fluid to the right. 
+    * **The Neutrino (Left-Handed):** Generated when a knot is forcefully *wound tighter* (e.g., $3_1 \rightarrow 6_3$ Inverse Beta Decay). The winding motion twists the fluid to the left.
 
 ### **B. The Photon/Gamma Ray (Physical Hardware Shrapnel)**
 * **Mechanism:** The tension collapses and *severs* a piece of the $L_{base}$ vacuum pipe (via vortex reconnection).
@@ -57,7 +59,7 @@ This is where the UPT clarifies the "Radiation" mix-up. The collapse of the $E=m
 ## **5. The Grand Translation**
 The "Mass Defect" is the disappearance of **Borrowed Length**. 
 * **The Energy:** The collapsing strain ($Strain \times c^2$).
-* **The Antineutrino:** The pure sound of that collapse (The Snap).
+* **The Neutrino/Antineutrino:** The pure, twisting sound wave of that collapse (The Snap).
 * **The Photon/Gamma Ray:** Physical shrapnel propelled by that collapse (The Bullet).
 
 By distinguishing between the **Acoustic Wave** and the **Physical Wire**, the UPT resolves Wave-Particle Duality: Light is a bullet with a sound wave attached; the Neutrino is just the sound wave.
