@@ -35,12 +35,12 @@ Classical fluid mechanics dictates that you cannot snap a spinning spring and fo
 ## **4. The Two Paths to the Forge**
 There are two distinct ways a photon's spring can be forced past the self-intersection threshold:
 
-### **Path A: Spontaneous Jamming (The 430 MeV Ceiling)**
+### **Path A: Spontaneous Jamming (The 220 MeV Ceiling)**
 Standard physics assumes the electromagnetic spectrum goes on forever. The UPT proves there is a hard geometric ceiling to how much energy a single photon can carry. 
-* **The Numerical Limit:** If we calculate the exact frequency where the wavelength equals the Classical Electron Diameter ($\lambda = 2.817 \times 10^{-15} \text{ m}$), the maximum stable energy of a photon is strictly capped at roughly **430 MeV**. 
-* **The Cascade Effect:** What happens if a heavy particle, like a Proton (938 MeV), annihilates? The unspooled wire is so long that it physically cannot exist as a single open spring without self-intersecting. It is born already in a state of geometric failure. Therefore, it instantly shatters into a cascade of smaller, stable photons and electron/positron pairs. This perfectly explains ultra-high-energy **Cosmic Ray Showers**. 
+* **The Solid Height Limit:** A spring cannot be compressed tighter than the physical thickness of the wire it is made from. If we calculate the exact frequency where the photon's wavelength equals the physical diameter of the standard fluid pipe ($\lambda = 5.634 \times 10^{-15} \text{ m}$), the maximum stable energy of a photon is strictly capped at **220 MeV**. 
+* **The Cascade Effect:** What happens if a heavy particle, like a Proton (938 MeV), annihilates? The unspooled wire is carrying four times more energy than the absolute structural ceiling. It is born already in a state of catastrophic geometric failure (the coils mathematically intersect). Therefore, it instantly shatters into a cascade of smaller, stable photons and electron/positron pairs. This perfectly explains ultra-high-energy **Cosmic Ray Showers** and **Pion Decay**.
 
-### **Path B: The Intersection Layover (Breit-Wheeler Process)**
+### **Path B: The Intersection Layover (Breit-Wheeler Process)** (todo)
 If a single photon is below the 430 MeV ceiling, it can still be forged into matter by colliding with another photon. 
 * When two stable Gamma rays collide head-on, their forward linear momentum perfectly cancels out at the point of impact. 
 * Because the fluid is incompressible, the wires crush into each other, compressing their combined coils past the intersection limit. The spring jams, the fluid shears perpendicular to the collision axis, and the loops snap closed into an Electron-Positron pair.
