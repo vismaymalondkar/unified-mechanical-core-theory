@@ -106,3 +106,6 @@ Gravity is unimaginably weak precisely because the $r_{core}$ intake pinhole is 
 $G$ is no longer a "given" constant of nature; it is a strictly calculable mechanical output. 
 
 By proving that Electricity and Gravity use the exact same fluid equation, the UPT structurally solves the Hierarchy Problem (why gravity is unimaginably weaker than electromagnetism). Gravity is weak because the $r_{core}$ vacuum pinhole (the numerator) is microscopically small compared to the $r_{pipe}$ hydrostatic wall (the denominator). Gravity isn't a different kind of magic; it is simply a vastly smaller hydrodynamic displacement operating in the exact same ocean.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
