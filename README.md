@@ -37,14 +37,5 @@ Standard quantum mechanics treats light as a 0-dimensional, paradoxical "wave-pa
 * **The Geometric Ceiling (220 MeV):** Because the photon is a physical coiled spring, it has a strict maximum capacity. As energy increases, the coils pack tighter together. If a single spring attempts to carry more than 220 MeV, the distance between the coils ($\lambda$) shrinks below the physical thickness of the fluid wire itself ($5.634 \times 10^{-15} \text{ m}$). The spring hits "Solid Height," intersects, and shatters. Light has a hardcoded structural ceiling.
 * **The Double-Slit Resolution:** As the physical spring flies forward, it displaces the dense universal ocean, creating a massive Mach 1 acoustic bow wave. In the double-slit experiment, the microscopic spring goes through one slit, while its massive acoustic wake spills through both. The overlapping wake on the other side creates lateral fluid pressure that physically steers the spring into interference bands.
 
-### **4. Quantum Decay (The Basquin Power Law)**
-God does not play dice. Particle decay is entirely deterministic. Treating the vacuum as a physical material, quantum decay perfectly follows the classical S-N (Fatigue) Curve. The structural lifespan of any particle ($N_f$) is strictly dictated by its torsional pitch angle ($\alpha$) according to the Universal Fatigue Equation: $\mathbf{N_f \propto \alpha^{-9.2}}$.
-
-### **5. Time Dilation (Torsional Relaxation)**
-"Time" is just the structural fatigue rate of the fluid spring. Time Dilation is simply the physical unwinding of that spring.
-* **Velocity** physically stretches the helical boundary layer longitudinally.
-* **Gravity** (dropping the ambient Bernoulli pressure) physically loosens the hydrostatic vise holding the boundary layer. 
-* Both environments mathematically reduce the pitch angle ($\alpha$), drastically increasing the particle's survival time along the fatigue curve. The Lorentz factor is not bending 4D space; it is merely a classical fluid strain reduction factor of $\frac{1}{18.4}$.
-
 ![Electron](images/electron.png)
 ![Electron](images/photon.png)
