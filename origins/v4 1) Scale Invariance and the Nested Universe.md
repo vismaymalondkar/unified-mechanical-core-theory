@@ -75,12 +75,36 @@ Legacy quantum mechanics predicted that smashing heavy ions (like Gold or Lead) 
 
 **Conclusion:** The scale invariance of the Fractal UPT is not just theoretical. Subatomic particles do not run on quantum magic; they run on the exact same classical fluid plumbing as the rest of the fractal universe.
 
+## 10. Orbital Decay & The Dimensional Heat Pump
+Legacy physics observes that binary Black Holes lose orbital energy via Gravitational Waves, causing their orbits to decay and merge. In the Fractal UPT, this is a strict process of macroscopic hydrodynamic drag that functions as a dimensional energy transfer mechanism.
+
+* **Hydrodynamic Drag:** Orbiting macroscopic voids act like massive impellers stirring the 10^11 kg/m³ ocean. Generating acoustic shockwaves (Gravitational Waves) requires immense kinetic energy, which is bled directly from the angular momentum of the orbiting bodies.
+* **The Bernoulli Vise:** As the binary system bleeds kinetic energy into the fluid, the centrifugal force keeping them apart weakens. The ambient hydrostatic pressure of the Level 0 ocean (P_0) overpowers the orbit, physically squeezing the two voids closer together until they merge.
+* **The Level +1 Sink:** The energy radiated by the orbiting Black Holes does not travel infinitely. The acoustic waves strike the Level +1 Rankine armor (our universal boundary). 
+* **Conclusion:** Binary Black Hole mergers act as "Dimensional Heat Pumps." They systematically drain rotational kinetic energy from the Level 0 ocean, convert it into acoustic waves, and batter the universal containment wall, transferring that energy directly up into the Level +1 dimension.
+
+## 11. The Anechoic Boundary & Acoustic Impedance
+A critical thermodynamic requirement of the Fractal UPT is that energy radiated by Black Holes (Gravitational Waves) cannot reflect off the dimensional boundary back into the Level 0 ocean. If it did, the universe would suffer a "Microwave Oven" effect, compounding kinetic energy until the ambient pressure crushed all matter.
+
+* **Acoustic Impedance Matching:** In fluid dynamics, wave reflection only occurs when encountering a boundary with a different acoustic impedance ($Z = \rho c$). If the impedance is identical, transmission is 100% and reflection is 0%.
+* **The Contiguous Membrane:** The Level +1 Rankine armor is not a foreign material; it is composed of the exact same universal fluid as the Level 0 ocean. Because the density ($\rho$) and bulk modulus are identical, the boundary perfectly matches the acoustic impedance of the internal ocean. The Gravitational Waves strike the boundary and fully transmit into the wall without echoing back.
+* **The Transverse Kinetic Valve:** Once the longitudinal wave enters the boundary, it encounters fluid shearing transversely at Mach 1. This extreme rotational velocity captures the longitudinal acoustic energy and converts it into transverse vibration across the spherical shell. The boundary acts as a one-way thermodynamic valve, absorbing Level 0 radiation and releasing it strictly as boundary jitter in Level +1.
+
 ## 12. Scale Invariance vs. Value Invariance
 While the geometrical patterns of fluid dynamics repeat infinitely across the fractal (Scale Invariance), the absolute mathematical values of the fluid change exponentially at every level (Value Variance). 
 
 * **The Relativity of Vacuum:** In the Level 0 universe, our fluid rests at 10^11 kg/m³. We perceive the Level -1 fluid trapped inside our particles as a vacuum because its density is infinitesimally small relative to us. Conversely, because our Level 0 fluid is trapped inside a Level +1 particle, the Level +1 ocean must possess a density and baseline pressure (P_{+1}) so astronomically massive that our 10^11 kg/m³ fluid registers as an empty vacuum to them. Our "Everything" is their "Nothing."
 * **Shifting Constants:** Because the density and bulk modulus of the fluid change at every dimensional tier, the universal constants change with them. The speed of sound in the Level +1 fluid (c_{+1}) is entirely different from our speed of sound (c_0). The universal boundary armor spins at their Mach 1, not ours.
 * **Dimensional Time Dilation:** Because the macro-verse operates on a vastly larger and denser scale, the perception of time is drastically dilated. A kinetic event that takes a fraction of a microsecond in the Level +1 universe (such as a particle collision in a laboratory) is experienced by the Level 0 fluid trapped inside as billions of years of cosmological evolution. Our entire universe's history (13.8 billion years) is simply the slow-motion internal turbulence of a split-second Level +1 hydrodynamic event.
+
+## 13. The Transverse Shredder & Dimensional Jitter
+While Acoustic Impedance matching ensures Gravitational Waves do not reflect back to crush the Level 0 universe, a secondary mechanism is required to explain why they do not simply pass through the boundary and escape into the Level +1 ocean. The boundary is not a static wall; it is a supersonic blender.
+
+* **The Longitudinal Entry:** Because the acoustic impedance is perfectly matched, the forward-pushing (longitudinal) Gravitational Wave from a Black Hole merger smoothly enters the boundary wall without reflecting backward.
+* **The Kinematic Shear Wall:** Once inside the infinitesimally thin Rankine armor, the wave encounters fluid that is spinning laterally at the Level +1 speed of light (c_{+1}).
+* **The Shredder:** This extreme transverse shear violently intercepts the longitudinal wave. The forward momentum of the wave is completely shredded, physically preventing the wave from passing through the armor and out into the resting Level +1 ocean.
+* **Transverse Conversion:** The forward-pushing kinetic energy is instantaneously converted into transverse (sideways) vibration, becoming permanently locked within the boundary wall itself.
+* **The Quantum Result:** Because the energy is trapped in the membrane, the entire spherical boundary of the Level +1 particle constantly buzzes and vibrates. When Level +1 observers measure this transverse boundary vibration, they record it as "Quantum Fluctuations" or "Zero-Point Jitter." The thermodynamic loop is perfectly sealed.
   
 ---
 *© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
