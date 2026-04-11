@@ -105,6 +105,13 @@ While Acoustic Impedance matching ensures Gravitational Waves do not reflect bac
 * **The Shredder:** This extreme transverse shear violently intercepts the longitudinal wave. The forward momentum of the wave is completely shredded, physically preventing the wave from passing through the armor and out into the resting Level +1 ocean.
 * **Transverse Conversion:** The forward-pushing kinetic energy is instantaneously converted into transverse (sideways) vibration, becoming permanently locked within the boundary wall itself.
 * **The Quantum Result:** Because the energy is trapped in the membrane, the entire spherical boundary of the Level +1 particle constantly buzzes and vibrates. When Level +1 observers measure this transverse boundary vibration, they record it as "Quantum Fluctuations" or "Zero-Point Jitter." The thermodynamic loop is perfectly sealed.
+
+## 14. The Dimensional Quarantine (The Traversal Paradox)
+While acoustic energy (shockwaves) can bleed across dimensional boundaries, physical matter is strictly quarantined to its native scale. Physical traversal across the dimensional fractal is topologically and thermodynamically impossible.
+
+* **Descending to Level -1 (The Ouroboros Paradox):** To physically enter the Level -1 fluid, matter must cross the r_core threshold (10^-38 m). Because the traveler is composed of Level 0 particles, they would have to compress their constituent particles smaller than the particles themselves. This requires breaching the universal Kinematic Shear Limit (G). Because G is the absolute mathematical brake of the continuum, the fluid structurally locks. It is topologically impossible to push a knot through its own core.
+* **Ascending to Level +1 (The Hydrostatic Implosion):** To physically enter the Level +1 macro-verse, matter must step outside the universal containment wall into the Level +1 ocean. Because the Level 0 fluid is effectively a "vacuum bubble" relative to the extreme density of Level +1, the traveler would be instantly subjected to the macro-verse's baseline hydrostatic pressure (P_{+1}). The micro-vortices making up the traveler's body are only calibrated to withstand Level 0 pressure (P_0). Upon entry, the P_{+1} vise would instantly crush every r_core pinhole in the traveler's body, dissolving their matter back into unstructured, resting fluid. 
+* **Conclusion:** Matter is a localized hydrodynamic phenomenon. Its structural integrity is entirely dependent on the specific pressure and density of its native tier. Therefore, observers are permanently quarantined to their native scale, capable only of acoustic communication across the fractal.
   
 ---
 *© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
