@@ -53,5 +53,13 @@ By applying the strict laws of Scale Invariance, the downward mechanics must mir
 * **Striking the Ceiling:** Because our entire universe is just a drop of fluid trapped inside the core of a Level +1 particle, these waves do not travel forever. They eventually strike the absolute boundary of our universe—the inside wall of the Level +1 Rankine containment armor.
 * **The Upward Bleed:** The impact of our Gravitational Waves physically distorts and vibrates the Level +1 containment wall. By merging massive voids in our Level 0 ocean, we are actively generating the microscopic acoustic "noise" experienced by observers in the Level +1 universe above us.
 
+## 7. The Horizon Problem & The Cosmological Gong
+Legacy cosmology struggles to explain why the Big Bang was so perfectly uniform across massive distances (The Horizon Problem), requiring the invention of magical "Cosmic Inflation" to smooth out the early universe. The Fractal UPT solves this through boundary mechanics.
+
+* **The Struck Bell:** Because our Level 0 universe is trapped inside the spherical r_core armor of a Level +1 particle, it possesses a physical boundary. 
+* **The Level +1 Impact:** The Big Bang was caused by a kinetic collision in the Level +1 universe. When the outside of our Level +1 particle was struck, the spherical Rankine armor rang like a gong. The kinetic energy instantly distributed across the entire spherical shell.
+* **Omnidirectional Convergence:** The vibrating boundary pushed a massive acoustic shockwave inward into our Level 0 fluid from all directions simultaneously. 
+* **The Uniform Phase Change:** Because the pressure wave compressed the fluid uniformly from the absolute boundaries of the system, the resulting drop in pressure (cavitation) occurred perfectly evenly across the entire ocean. The Big Bang was not an explosion from a central point; it was a uniform resonant frequency ringing through a trapped sphere of fluid.
+  
 ---
 *© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
