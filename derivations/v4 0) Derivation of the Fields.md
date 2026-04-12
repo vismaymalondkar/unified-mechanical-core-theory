@@ -49,7 +49,7 @@ In classical quantum mechanics, the electron is treated as a dimensionless point
 The Standard Pipe is the fundamental structural unit of the universe. It is a highly stable Rankine-type vortex characterized by three defining features:
 
 1.  **The Vacuum Core ($r_{core}$):** At the absolute center of the vortex, the rotational velocity of the fluid reaches the acoustic speed limit ($c$). Due to the Bernoulli principle, this extreme velocity results in a massive pressure drop, creating a centralized vacuum pinhole. The Ultimate Shear Limit ($G$) prevents this vacuum from collapsing into a mathematical singularity.
-2.  **The Boundary Wall ($r_{pipe}$):** Surrounding the vacuum core is an indestructible, rigid hydrostatic wall. At this exact radius, the centrifugal force of the spinning fluid perfectly balances the immense ambient resting hydrostatic pressure ($P_0$). This boundary acts as a physical surface, giving the vortex a definitive, finite thickness.
+2.  **The Boundary Wall ($r_{pipe}$):** Surrounding the vacuum core is an indestructible, rigid hydrostatic wall defined precisely as the radius where the local fluid pressure equals the ambient resting hydrostatic pressure ($P_0$). At this distance, the fluid velocity has decayed from $c$ at the core to a lower balancing velocity, $v_{pipe}$. This boundary acts as a physical surface, giving the vortex a definitive, finite thickness.
 3.  **The Helical Thread:** Unlike a simple circular vortex, the flow along the boundary wall is not purely azimuthal. It possesses a helical thread—a spiral flow at a specific pitch angle $\alpha \approx 4.9^\circ$. This helical flow acts as a set of continuous hydrodynamic "gear teeth," mechanically displacing the surrounding fluid and transferring angular momentum outward into the universal medium.
 
 ### The Toroidal Unknot
@@ -102,10 +102,10 @@ Hardin's transform of the Biot-Savart integral for a helical vortex tube yields 
 
 $$\Psi = A z + \rho l A \phi$$
 
-Here, the presence of the $\phi$ (azimuthal) term confirms that the helical vortex continuously shears the surrounding fluid laterally. The boundary wall of the Standard Pipe ($r_{pipe}$) is rotating at the absolute speed of sound, $c$. Because the thread is pitched at an angle $\alpha \approx 4.9^\circ$, this rotational velocity $c$ is decomposed into two orthogonal components across the surface of the torus:
+Here, the presence of the $\phi$ (azimuthal) term confirms that the helical vortex continuously shears the surrounding fluid laterally. While the vacuum core rotates at $c$, the boundary wall of the Standard Pipe ($r_{pipe}$) rotates at the lower balancing velocity, $v_{pipe}$. Because the thread is pitched at an angle of roughly 4.9 degrees, this boundary rotational velocity $v_{pipe}$ is decomposed into two orthogonal components across the surface of the torus:
 
-1.  **The Poloidal Velocity ($v_{pol}$):** Flow circulating around the minor cross-section of the tube. $v_{pol} = c \sin \alpha$.
-2.  **The Toroidal Velocity ($v_{tor}$):** Flow circulating around the major axis of the torus. $v_{tor} = c \cos \alpha$.
+1.  **The Poloidal Velocity ($v_{pol}$):** Flow circulating around the minor cross-section of the tube. $v_{pol} = v_{pipe} \sin \alpha$.
+2.  **The Toroidal Velocity ($v_{tor}$):** Flow circulating around the major axis of the torus. $v_{tor} = v_{pipe} \cos \alpha$.
 
 Because $\alpha$ is small ($4.9^\circ$), $\cos(4.9^\circ) \approx 0.996$, meaning nearly the entirety of the surface velocity is directed toroidally. The helical thread thus acts as a macroscopic impeller, a continuous hydrodynamic gear that drags the surrounding universal fluid into a massive, spinning angular rotation—a "Macroscopic Fluid Hurricane".
 
@@ -113,7 +113,7 @@ However, if we treat the universal fluid as perfectly incompressible ($\nabla \c
 
 ## Mathematical Proof: Derivation of the $1/r^2$ Electric Field
 
-The crux of the Universal Plumbing Theory is that the universal medium is a *Compressible Acoustic Superfluid*. The speed of sound $c$ is finite. The rotation of the helical threads on the boundary wall occurs exactly at this Mach 1 limit. 
+The crux of the Universal Plumbing Theory is that the universal medium is a *Compressible Acoustic Superfluid*. The speed of sound $c$ is finite, and it dictates the maximum rotational velocity at the vacuum core, which drives the subsequent rotation of the helical threads on the boundary wall. 
 
 ### Acoustic Radiation Pressure from the Helical Impeller
 
@@ -171,7 +171,7 @@ $$\mathbf{E}_{fluid} = \frac{\kappa}{4\pi c} \left( \frac{q^2 c}{\epsilon_0 \kap
 
 $$\mathbf{E}_{fluid} = \frac{q^2}{\epsilon_0} \frac{1}{4\pi r^2} \hat{r}$$
 
-*Quod erat demonstrandum.* The $1/r^2$ electric field has been mathematically derived not through the abstract exchange of virtual photons or arbitrary gauge symmetries, but as the exact, necessary consequence of the conservation of acoustic momentum flux. The continuous, non-dissipative rotation of the helical impeller at Mach 1 in a compressible superfluid mathematically guarantees the emergence of the Coulomb force field.
+*Quod erat demonstrandum.* The $1/r^2$ electric field has been mathematically derived not through the abstract exchange of virtual photons or arbitrary gauge symmetries, but as the exact, necessary consequence of the conservation of acoustic momentum flux. The continuous, non-dissipative rotation of the helical impeller in a compressible superfluid mathematically guarantees the emergence of the Coulomb force field.
 
 ### Hydrodynamic Superposition and the Uncharged State
 
@@ -201,7 +201,7 @@ By defining the hydrodynamic magnetic dipole moment strictly as $\mathbf{m}_{flu
 
 In the conceptual formulation of the Universal Plumbing Theory, gravity was described as a "Bernoulli Sink"—a static inward pressure deficit caused by the vacuum core. However, a purely static point sink induces a radial velocity $v_r \propto 1/r^2$. Applying the basic Bernoulli equation ($\Delta P = \frac{1}{2}\rho v_r^2$) to this steady-state flow yields a static pressure deficit scaling as $1/r^4$. This decays much too rapidly to satisfy the Newtonian inverse-square law ($1/r^2$). 
 
-To rigorously prove the $1/r^2$ gravitational force scaling, we must abandon the steady-state assumption and invoke the dynamic acoustic properties of the universal fluid. The Toroidal Unknot is not a static sink; it is a high-speed mechanical oscillator spinning exactly at the acoustic speed limit ($c$). This violent rotation induces rapid, periodic volumetric pulsations in the central vacuum core. 
+To rigorously prove the $1/r^2$ gravitational force scaling, we must abandon the steady-state assumption and invoke the dynamic acoustic properties of the universal fluid. The Toroidal Unknot is not a static sink; it is a high-speed mechanical oscillator whose vacuum core spins exactly at the acoustic speed limit ($c$). This violent rotation induces rapid, periodic volumetric pulsations in the central vacuum core. 
 
 In classical fluid dynamics, when two objects pulsate within a compressible fluid, they radiate spherical acoustic waves that interact, generating a time-averaged force known as the Secondary Bjerknes Force. For two fluid voids (analogous to particles) pulsating with volumetric amplitudes $V_1$ and $V_2$ at an angular frequency $\omega$ within a medium of density $\rho$, the secondary Bjerknes force $F_g$ acting between them at a distance $r$ is derived from the integration of their oscillating acoustic pressure fields:
 
@@ -227,7 +227,7 @@ A defining geometric feature of the Standard Pipe is its helical thread pitch, w
 
 When a helical vortex filament spins, the kinetic energy of its induced velocity field is partitioned between the toroidal circulation and the poloidal circulation. The angle of the helical thread determines exactly how much of the fluid's momentum is projected tangentially (creating the Electric Field) versus how much is plunged vertically through the torus (creating the Magnetic Field).
 
-By decomposing the $c$ velocity boundary layer using the $4.9^\circ$ pitch angle, we evaluate the ratio of the tangential pushing force to the vertical plunging force. This ratio is governed by the tangent of the pitch angle:
+By decomposing the boundary layer velocity using the 4.9 degree pitch angle, we evaluate the ratio of the tangential pushing force to the vertical plunging force. This ratio is governed by the tangent of the pitch angle:
 
 $$\tan(4.9^\circ) \approx 0.0857$$
 
