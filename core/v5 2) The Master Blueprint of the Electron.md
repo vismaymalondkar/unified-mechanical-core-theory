@@ -15,8 +15,8 @@ The physical dimensions of the Electron are governed by a strictly scaled geomet
 ### **$r_{core}$ (The Microscopic Sink)**
 * **Scale:** $\approx 10^{-35} \text{ meters}$ (Legacy physics: The Planck Length).
 * **Location:** The absolute dead-center of the vortex wire.
-* **Hydrodynamic Function:** This is the physical "Speed Wall." At this exact radius, the internal Rankine fluid vortex redlines at Mach 1 ($c$). Because velocity is maximized, static pressure bottoms out at Absolute Zero. 
-* **The Output:** The continuous zero-pressure void draws in surrounding fluid, creating the macroscopic advection current we observe as **Gravity**.
+* **Hydrodynamic Function:** This is the physical "Speed Wall." At this exact radius, the internal Rankine fluid vortex accelerates to the acoustic limit (Mach 1 / $c$). Because velocity is maximized, static pressure bottoms out at the **Critical Pressure ($P^*$)**, establishing a stable Choked Flow streamline. 
+* **The Output:** The continuous low-pressure void draws in surrounding fluid, creating the macroscopic advection current we observe as **Gravity**.
 
 ### **$r_{pipe}$ (The Wire Thickness / Interaction Boundary)**
 * **Scale:** $\approx 2.817 \times 10^{-15} \text{ meters}$ (Legacy physics: Classical Electron Radius).
@@ -25,7 +25,7 @@ The physical dimensions of the Electron are governed by a strictly scaled geomet
 * **The Output:** This is the surface that physically displaces the ocean to create Inertial Mass, and pumps the fluid to create the Volumetric Flow ($Q$) of the **Electric Field**.
 
 ### **$R_{torus}$ (The Macroscopic Loop)**
-* **Scale:** $\approx 3.86 \times 10^{-13} \text{ meters}$ (Legacy physics: Reduced Compton Wavelength).
+* **Scale:** $\approx 3.861 \times 10^{-13} \text{ meters}$ (Legacy physics: Reduced Compton Wavelength).
 * **Location:** The distance from the center of the wire ($r_{core}$) to the empty dead-center of the entire donut hole.
 * **Hydrodynamic Function:** It defines the macroscopic track length of the particle. The fluid must travel this entire circumference ($2\pi R_{torus}$) to complete one full cycle of the engine.
 
@@ -59,7 +59,7 @@ In the UPT, the electron is not a static, solid object; it is a continuous, dyna
 ### **Vector 1: Poloidal Flow (The Microscopic Spin)**
 * **The Motion:** Fluid spinning directly around the cross-section of the wire (like water swirling around a drain).
 * **The Mechanics:** This is the Rankine vortex engine. The velocity increases as it moves inward, redlining at exactly Mach 1 ($c$) at the $r_{core}$ pinhole.
-* **The Output:** This extreme localized rotation creates the Volumetric Flow Rate ($Q$) and the absolute-zero pressure drop that powers the entire machine.
+* **The Output:** This extreme localized rotation creates the Volumetric Flow Rate ($Q$) and the Critical Pressure ($P^*$) drop that powers the entire machine.
 
 ### **Vector 2: Toroidal Flow (The Macroscopic Orbit)**
 * **The Motion:** Fluid traveling the long way around the entire donut hole (like cars driving on a circular racetrack).
@@ -69,11 +69,11 @@ In the UPT, the electron is not a static, solid object; it is a continuous, dyna
 ### **Vector 3: Helical Superposition (The Slinky Thread)**
 * **The Motion:** The fluid cannot purely spin (Poloidal) or purely travel forward (Toroidal) at the same time. It must do both. The vector addition of Vector 1 and Vector 2 forces the fluid into a spiraling **Helical Path**.
 * **The Mechanics:** Because the ratio of the Poloidal spin to the Toroidal orbit is structurally locked at 137:1, the fluid traces a highly specific diagonal thread. 
-* **The Output:** This superposition establishes the $\alpha$ pitch angle. It creates the "gappy" Slinky streamline, forming the physical, alternating $1/r$ gear teeth of the electron's interaction surface.
+* **The Output:** This superposition establishes the $\alpha$ pitch angle. It creates the "gappy" Slinky streamline, forming the physical, alternating $1/r$ corrugated gear teeth of the electron's interaction surface.
 
 ### **Vector 4: Radial Advection (The Gravity Intake)**
 * **The Motion:** Ambient fluid from the surrounding $1.129 \times 10^{11} \text{ kg/m}^3$ ocean rushing straight inward, perpendicular to the wire.
-* **The Mechanics:** Because Vector 1 creates a continuous absolute-zero vacuum at $r_{core}$, the surrounding universe constantly attempts to crush it. The fluid violently rushes inward to fill the void.
+* **The Mechanics:** Because Vector 1 creates a continuous Choked Flow sink ($P^*$) at $r_{core}$, the surrounding universe constantly attempts to crush it. The fluid violently rushes inward to satisfy the pressure gradient.
 * **The Output:** This continuous, macroscopic inward pull of the ocean is the physical mechanism of **Gravity**.
 
 ---
