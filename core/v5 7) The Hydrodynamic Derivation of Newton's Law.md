@@ -93,3 +93,6 @@ In standard physics, the **Planck Length** ($\approx 1.616 \times 10^{-35} \text
 This perfectly aligns with classical fluid dynamics: the Planck scale is simply the chaotic, turbulent boundary layer of the fluid, but the absolute mathematical singularity—the Choked Flow nozzle where fluid velocity reaches exactly $c$—must be a geometrically smaller pinhole. 
 
 Gravity is unimaginably weak precisely because the $r_{core}$ intake pinhole is $10^{23}$ times smaller than the $r_{pipe}$ containment wall holding it open.
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
