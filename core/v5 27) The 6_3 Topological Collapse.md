@@ -18,16 +18,18 @@ To force a $0_1$ electron loop to fit inside the tight geometric gaps of a $3_1$
 * The main knot is physically "gagging" on this extra loop. This intense, localized structural strain at the bottom of the $6_3$ knot is the literal, mechanical definition of the **Weak Nuclear Force**.
 
 ## **3. The Snap (Vortex Reconnection)**
-If a Neutron is left alone in the open universal ocean, it is constantly buffeted by ambient acoustic turbulence. For roughly 15 minutes, the highly strained bottom loop holds together. 
+If a free Neutron is left alone in the open universal ocean, it is subjected to the deterministic timer of its own **Harmonic Fatigue**. 
 
-Eventually, fluid turbulence strikes that pinched bottom loop at exactly the wrong resonant angle. The pipe physically exceeds its maximum bend radius, and the geometric gridlock fails:
-* **Vortex Reconnection:** The indestructible hydrostatic boundaries blur for a microsecond. The universal ocean violently amputates the highly strained bottom loop to relieve the geometric tension.
+Because the internal fluid is racing at Mach 1 ($c$), the entire knot rings at its Compton Frequency. Every single vibration feeds a microscopic Kelvin Wave wobble into the pinched bottom loop. For exactly 879.4 seconds, the highly strained pipe holds together as this wobble grows. 
+
+Eventually, the wobble amplitude exceeds the physical thickness of the wire ($2r_{pipe}$), and the geometric gridlock mathematically fails:
+* **Vortex Reconnection:** The inner boundary layer physically touches the outer boundary layer. The indestructible hydrostatic boundaries blur for a microsecond, and the universal ocean violently amputates the highly strained bottom loop to relieve the geometric tension.
 
 ## **4. The Symmetrical Release (The Decay Products)**
 The exact moment the weak point snaps, the single $6_3$ geometry splits into three distinct, mechanical components:
-1. **The Proton ($3_1$):** Freed from the extra bottom loop, the core of the knot instantly relaxes and unspools into its natural, perfectly symmetrical $3_1$ Trefoil state, resuming its $+1e$ acoustic wake.
+1. **The Proton ($3_1$):** Freed from the extra bottom loop, the core of the knot instantly relaxes its pitch angle (from $2.45^\circ$ down to $0.73^\circ$). It unspools into its natural, perfectly symmetrical $3_1$ Trefoil state, resuming its $+1e$ acoustic wake.
 2. **The Electron ($0_1$):** The amputated bottom loop violently snaps closed. It establishes itself as an independent, stable $0_1$ vortex ring, generating its own $-1e$ acoustic wake. 
-3. **The Anti-neutrino (Tension Release):** The massive "Borrowed Length" (elastic tension) that was required to hold that awkward, pinched $6_3$ geometry together instantly collapses. Because the tension has vanished but the fluid must conserve the energy, the collapse fires a unidirectional acoustic shockwave into the ocean at Mach 1 ($c$). 
+3. **The Anti-neutrino (Tension Release):** The $0.782 \text{ MeV}$ of "Borrowed Length" (isentropic elastic strain) that was required to hold that awkward, pinched $6_3$ geometry together instantly collapses. Because the tension has vanished but the fluid must conserve the energy, the collapse fires a unidirectional acoustic shockwave into the ocean at Mach 1 ($c$). 
 
 **The Verdict:** A Neutron is not a fundamental particle. It is mechanically just a Proton that has swallowed an Electron, and Beta Decay is the structural failure of the plumbing struggling to digest it.
 
