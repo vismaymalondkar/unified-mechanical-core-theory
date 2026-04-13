@@ -1,13 +1,13 @@
 # **Universal Plumbing Theory: Deriving $E = hf$ (The Hydrodynamic Impact)**
 
-**Core Thesis:** In legacy physics, energy is calculated using abstract "energy levels" and "photons as point particles." In the UPT, a photon is a physical, 3D coiled spring flying at Mach 1. The equation $E = hf$ is simply the classical mechanical formula for calculating the kinetic impact of that spring.
+**Core Thesis:** In legacy physics, energy is calculated using abstract "energy levels" and "photons as point particles." In the UPT, a photon is a physical, 3D coiled spring flying at Mach 1 through a compressible fluid. The equation $E = hf$ is simply the classical mechanical formula for calculating the kinetic impact of that spring.
 
 ---
 
 ## **1. Decoding Planck’s Constant ($h$): The Gyroscopic Momentum**
 In standard quantum mechanics, $h$ ($\approx 6.626 \times 10^{-34} \text{ J}\cdot\text{s}$) is an axiomatic, unexplained constant of "Action." In the UPT, $h$ is strictly derived from classical fluid dynamics: it is the baseline **Gyroscopic Angular Momentum** of the standard fluid pipe.
 
-Classical angular momentum is $L = m \cdot v \cdot r$. If we look at the baseline fundamental knot (the Electron), we can calculate its exact fluid rotational inertia using its specific hydrodynamic mass ($m_e$), the acoustic speed limit of the fluid ($c$), and the physical radius of the containment wall ($r_{pipe}$). 
+Classical angular momentum is $L = m \cdot v \cdot r$. If we look at the baseline fundamental knot (the Electron), we can calculate its exact fluid rotational inertia using its specific hydrodynamic mass ($m_e$), the acoustic speed limit of the fluid ($c$), and the physical radius of the outer containment wall ($r_{pipe}$). 
 
 Because the particle is a pitched Toroidal Helix, this momentum is distributed across its exact pitch angle ($\alpha_e$). The reduced angular momentum ($\hbar$) is precisely mathematically equivalent to:
 $$\hbar = \frac{m_e \cdot c \cdot r_{pipe}}{\alpha_e}$$
@@ -15,7 +15,7 @@ $$\hbar = \frac{m_e \cdot c \cdot r_{pipe}}{\alpha_e}$$
 To find the momentum of one full $360^\circ$ cycle (the full Planck's Constant, $h$), we multiply by $2\pi$:
 $$h = \frac{2\pi \cdot m_e \cdot c \cdot r_{pipe}}{\alpha_e}$$
 
-Planck's Constant is not a mathematical trick; it is the literal, invariant rotational inertia of the universal $10^{-15} \text{ m}$ fluid boundary layer. 
+Planck's Constant is not a mathematical trick; it is the literal, invariant rotational inertia of the universal $10^{-15} \text{ m}$ uncompressed fluid boundary layer. 
 
 ## **2. Decoding Frequency ($f$): The Delivery Rate**
 If the photon is a coiled spring flying at the speed of sound ($c$), then Frequency ($f$) is simply the physical RPM of the spring. 
