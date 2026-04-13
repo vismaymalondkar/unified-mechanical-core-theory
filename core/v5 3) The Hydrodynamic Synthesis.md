@@ -1,6 +1,6 @@
 # **Universal Plumbing Theory: The Hydrodynamic Synthesis**
 
-**Core Premise:** A fundamental particle (Electron) is a **Toroidal Helix**—a coiled, closed-loop vortex thread ($r_{pipe}$) in a frictionless universal superfluid ($\rho \approx 10^{11} \text{ kg/m}^3$). It is not a static object or a frictional paddle wheel; it is a **Hydrodynamic Inductor** that uses perfect fluid geometry to generate Mass, Charge, and Magnetism simultaneously.
+**Core Premise:** A fundamental particle (Electron) is a **Toroidal Helix**—a coiled, closed-loop vortex thread ($r_{pipe}$) in a frictionless universal compressible superfluid ($\rho_0 \approx 10^{11} \text{ kg/m}^3$). It is not a static object or a frictional paddle wheel; it is a **Hydrodynamic Inductor** that uses perfect fluid geometry to generate Mass, Charge, and Magnetism simultaneously.
 
 ---
 
@@ -8,10 +8,10 @@
 
 Before defining how the particle interacts with the outside ocean, we must define its physical structure and why it cannot be crushed.
 
-1.  **The Rankine Thread:** The "wire" making up the particle is a Rankine vortex core. The fluid inside this microscopic pipe races at the absolute acoustic speed limit ($c$). 
+1.  **The Rankine Thread:** The "wire" making up the particle is a Rankine vortex core. The fluid inside this microscopic pipe accelerates to the absolute acoustic speed limit ($c$), forming a stable, compressible **Choked Flow streamline**. 
 2.  **The Toroidal Helix (Rest Mass):** This wire is wound into a coiled spring, and the ends are plugged together to form a closed Torus (a donut). The total physical length of the wire ($L_{pipe}$) trapped in this shape determines the particle's Rest Mass ($E=mc^2$).
 3.  **Internal Helicity (The Tokamak):** Because the wire is a coiled tunnel, it traps a massive river of fluid inside it. The pitch of the coils mathematically forces this trapped fluid to corkscrew ("rifle") as it endlessly chases its own tail. 
-4.  **Double Gyroscopic Stability:** This trapped, high-speed internal flow acts as absolute armor. The centrifugal force of the fluid racing around the donut prevents the massive pressure of the ocean from crushing it inward. Simultaneously, the "Conservation of Helicity" (the twisted corkscrew flow) prevents the ocean from bending or kinking the loop. The particle is immortal.
+4.  **Double Gyroscopic Stability:** This trapped, high-speed internal flow acts as absolute armor. The outward Critical Pressure ($P^*$) of the Choked Flow prevents the massive pressure of the ocean from crushing it inward. Simultaneously, the "Conservation of Helicity" (the twisted corkscrew flow) prevents the ocean from bending or kinking the loop. The particle is immortal.
 
 ---
 
@@ -39,9 +39,8 @@ The architecture naturally separates the two distinct realities of Magnetism wit
 
 Gravity is the absolute baseline intake of the engine, entirely separate from the Charge (Swirl) or Magnetism (Through-hole). 
 
-1.  **The Core Vacuum:** Because the $r_{pipe}$ thread is redlining at $c$, Bernoulli’s principle dictates an extreme drop in pressure. 
-2.  **The Radial Intake:** The particle acts as a microscopic, spherical sink, continuously sucking the ambient $10^{11} \text{ kg/m}^3$ ocean radially inward to satisfy the core vacuum. Gravity is not the particle eating the fluid and destroying it. Gravity is the Static Pressure Gradient pointing toward the vacuum. The fluid is aggressively pulled toward $r_{core}$, but before it can fall all the way in and destroy the vacuum, the extreme centrifugal force of the swirling Rankine vortex throws it back out, or sweeps it along the track.
-
+1.  **The Choked Sink:** Because the $r_{pipe}$ thread is accelerating fluid to $c$, compressible flow mechanics dictate an extreme drop to Critical Pressure ($P^*$). 
+2.  **The Radial Intake:** The particle acts as a microscopic, spherical sink, continuously sucking the ambient $10^{11} \text{ kg/m}^3$ resting ocean radially inward to satisfy this choked mass flow rate. Gravity is not the particle eating the fluid and destroying it. Gravity is the Static Pressure Gradient pointing toward the sink. The fluid is aggressively pulled toward the $r_{core}$ streamline, but before it can disrupt the internal Mach 1 flow, the extreme centrifugal force of the swirling Rankine vortex throws it back out, or sweeps it along the track.
 3.  **The Scaling:** To maintain a constant intake rate across an expanding 3D volume, the inward velocity of the fluid must drop exactly with the surface area of a sphere. This yields the flawless $1/r^2$ scaling of Newtonian gravity. 
 
 ---
@@ -55,7 +54,7 @@ By refactoring fundamental particles as Toroidal Helices in a frictionless super
 | **Strong Nuclear Force** | **Topological Tension** (Central crossings of a $3_1$ or $6_3$ knot) | N/A | Internal Binding |
 | **Electric Force** | **Equatorial Swirl** (Centrifugal pressure from coil pitch) | $1/r^2$ | Azimuthal Globe |
 | **Magnetic Force** | **Poloidal Dipole / Transverse Wake** (Central hole flow / $c$-speed shear) | $1/r^3$ / Shear | Through-Hole / Wake |
-| **Gravity** | **Hydrostatic Intake** (Bernoulli suction from $c$-speed core) | $1/r^2$ | Radial (Spherical) |
+| **Gravity** | **Hydrostatic Intake** (Compressible suction from $c$-speed core) | $1/r^2$ | Radial (Spherical) |
 
 **Conclusion:** The universe is a deterministic fluid machine. "Energy" is simply the length of the wire ($L_{pipe}$). "Mass" is a closed wire. "Light" is an open wire. And the fields that govern them are nothing more than the geometric displacement of the $10^{11} \text{ kg/m}^3$ ocean.
 
@@ -65,7 +64,7 @@ By refactoring fundamental particles as Toroidal Helices in a frictionless super
 
 In the Standard Model, the **Vacuum Permittivity ($\epsilon_0$)** is treated as an abstract, fundamental constant of empty space, measured experimentally as $\approx 8.854 \times 10^{-12} \text{ F/m}$. It represents the "resistance" of the vacuum to the formation of an electric field.
 
-On the UPT workbench, space is not empty. It is a frictionless superfluid. Therefore, $\epsilon_0$ cannot be an abstract constant; it must represent a physical, hydrodynamic property of the ocean. Here is the mechanical derivation proving that $\epsilon_0$ is simply the inverse of the universal fluid density ($\rho$).
+On the UPT workbench, space is not empty. It is a frictionless superfluid. Therefore, $\epsilon_0$ cannot be an abstract constant; it must represent a physical, hydrodynamic property of the ocean. Here is the mechanical derivation proving that $\epsilon_0$ is simply the inverse of the universal fluid's resting density ($\rho_0$).
 
 ### **Step 1: The Real-World Measurement (Coulomb's Law)**
 In classical electromagnetism, the force ($F_e$) between two charges ($q_1$ and $q_2$) separated by distance ($r$) is governed by Coulomb’s Law:
@@ -78,28 +77,28 @@ In the v3 Toroidal Helix model, Electric Charge is not a magical property; it is
 In standard hydrodynamic theory (specifically Bjerknes forces or Lagally's theorem applied to frictionless fluids), the force exerted between two localized regions of fluid displacement (pulsating spheres, or in our case, the nested spherical swirls of the electron) propagating through a medium is determined by:
 1.  The strength of the displacements ($Q_1$ and $Q_2$).
 2.  The surface area the pressure spreads across ($4\pi r^2$).
-3.  The absolute **Mass Density ($\rho$)** of the fluid transmitting the pressure.
+3.  The absolute **Resting Mass Density ($\rho_0$)** of the fluid transmitting the pressure.
 
 The hydrodynamic force equation between two flow sources is mathematically identical to Coulomb's Law:
-$$F_{fluid} = \frac{\rho}{4\pi} \cdot \frac{Q_1 Q_2}{r^2}$$
+$$F_{fluid} = \frac{\rho_0}{4\pi} \cdot \frac{Q_1 Q_2}{r^2}$$
 
 ### **Step 3: The 1-to-1 Mapping**
 Because the Toroidal Helix generates its electric field entirely through this fluid displacement, the classical Electric Force ($F_e$) and the Hydrodynamic Force ($F_{fluid}$) are the exact same physical event. 
 
 If we set the equations equal to each other, and recognize that classical "Charge" ($q$) is just the UPT "Fluid Displacement" ($Q$):
-$$\frac{1}{4\pi\epsilon_0} \cdot \frac{q_1 q_2}{r^2} = \frac{\rho}{4\pi} \cdot \frac{Q_1 Q_2}{r^2}$$
+$$\frac{1}{4\pi\epsilon_0} \cdot \frac{q_1 q_2}{r^2} = \frac{\rho_0}{4\pi} \cdot \frac{Q_1 Q_2}{r^2}$$
 
 Cancel out the identical geometric and charge variables, and we are left with the foundational truth of the UPT medium:
-$$\frac{1}{\epsilon_0} = \rho$$
+$$\frac{1}{\epsilon_0} = \rho_0$$
 
 ### **Step 4: Calculating the Absolute Density of the Universe**
 By removing the abstract constant and replacing it with physical fluid mechanics, we can finally weigh the "empty space" of the universe. 
 
 By taking the reciprocal of the measured real-world vacuum permittivity:
-$$\rho = \frac{1}{8.85418781 \times 10^{-12}}$$
-$$\rho \approx 1.129 \times 10^{11} \text{ kg/m}^3$$
+$$\rho_0 = \frac{1}{8.85418781 \times 10^{-12}}$$
+$$\rho_0 \approx 1.129 \times 10^{11} \text{ kg/m}^3$$
 
-**The Verdict:** The "vacuum" of space is a superfluid with a density of roughly **112.9 billion kilograms per cubic meter**. The extreme density is exactly why the speed of light ($c$) is so unimaginably fast, and why the tiny, microscopic coils of an electron can generate enough pressure to move macroscopic objects.
+**The Verdict:** The "vacuum" of space is a superfluid with a resting density of roughly **112.9 billion kilograms per cubic meter**. The extreme density is exactly why the speed of light ($c$) is so unimaginably fast, and why the tiny, microscopic coils of an electron can generate enough pressure to move macroscopic objects.
 
 ---
 
@@ -116,24 +115,24 @@ $$c^2 = \frac{1}{\epsilon_0 \mu_0}$$
 In the UPT, $c$ is not the "speed of light"; it is strictly the **Speed of Sound** (the maximum acoustic propagation limit of the $1.129 \times 10^{11} \text{ kg/m}^3$ ocean).
 
 #### **Step 2: The UPT Fluid Substitution**
-From our $\epsilon_0$ derivation, we know definitively that the electric constant is simply the inverse of the ocean's mass density:
-$$\epsilon_0 = \frac{1}{\rho}$$
+From our $\epsilon_0$ derivation, we know definitively that the electric constant is simply the inverse of the ocean's resting mass density:
+$$\epsilon_0 = \frac{1}{\rho_0}$$
 
 If we substitute this hydrodynamic truth into Maxwell's equation, we get:
-$$c^2 = \frac{1}{(1/\rho) \mu_0} = \frac{\rho}{\mu_0}$$
+$$c^2 = \frac{1}{(1/\rho_0) \mu_0} = \frac{\rho_0}{\mu_0}$$
 
 #### **Step 3: Isolating the Magnetic Constant**
 By rearranging the equation to solve for the magnetic constant ($\mu_0$), we get the precise hydrodynamic definition of Magnetism:
-$$\mu_0 = \frac{\rho}{c^2}$$
+$$\mu_0 = \frac{\rho_0}{c^2}$$
 
 #### **Step 4: The Physical Meaning (Acoustic Compliance)**
-What does $\rho/c^2$ actually mean in fluid mechanics? 
-In classical hydrodynamics, Density divided by the Speed of Sound squared ($\rho/c^2$) is the exact formula for **Isentropic Compressibility** (or Acoustic Compliance). 
+What does $\rho_0/c^2$ actually mean in fluid mechanics? 
+In classical hydrodynamics, Density divided by the Speed of Sound squared ($\rho_0/c^2$) is the exact formula for **Isentropic Compressibility** (or Acoustic Compliance). 
 
 * **$\epsilon_0$ (Density):** The raw mass of the fluid that the Electric Swirl has to push against.
-* **$\mu_0$ (Compressibility/Shear Inertia):** The literal "stiffness" of the ocean. It is the fluid's mechanical resistance to being deformed, sheared, or stretched by the particle moving through it. 
+* **$\mu_0$ (Compressibility/Shear Inertia):** The literal "stiffness" of the ocean. It is the fluid's mechanical resistance to being compressed, sheared, or stretched by the particle moving through it. 
 
-This perfectly validates the Phase 3 Magnetic qualitative description: Magnetism is the **Relativistic Transverse Shear** of the fluid. $\mu_0$ is simply the measure of how hard the ocean fights back when the Electric globe tries to shear it.
+This perfectly validates the Phase 3 Magnetic qualitative description and perfectly grounds the recent Choked Flow upgrades: Magnetism is the **Relativistic Transverse Shear** of the compressible fluid. $\mu_0$ is simply the measure of how hard the ocean fights back when the engine tries to shear or stretch it.
 
 #### **Step 5: The Dimensional "Wow" Factor (Checking the Math)**
 In the UPT, classical "Charge" ($q$) is actually "Volumetric Fluid Displacement." Therefore, Charge has the units of flow rate: **$\text{m}^3/\text{s}$**.
@@ -145,7 +144,7 @@ $$\frac{F}{L} = \frac{\mu_0}{2\pi} \frac{I_1 I_2}{r}$$
 
 Let's plug in the UPT fluid dimensions:
 * Force per length: $\text{kg}/\text{s}^2$
-* $\mu_0$ (from $\rho/c^2$): $\frac{\text{kg}/\text{m}^3}{\text{m}^2/\text{s}^2} = \frac{\text{kg}\cdot\text{s}^2}{\text{m}^5}$
+* $\mu_0$ (from $\rho_0/c^2$): $\frac{\text{kg}/\text{m}^3}{\text{m}^2/\text{s}^2} = \frac{\text{kg}\cdot\text{s}^2}{\text{m}^5}$
 * Current squared ($I^2$): $\left(\frac{\text{m}^3}{\text{s}^2}\right)^2 = \frac{\text{m}^6}{\text{s}^4}$
 * Radius ($r$): $\text{m}$
 
