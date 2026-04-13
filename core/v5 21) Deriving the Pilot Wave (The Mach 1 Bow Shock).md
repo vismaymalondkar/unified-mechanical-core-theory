@@ -30,10 +30,12 @@ What happens to the acoustic wave directly in front of the photon ($\theta = 0^\
 
 $$\Delta P_{front} = \frac{\Delta P_{resting}}{0} \rightarrow \mathbf{\infty}$$
 
-**The Mechanical Translation:** Because the denominator goes to zero, the acoustic pressure waves mathematically cannot propagate ahead of the photon. Instead, every single pressure ripple the photon creates perfectly "stacks up" exactly at its front edge, creating a continuous, localized wall of extreme high pressure. 
-* The wave cannot outrun the particle (because $v_{wave} = c$).
-* The particle cannot outrun the wave (because $v_{particle} = c$).
-* The photon perfectly surfs the absolute mathematical apex of its own acoustic displacement wave. **This stacked pressure boundary is the Pilot Wave.**
+**The Compressible Translation (The Shock Boundary):** In linear acoustics, this division by zero implies the frontal pressure becomes infinite (the Prandtl-Glauert Singularity). However, because the universal ocean is a *compressible superfluid*, non-linear fluid dynamics take over before the pressure can reach infinity. 
+
+Because the wave cannot outrun the particle ($v_{wave} = c$), and the particle cannot outrun the wave ($v_{particle} = c$), every single pressure ripple the photon creates perfectly "stacks up" at its front edge. The fluid violently compresses, resolving the mathematical infinity into a highly dense, finite **Normal Shock Wave**. 
+
+* The photon perfectly surfs the absolute mathematical apex of its own acoustic displacement wake. 
+* **This stacked compressible pressure boundary is the Pilot Wave.**
 
 ## **4. Deriving the De Broglie Wavelength ($\lambda$)**
 Standard physics uses the De Broglie equation ($\lambda = h/p$) to assign a "wavelength" to a particle. In the UPT, the wavelength of the pilot wave is derived purely from the kinematics of the spring.
