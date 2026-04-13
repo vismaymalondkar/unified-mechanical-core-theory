@@ -13,7 +13,7 @@ It is constructed as a **Closed Toroidal Helix** (a continuous fluid "Slinky" be
 The physical dimensions of the Electron are governed by a strictly scaled geometric hierarchy:
 
 ### **$r_{core}$ (The Microscopic Sink)**
-* **Scale:** $\approx 10^{-35} \text{ meters}$ (Legacy physics: The Planck Length).
+* **Scale:** $\approx 10^{-38} \text{ meters}$ (The absolute acoustic singularity limit).
 * **Location:** The absolute dead-center of the vortex wire.
 * **Hydrodynamic Function:** This is the physical "Speed Wall." At this exact radius, the internal Rankine fluid vortex accelerates to the acoustic limit (Mach 1 / $c$). Because velocity is maximized, static pressure bottoms out at the **Critical Pressure ($P^*$)**, establishing a stable Choked Flow streamline. 
 * **The Output:** The continuous low-pressure void draws in surrounding fluid, creating the macroscopic advection current we observe as **Gravity**.
