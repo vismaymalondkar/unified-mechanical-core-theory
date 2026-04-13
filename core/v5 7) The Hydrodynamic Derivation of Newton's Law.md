@@ -29,7 +29,7 @@ $$Q_g = \frac{\dot{m}}{\rho_0} = 2\pi \cdot r_{core} \cdot L_{pipe} \cdot c \cdo
 To link this flow to classical physics, we define the Mass ($m$) of the particle in pure fluid terms (Hydrodynamic Added Mass). The physical volume of the particle is dictated by the $r_{pipe}$ containment wall interacting with the resting ocean.
 * **Mass of the Displaced Fluid ($m_{wire}$):** $\pi \cdot r_{pipe}^2 \cdot L_{pipe} \cdot \rho_0$
 
-We define the **Specific Volumetric Intake ($\zeta$)**, which is the exact amount of resting ocean sucked in per kilogram of wire (measured in $\text{m}^3/(\text{s} \cdot \text{kg})$). We find this by dividing the geometric flow rate ($Q_g$) by the hydrodynamic mass:
+We define the **Specific Volumetric Intake ($\zeta$)**, which is the exact amount of resting ocean sucked in per kilogram of wire (measured in ${m}^3/({s} \cdot {kg})$). We find this by dividing the geometric flow rate ($Q_g$) by the hydrodynamic mass:
 $$\zeta = \frac{Q_g}{m_{wire}}$$
 $$\zeta = \frac{2\pi \cdot r_{core} \cdot L_{pipe} \cdot c \cdot (\rho^* / \rho_0)}{\pi \cdot r_{pipe}^2 \cdot L_{pipe} \cdot \rho_0}$$
 
