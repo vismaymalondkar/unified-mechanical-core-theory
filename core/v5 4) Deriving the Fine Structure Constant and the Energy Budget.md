@@ -5,13 +5,13 @@
 ---
 
 ## **1. The Unified Energy Budget ($mc^2$)**
-In a frictionless superfluid ($\rho \approx 10^{11} \text{ kg/m}^3$), the Toroidal Helix does not generate two separate fields. The high-speed vortex coils induce a single, unified 3D spiraling fluid flow. 
+In a frictionless, compressible superfluid resting at $\rho_0 \approx 10^{11} \text{ kg/m}^3$, the Toroidal Helix does not generate two separate fields. The high-speed vortex coils induce a single, unified 3D spiraling fluid flow. 
 
 Because of the Pythagorean theorem, the total kinetic energy of this induced flow splits into two geometric vectors:
 $$v_{total}^2 = v_{horizontal}^2 + v_{vertical}^2$$
 $$\mathbf{Total\ Energy\ (mc^2) = Electric\ Energy + Magnetic/Internal\ Energy}$$
 
-* **The Horizontal Leg (Electric Field):** The sideways displacement of the ocean, manifesting as the macroscopic equatorial swirl ($1/r^2$).
+* **The Horizontal Leg (Electric Field):** The sideways displacement of the uncompressed ocean, manifesting as the macroscopic equatorial swirl ($1/r^2$).
 * **The Vertical Leg (Magnetic & Armor):** The plunging poloidal flow through the center hole ($1/r^3$), plus the massive internal trapped fluid required for gyroscopic stability.
 
 ---
@@ -45,7 +45,7 @@ $$\mathbf{\theta \approx 4.9^\circ}$$
 ## **4. The Distance Rule ($1/r$) and the Grand Geometric Lock**
 How can the Electric Field require only $\alpha \cdot mc^2$ of the energy budget, while the UPT Gravity derivation requires the Electric Charge ($Q$) to balance against the **entire** $mc^2$ budget? 
 
-$$\text{Gravity Derivation:\ \ } mc^2 = \frac{\rho Q^2}{4\pi r_{pipe}}$$
+$$\text{Gravity Derivation:\ \ } mc^2 = \frac{\rho_0 Q^2}{4\pi r_{pipe}}$$
 
 The resolution lies in the fluid dynamics of spatial decay. The energy of a spherical pressure field drops off proportionally to the distance from the source ($E \propto 1/r$). Because the electron is a donut made of wire, we must measure the field at two different structural boundaries:
 
