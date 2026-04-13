@@ -5,9 +5,9 @@
 ---
 
 ## **1. Gravity: The Omnidirectional Crush (Volume)**
-Gravity is driven by the microscopic $c$-velocity core of the vortex thread ($r_{pipe}$) acting as a Bernoulli vacuum. 
+Gravity is driven by the microscopic $c$-velocity core of the vortex thread ($r_{core}$) acting as a Choked Flow sink ($P^*$). 
 
-* **The Mechanic:** High-pressure fluid naturally flows to fill a low-pressure void. The $10^{11} \text{ kg/m}^3$ ocean presses inward from 360 degrees. 
+* **The Mechanic:** High-pressure fluid naturally flows to satisfy a low-pressure gradient. The resting $\rho_0 \approx 10^{11} \text{ kg/m}^3$ ocean presses inward from 360 degrees. 
 * **The Target:** Because hydrostatic pressure acts on physical surfaces, *any* object that displaces fluid will be caught in this gradient. It doesn't matter if the object is spinning, hot, cold, coiled, or straight. If it is made of wire ($L_{pipe}$ Mass), it takes up space. If it takes up space, the high-pressure ocean on its back will shove it toward the low-pressure drain.
 * **Result:** Gravity affects all mass because it acts on pure physical existence (Volume). 
 
@@ -23,14 +23,14 @@ To understand why this hurricane pushes some particles and completely ignores ot
 ## **3. Neutral Mass: The Dead Rock (Zero Circulation)**
 A Neutron is a $6_3$ knot. It is **amphichiral** (it is its own topological mirror image). 
 
-* **The Mechanic:** The neutron possesses massive internal Gyroscopic Armor ($L_{pipe}$ mass), but its outer boundary has **zero net swirl (Zero Circulation)**. 
+* **The Mechanic:** The neutron possesses massive internal Gyroscopic Armor ($L_{pipe}$ mass), but its outer boundary has **zero net swirl (Zero Circulation)** due to perfect topological phase cancellation. 
 * **The Interaction:** When a neutron flies through an external Electric hurricane, the fluid washes completely evenly over its top and bottom surfaces. Because the fluid velocity is identical on both sides, the static pressure remains perfectly balanced. 
 * **Result:** The neutron experiences zero sideways electric force. It is a smooth cylinder in a stream.
 
 ---
 
 ## **4. Charged Mass: The Magnus Lift (Active Circulation)**
-An isolated Electron or Proton has un-canceled pitched coils. It is actively generating its own swirl (Circulation).
+An isolated Electron or Proton has un-canceled pitched coils. It is actively generating its own macroscopic swirl (Circulation).
 
 * **The Mechanic:** When you place a *spinning* particle into an external sideways hurricane, the fluid vectors combine:
     * **The Fast Side:** On one side of the particle, its own spin *adds* to the speed of the hurricane. Velocity spikes, so static pressure drops.
