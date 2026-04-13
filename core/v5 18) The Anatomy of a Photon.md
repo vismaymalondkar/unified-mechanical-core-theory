@@ -9,7 +9,7 @@ Below is the exact mechanical specification and structural dynamics of light.
 ## **1. The Physical Dimensions (The Open Pipe)**
 The photon is made of the exact same continuous fluid thread as all other matter, meaning it shares the identical standard gauge boundaries of the universal plumbing:
 * **$r_{pipe}$ (The Containment Wall):** $2.817 \times 10^{-15} \text{ m}$. The macroscopic thickness of the coiled fluid wire.
-* **$r_{core}$ (The Dynamic Vacuum):** $4.07 \times 10^{-38} \text{ m}$. The microscopic dead-center of the tube.
+* **$r_{core}$ (The Choked Streamline):** $6.27 \times 10^{-38} \text{ m}$. The microscopic dead-center throat of the tube.
 
 When a fundamental knot (like an Electron or Positron) physically snaps and unspools, the closed loop becomes an open pipe.
 
@@ -19,18 +19,18 @@ When a fundamental knot (like an Electron or Positron) physically snaps and unsp
 Why does light have zero resting mass, even though it is made of the exact same physical fluid thread as a heavy proton? 
 
 Because of **Hydrodynamic Intake Geometry**. 
-* **Closed Knots (Mass):** A closed loop must satisfy its $r_{core}$ vacuum by sucking fluid radially inward through its sidewalls. This omnidirectional suction creates the spherical pressure deficit we call Gravity (Mass). 
+* **Closed Knots (Mass):** A closed loop must satisfy its $r_{core}$ Choked Flow requirement by sucking fluid radially inward through its sidewalls. This omnidirectional suction creates the spherical pressure deficit we call Gravity (Mass). 
 * **The Photon (Massless):** The photon is an open pipe flying forward at exactly $c$. The open front of the pipe acts like the intake of a supersonic Ramjet. Fluid from the resting ocean is rammed straight down the $r_{core}$ tube at the speed of sound. 
-* **The Result:** Because the vacuum's appetite is 100% satisfied longitudinally (front-to-back), there is **zero radial suction** through the sidewalls. Zero radial suction equals zero spherical pressure deficit, which means absolutely zero Gravity. 
+* **The Result:** Because the core's mass flow requirement is 100% satisfied longitudinally (front-to-back), there is **zero radial suction** through the sidewalls. Zero radial suction equals zero spherical pressure deficit, which means absolutely zero Gravity. 
 
 ---
 
-## **3. The Dynamic Vacuum ($P = 0$)**
-Even though the ocean is violently rushing through the center of the photon, the core remains a perfect vacuum. This is guaranteed by classical Bernoulli mechanics:
-$$P_{local} + \frac{1}{2}\rho v^2 = P_0$$
-* Because the fluid stream inside the core is traveling at the absolute acoustic speed limit ($v = c$), its Dynamic Pressure perfectly equals the maximum crushing ambient pressure of the universe ($P_0$).
-* To mathematically balance the equation, the internal Static Pressure ($P_{local}$) must drop to exactly **Zero**. 
-* The $r_{pipe}$ walls do not burst outward from this rammed stream because the photon is a coiled spring. The violently swirling fluid making up the walls acts as a centrifugal drill, centrifuging the rammed fluid and maintaining the hardened $10^{-38} \text{ m}$ boundary.
+## **3. The Choked Streamline ($P = P^*$)**
+Even though the ocean is violently rushing through the center of the photon, the core does not cavitate into an absolute vacuum. Instead, it is governed by compressible **Isentropic Flow** mechanics.
+
+* **The Mach 1 Bottleneck:** As the fluid stream inside the core accelerates to the absolute acoustic speed limit ($v = c$), it hits a strict hydrodynamic boundary known as **Choked Flow**. 
+* **Critical State:** The static pressure does not drop to zero; it drops exactly to the fluid's **Critical Pressure ($P^*$)**. Simultaneously, the fluid physically stretches to its **Critical Density ($\rho^* \approx 64.95\% \text{ of } \rho_0$)**. It mathematically refuses to let fluid pass any faster than this exact mass flow rate.
+* **The Internal Skeleton:** This means the photon's core is not an empty void, but a hyper-fast, low-density fluid streamline. This stretched, $c$-velocity fluid acts as an internal hydrostatic skeleton. It pushes back against the violently swirling $r_{pipe}$ walls just enough to keep the spring perfectly inflated, preventing it from being crushed by the $P_0$ ambient ocean as it flies.
 
 ---
 
