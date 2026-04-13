@@ -5,7 +5,7 @@
 ---
 
 ## **1. The Mass-Length Identity**
-Because the $r_{pipe}$ boundary is an indestructible hydrostatic wall made of incompressible superfluid, the volume of the thread is strictly conserved. Therefore, the "Mass" of any particle is literally the physical, unspooled length of its fluid wire.
+Because the $r_{pipe}$ boundary is a hydrostatic wall locked by the resting, uncompressed baseline pressure ($\rho_0$), the volume of the thread at that boundary is strictly conserved. Therefore, the "Mass" of any particle is literally the physical, unspooled length of its fluid wire.
 * **$Mass \propto L_{pipe}$**
 
 ---
@@ -31,17 +31,21 @@ $$\mathbf{\alpha_p \approx 0.000162}$$
 ---
 
 ## **3. The Neutron ($\alpha_n$): The Helical Torsion Equation**
-The Neutron ($939.56 \text{ MeV}$) is heavier than the Proton ($938.27 \text{ MeV}$), meaning it contains even more "extra" wire. Its macroscopic charge is strictly zero due to the total topological gridlock of its folded $6_3$ knot. 
+The Neutron ($939.565 \text{ MeV}$) is heavier than the Proton ($938.272 \text{ MeV}$), meaning it contains even more "extra" wire. Its macroscopic charge is strictly zero due to the total topological gridlock of its folded $6_3$ knot. 
 
-If we treat the Proton as the fundamental, relaxed base knot ($Mass_{base}$), the heavier Neutron is that exact same base knot wound with an even steeper pitch angle ($\alpha_n$) that physically demands more wire:
-$$Mass_{neutron} = \frac{Mass_{proton}}{\sqrt{1 - \alpha_n}}$$
+To find its pitch angle, we must use its true, unstrained hardware baseline. The Neutron consists of 1837 total loops (Proton + Electron). 
 
-Solve for the Neutron's specific pitch angle:
-$$\sqrt{1 - \alpha_n} = \frac{M_{proton}}{M_{neutron}}$$
-$$1 - \alpha_n = \left(\frac{M_{proton}}{M_{neutron}}\right)^2$$
-$$\mathbf{\alpha_n = 1 - \left(\frac{M_{proton}}{M_{neutron}}\right)^2}$$
+* **$Mass_{base}$ (Unstrained 1837 loops):** $1837 \times 0.511 \text{ MeV} = \mathbf{938.707 \text{ MeV}}$
+* **$Mass_{actual}$ (True resting mass):** $\mathbf{939.565 \text{ MeV}}$
 
-**The Geometric Result:** Plugging in the real-world mass values ($\approx 938.27 / 939.56$) yields a pitch efficiency of **$\mathbf{\alpha_n \approx 0.00275}$**. The Neutron is twisted to an extreme angle of **$\mathbf{\approx 3.0^\circ}$**, requiring $1.3 \text{ MeV}$ of extra wire to clear its complex folds.
+We apply the geometric elongation equation to solve for the Neutron's specific pitch angle ($\alpha_n$):
+$$\sqrt{1 - \alpha_n} = \frac{938.707}{939.565}$$
+$$\sqrt{1 - \alpha_n} \approx 0.999086$$
+$$1 - \alpha_n = (0.999086)^2$$
+$$1 - \alpha_n \approx 0.998174$$
+$$\mathbf{\alpha_n \approx 0.001826}$$
+
+**The Geometric Result:** The extreme topological gridlock of the $6_3$ knot forces the Neutron's wire to twist to a pitch efficiency of **$\mathbf{\alpha_n \approx 0.001826}$**. The thread is aggressively wrenched to an angle of **$\mathbf{\approx 2.45^\circ}$**, drawing $0.858 \text{ MeV}$ of isentropic strain (Borrowed Length) out of the compressible ocean to clear its complex folds.
 
 ---
 *© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
