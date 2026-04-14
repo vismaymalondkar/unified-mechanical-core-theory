@@ -26,16 +26,18 @@ Because the Positron is tied in the exact opposite topological direction, its He
 
 ---
 
-## **4. Deriving $E=mc^2$ (The Kinetic Energy of the Knot)**
-Before we can crash the particles together, we must quantify the exact mechanical energy stored inside a resting fluid knot. In classical fluid mechanics, Kinetic Energy (KE) is $KE = \frac{1}{2}mv^2$.
+## **4. Deriving $E=mc^2$ (The Total Mechanical Energy of the Knot)**
+Before we can crash the particles together, we must quantify the exact mechanical energy stored inside a resting fluid knot. Because the electron is a compressible Rankine vortex, its energy is divided between Kinetic Energy (fluid velocity) and Potential Energy (pressure strain). 
 
-To prevent the pipe from collapsing under the universe's crushing baseline pressure ($P_0$), the fluid trapped inside the Toroidal knot must accelerate toward the absolute acoustic limit ($c$) in two geometric vectors simultaneously:
-1. **Toroidal Flow:** Circulating *around* the main donut track, creating angular momentum ($KE = \frac{1}{2}mc^2$).
-2. **Poloidal Flow:** Circulating *through* the cross-section of the pipe to maintain the Choked Flow core ($P^*$) against the walls ($KE = \frac{1}{2}mc^2$).
+At the microscopic core ($r_{core}$), the fluid travels at exactly Mach 1 ($c$), maximizing Kinetic Energy. As we move outward to the boundary wall ($r_{pipe}$), the velocity degrades, but the static pressure rises until it perfectly equals the baseline ocean ($P_0$), maximizing Potential Strain. 
 
-Summing the total fluid kinetic energy of the stable knot:
-$$KE_{total} = \frac{1}{2}mc^2 + \frac{1}{2}mc^2 = \mathbf{mc^2}$$
-The UPT mechanically derives Einstein's mass-energy equivalence using nothing but standard 3D fluid pipe dynamics. Mass is not "magic"; it is simply trapped rotational kinetic energy.
+To prevent the pipe from collapsing, the **Total Mechanical Energy** (Kinetic + Strain) integrated across the hardware must mathematically equal the acoustic speed limit ($c$) in two geometric vectors simultaneously:
+1. **Toroidal Flow:** The total energy of the fluid circulating *around* the main donut track ($\text{Energy} = \frac{1}{2}mc^2$).
+2. **Poloidal Flow:** The total energy of the fluid circulating *through* the cross-section of the pipe to maintain the $P^*$ core against the $P_0$ ocean ($\text{Energy} = \frac{1}{2}mc^2$).
+
+Summing the total trapped energy of the stable knot:
+$$E_{total} = \frac{1}{2}mc^2 + \frac{1}{2}mc^2 = \mathbf{mc^2}$$
+The UPT mechanically derives Einstein's mass-energy equivalence using nothing but standard compressible Rankine dynamics. Mass is not "magic"; it is simply the sum of trapped kinetic velocity and static pressure strain.
 
 ---
 
