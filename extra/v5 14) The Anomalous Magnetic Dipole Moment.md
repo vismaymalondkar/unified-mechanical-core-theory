@@ -11,13 +11,13 @@ In classical mechanics, a solid spinning sphere yields a $g$-factor of 1. Legacy
 
 **A. Mass (The Volumetric Disc)**
 In the UPT, "Mass" is the physical hardware length of the universal superfluid wire ($L_{pipe}$). However, dynamically, this mass is distributed across the entire internal cross-section of the Rankine wire, circulating between the Choked Flow core ($P^*$) and the outer boundary. 
-* Because the internal fluid rotates around the core, this cross-section acts mechanically as a solid spinning disc.
-* The mathematical Moment of Inertia (average lever arm) of a disc is exactly **$0.5$** ($I = \frac{1}{2}mR^2$).
+* Because the internal fluid rotates around the core (Poloidal flow), this cross-section acts mechanically as a solid spinning disc.
+* The mathematical Moment of Inertia (average lever arm) of a disc is exactly **$0.5$** ($I = \frac{1}{2}m(r_{pipe})^2$).
 
 **B. Charge (The Aerodynamic Hoop)**
 "Charge" is not a secondary fluid; it is strictly an aerodynamic skin effect. It is the acoustic shear wake generated exclusively at the extreme outer boundary, where the high-velocity engine grinds against the resting, high-pressure ocean ($P_0$).
-* Because Charge only exists on the absolute outer 2D boundary, it acts mechanically as a thin spinning hoop.
-* The mathematical Moment of Inertia (average lever arm) of a hoop is exactly **$1.0$** ($I = 1mR^2$).
+* Because Charge only exists on the absolute outer 2D boundary of the wire, it acts mechanically as a thin spinning hoop.
+* The mathematical Moment of Inertia (average lever arm) of a hoop is exactly **$1.0$** ($I = 1m(r_{pipe})^2$).
 
 **The Output:** The $g$-factor is simply the ratio of Magnetic Output (Charge) to Angular Momentum (Mass). Because Charge operates at maximum geometric leverage and Mass is crippled by volumetric distribution, the geometry flawlessly forces the Dirac baseline: 
 $$g_{baseline} = \frac{1.0}{0.5} = \mathbf{2}$$
