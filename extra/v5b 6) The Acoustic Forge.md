@@ -34,12 +34,12 @@ In the 1990s, the Large Electron-Positron Collider (LEP) at CERN smashed electro
 ### **A. Electron Capture (Helical Torsion)**
 If you combine the resting mass of a Proton ($3_1$) and an Electron (Unknot), you only get $938.78 \text{ MeV}$. A Neutron ($6_3$) requires $939.56 \text{ MeV}$. The geometry is short on material. 
 
-Therefore, this process cannot happen in a vacuum. Inside a dense nucleus, extreme environmental pressure physically crushes the $3_1$ knot and the Unknot together. To make the complex $6_3$ folds without adding physical length to the $r_{pipe}$ boundary, the ambient pressure physically twists the pipe, **crushing the pitch angle ($\alpha$) of the helical thread tighter**. This violent flattening acts like a tightly wound spring, storing the exact $0.78 \text{ MeV}$ of missing energy as **Torsional Strain**.
+Therefore, this process cannot happen in a vacuum. Inside a dense nucleus, extreme environmental pressure physically crushes the $3_1$ knot and the Unknot together. To make the complex $6_3$ folds, the ambient pressure physically twists the pipe, **crushing the pitch angle ($\alpha$) of the helical thread tighter**. Because flattening a helical pitch geometrically requires drawing out more wire, this extreme torsion physically stretches the fluid streamline. This **Excess Elongation** recruits ambient fluid to lengthen the $P^*$ core, adding the exact $0.78 \text{ MeV}$ of missing physical thread required to complete the Neutron.
 
 ### **B. Beta Decay (The Torsional Recoil)**
 When the free neutron's harmonic fatigue causes the $6_3$ knot to snap, the over-torqued boundary layer violently un-winds. The pitch angle ($\alpha$) of the helix snaps back to its unstrained, comfortable resting state, ejecting the Proton and the Electron.
 
-Because no physical piece of the $r_{pipe}$ thread breaks off, there is no unspooled payload to create a Photon. Instead, the violent unwinding of the thread dumps the $0.78 \text{ MeV}$ of stored torsion into the $1.129 \times 10^{11} \text{ kg/m}^3$ ocean as a pure **Longitudinal Acoustic Shockwave**. 
+Because no physical piece of the $r_{pipe}$ thread breaks off, there is no unspooled payload to create a Photon. Instead, the violent unwinding of the thread dumps the $0.78 \text{ MeV}$ of stored Excess Elongation into the $1.129 \times 10^{11} \text{ kg/m}^3$ ocean as a pure **Longitudinal Acoustic Shockwave**. 
 
 **The Identity of the Neutrino:**
 Legacy physics calls this invisible energy the **Antineutrino**. In the UPT, a Neutrino is defined as the pure longitudinal pressure pulse created by the torsional recoil of the helical pipe. Because it has no spinning topological payload to generate hydrodynamic drift or mesh with other particles, it passes completely through the hydrostatic boundaries of standard matter undetected.
