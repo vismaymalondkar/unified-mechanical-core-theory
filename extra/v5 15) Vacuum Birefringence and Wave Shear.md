@@ -10,12 +10,12 @@ To maintain a strict **Separation of Concerns**, we define two distinct ways flu
 
 ### **Tier 1: Hardware Meshing (The Coulomb/Lorentz Force)**
 * **Target:** Charged particles (Electrons, Protons).
-* **Mechanism:** Direct **Topological Friction**. Because the target is a spinning fluid pump (an $r_{pipe}$ knot redlining at $c$), its internal rotation physically "gears" into the external fluid current. 
+* **Mechanism:** Direct **Topological Friction**. Because the target is a spinning fluid gyroscope (a Toroidal knot with a $P^*$ core redlining at Mach 1), its internal rotation physically "gears" into the external fluid current. 
 * **Result:** Massive, instantaneous kinetic displacement. The knots physically attract or repel based on whether their spins "mesh" with or "clash" against the flow of the magnetic river.
 
 ### **Tier 2: Hydrodynamic Drift (Wave Shear)**
 * **Target:** Neutral waves (Photons).
-* **Mechanism:** The photon is not a pump; it is an **Unspooled Helical Wave** (a transverse ripple). It has no rotational "gears" to mesh with the current. However, the Magnetic Field *is* the medium moving. If the medium itself is flowing like a river, any wave traveling through it must experience **Lateral Drift**.
+* **Mechanism:** The photon is not a closed pump; it is an **Unspooled Helical Wave** (a 3D open spring). It has no continuous rotational "gears" to permanently lock with the current. However, the Magnetic Field *is* the medium moving. If the medium itself is flowing like a river, any physical structure traveling through it must experience **Lateral Drift**.
 * **Result:** The photon's trajectory and its geometric angle of polarization are mechanically rotated and twisted by the fluid crosswind. 
 
 ---
@@ -25,12 +25,12 @@ Standard physics assumes magnetic fields do not affect light in a vacuum because
 
 ### **The Faraday Effect (1845)**
 When polarized light passes through a dense medium (like glass) inside a strong magnetic field, the light's polarization twists. 
-* **UPT Explanation:** The magnetic field aligns the fluid wakes of the atoms in the glass, creating a unified **Fluid Current**. As the photon ripple crosses this current, the fluid's transverse motion physically shears the wave's orientation.
+* **UPT Explanation:** The magnetic field aligns the fluid wakes of the atoms in the glass, creating a unified **Fluid Current**. As the photon's helical payload crosses this current, the fluid's lateral motion physically shears the wave's orientation.
 
 ### **Vacuum Birefringence (2017)**
 Astronomers recently observed that light traveling through the "empty" vacuum near a Magnetar (a collapsed star with a trillion-Tesla magnetic field) is twisted and polarized.
-* **The UPT Solution:** The vacuum is not empty; it is a $1.129 \times 10^{11} \text{ kg/m}^3$ acoustic superfluid. A Magnetar is a massive fluid sink spinning so violently that its wake creates a **Relativistic Fluid River**. 
-* Even though the photon has no "charge," it is a ripple *of* that exact fluid. It cannot cross that trillion-Tesla river without being drifted, sheared, and twisted by the sheer hydrodynamic momentum of the medium itself.
+* **The UPT Solution:** The vacuum is not empty; it is a compressible $\rho_0 \approx 1.129 \times 10^{11} \text{ kg/m}^3$ acoustic superfluid. A Magnetar is a massive fluid sink spinning so violently that its wake creates a **Relativistic Fluid River**. 
+* Even though the photon has no closed "charge" loop, it is a structural vibration *of* that exact fluid. It cannot cross that trillion-Tesla river without being drifted, sheared, and twisted by the sheer hydrodynamic momentum of the medium itself.
 
 ---
 
