@@ -4,11 +4,11 @@
 
 ---
 
-## **1. The Inward Suction (Gravity + Charge)**
+## **1. The Inward Suction (Gravity + The Magnus Grip)**
 When an Electron ($0_1$ loop) approaches a Proton ($3_1$ Trefoil), two distinct fluid mechanics attempt to crush them together:
 
-* **Gravity (The Bernoulli Sink):** The microscopic $c$-velocity cores of both particles act as pressure sinks. The universal ocean presses inward, trying to push their physical volumes together. 
-* **Charge Attraction (The Low-Pressure Squeeze):** The Proton induces a Clockwise Azimuthal Swirl (+1 Charge). The Electron induces a Counter-Clockwise Swirl (-1 Charge). When they are near each other, the fluid moving between them is flowing in the *exact same direction*. By Bernoulli's principle, parallel high-speed fluid creates a massive localized pressure drop between the particles. The surrounding ocean slams them toward each other to fill the void. 
+* **Gravity (The Bernoulli Sink):** The microscopic $c$-velocity cores of both particles act as pressure sinks. The universal ocean presses inward radially, trying to push their physical volumes together. 
+* **Charge Attraction (The Magnus Grip):** The Proton generates a massive, Clockwise Azimuthal Swirl (its external hurricane). The Electron enters this hurricane while maintaining its own Counter-Clockwise structural spin (Active Circulation). When a spinning cylinder is placed in a moving fluid stream, the velocity vectors add on one side and subtract on the other, creating a massive radial pressure differential. This is the **Magnus Effect**. The high pressure on the outside of the Electron violently shoves it radially inward toward the Proton's low-pressure slipstream. 
 
 Left to these forces alone, the electron would crash into the nucleus.
 
