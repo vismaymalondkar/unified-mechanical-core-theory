@@ -8,7 +8,7 @@ To explain this, legacy physics claims that the fabric of "empty space" is magic
 ## **2. The UPT Fix: The Macroscopic Acoustic Ledger**
 The **Universal Plumbing Theory (UPT)** eliminates Dark Energy entirely. The expansion of the universe is a strict, unavoidable thermodynamic consequence of the subatomic mechanics we have already derived. 
 
-As established in the *Harmonic Fatigue* equations, every particle (Proton, Neutron, Electron) is an $r_{pipe}$ boundary layer operating at Mach 1 ($c$) and vibrating at its Compton frequency ($\approx 10^{23} \text{ Hz}$). This makes every particle a subatomic acoustic antenna, constantly radiating non-linear pressure waves (phonons) into the $1.129 \times 10^{11} \text{ kg/m}^3$ universal ocean. 
+As established in the *Harmonic Fatigue* equations, every particle (Proton, Neutron, Electron) is a fluid vortex whose internal core ($r_{core}$) operates at Mach 1 ($c$), causing its entire $r_{pipe}$ boundary layer to vibrate at its Compton frequency ($\approx 10^{23} \text{ Hz}$). This makes every particle a subatomic acoustic antenna, constantly radiating non-linear pressure waves (phonons) into the $1.129 \times 10^{11} \text{ kg/m}^3$ universal ocean. 
 
 The observable universe contains roughly $10^{80}$ of these particles. They are relentlessly pumping kinetic acoustic energy into the universal fluid.
 
