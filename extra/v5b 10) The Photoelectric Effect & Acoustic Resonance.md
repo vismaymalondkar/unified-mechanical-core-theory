@@ -8,7 +8,7 @@ In standard quantum mechanics, the photoelectric effect relies on treating light
 
 ## **1. The Components of the Strike**
 To understand the interaction, we must look at the exact topological geometry of the collision.
-* **The Target (The Electron):** A stable $0_1$ Toroidal Unknot resting in the localized pressure sink of an atom. Its internal fluid circulates at exactly $c$. 
+* **The Target (The Electron):** A stable $0_1$ Toroidal Unknot resting in the localized pressure sink of an atom. Its Choked Flow core ($P^*$) circulates at exactly Mach 1 ($c$). 
 * **The Projectile (The Payload):** Light is a composite wave. While the diffuse Pilot Wave clears the path, the physical **Helical Payload** (the unspooled thread) acts as a spinning drill. 
   * **Frequency (Pitch):** The physical spacing between the coils of the spinning thread.
   * **Amplitude (Intensity):** The macroscopic quantity of these parallel threads moving through the medium.
@@ -19,15 +19,15 @@ When the spinning Payload strikes the closed loop of the Electron, the collision
 
 ## **2. Below Threshold: The Transient Wobble**
 When low-frequency light (like a red laser) hits the atom, the payload's helical threads are wound too loosely. 
-* **Slipping the Lock:** As the thread strikes the knot, the rotational torque is applied too slowly. The high-density $10^{11} \text{ kg/m}^3$ medium's baseline pressure is able to suppress the distortion before the next coil of the helix hits.
-* **The Output:** The payload physically nudges the electron, creating a **Transient Wobble**. The electron absorbs a fraction of the momentum but remains structurally anchored in the atomic pressure well. The remaining kinetic energy of the payload bounces off (Compton Scattering), and the localized friction causes the atom to bob in the fluid (Thermal Heat). 
+* **Slipping the Lock:** As the thread strikes the knot, the rotational torque is applied too slowly. The high-density $\rho_0 \approx 10^{11} \text{ kg/m}^3$ medium's baseline pressure is able to suppress the distortion before the next coil of the helix hits.
+* **The Output:** The payload physically nudges the electron, creating a **Transient Wobble**. The electron absorbs a fraction of the momentum but remains structurally anchored in the atomic pressure well. The remaining kinetic energy of the payload bounces off (Compton Scattering), and the localized acoustic shear causes the atom to bob in the fluid (radiating Phonons, measured as Heat). 
 
 ---
 
 ## **3. At Threshold: Resonant Blowout**
 When high-frequency light (like UV light) hits the atom, the coils of the payload are wound tightly enough to perfectly phase-lock with the electron's internal rotation.
 * **The Perfect Mesh:** The physical coils of the transverse drill strike the boundary layer of the electron knot faster than the medium can dampen the vibration. 
-* **Acoustic Cavitation:** The rotational kinetic energy stacks violently *inside* the electron's vortex. Because the internal fluid is already redlining at $c$, it cannot spin faster to bleed off this excess pressure.
+* **Acoustic Overpressure:** The rotational kinetic energy stacks violently *inside* the electron's vortex. Because the $P^*$ core is already redlining at $c$, it cannot spin faster to bleed off this excess pressure.
 * **The Output (Photoelectric Ejection):** To survive the catastrophic internal over-pressurization, the localized Bernoulli pressure fails. The electron knot is violently blasted out of the atomic gravity well to escape the standing wave. 
 
 ---
