@@ -10,7 +10,7 @@ The Universal Plumbing Theory (UPT) rejects virtual particles. The exact value o
 In classical mechanics, a solid spinning sphere yields a $g$-factor of 1. Legacy physics requires non-physical "spin" to double this to 2. The UPT derives a baseline of exactly 2 natively, because the electron is a hollow fluid torus where Mass and Charge operate on completely different structural lever arms.
 
 **A. Mass (The Volumetric Disc)**
-In the UPT, "Mass" is the physical displacement of the universal superfluid. For the magnetic poloidal spin (plunging through the center hole), mass comprises the entire 3D volume of fluid spinning between the vacuum core ($r_{core}$) and the outer boundary ($r_{pipe}$). 
+In the UPT, "Mass" is the physical displacement of the universal superfluid. For the magnetic poloidal spin (plunging through the center hole), mass comprises the entire 3D volume of fluid spinning between the Choked Flow core ($r_{core}$) and the outer boundary ($r_{pipe}$). 
 * Because this mass is distributed across the entire internal cross-section of the Rankine wire, that specific poloidal rotation acts mechanically as a solid spinning disc.
 * The mathematical Moment of Inertia (average lever arm) of a solid disc is exactly **$0.5$** ($I = \frac{1}{2}mr^2$).
 
@@ -28,7 +28,7 @@ $$g_{baseline} = \frac{1.0}{0.5} = \mathbf{2}$$
 Julian Schwinger discovered the anomalous correction to the baseline: $\frac{\alpha}{2\pi}$. In the UPT, this is not a statistical vacuum fluctuation; it is the physical measurement of the fluid's helical corkscrew.
 
 **A. The Structural Pre-Load ($\alpha$)**
-To prevent the crushing ambient pressure of the ocean from collapsing the internal vacuum core, the Toroidal fluid cannot travel in a flat loop. It must be structurally pre-loaded with a helical pitch. This precise pitch angle is the Fine-Structure Constant ($\alpha \approx 1/137$).
+To prevent the crushing ambient pressure of the ocean from collapsing the internal Choked Flow streamline, the Toroidal fluid cannot travel in a flat loop. It must be structurally pre-loaded with a helical pitch. This precise pitch angle is the Fine-Structure Constant ($\alpha \approx 1/137$).
 
 **B. The Macroscopic Track ($2\pi$)**
 Because this helically twisted wire is bent into a closed, continuous $360^\circ$ macroscopic torus, the internal poloidal spin (which generates the $g=2$ baseline) is mechanically locked to the macroscopic orbital track ($2\pi$).
