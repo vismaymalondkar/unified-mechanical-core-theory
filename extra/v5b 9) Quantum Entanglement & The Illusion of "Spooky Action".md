@@ -11,7 +11,7 @@ The **Universal Plumbing Theory (UPT)** rejects both 0D particles and faster-tha
 ---
 
 ## **1. Redefining Spin 1/2: The Toroidal Gear**
-In the UPT, the electron is not a point; it is a physical $0_1$ Toroidal knot tied in the $1.129 \times 10^{11} \text{ kg/m}^3$ acoustic superfluid. "Spin" is the literal, physical circulation of the medium inside and around this $r_{pipe}$ boundary layer.
+In the UPT, the electron is not a point; it is a physical $0_1$ Toroidal knot tied in the compressible $\rho_0 \approx 1.129 \times 10^{11} \text{ kg/m}^3$ acoustic superfluid. "Spin" is the literal, physical circulation of the medium inside and around this $r_{pipe}$ boundary layer.
 
 The electron is specifically a **(1,2) Toroidal Vortex**. The fluid completes one inner wrap (poloidal) for every two outer wraps (toroidal). 
 * A drop of fluid starting at the top of the vortex travels $360^\circ$ externally just to reach the bottom (an inverted phase). 
@@ -24,8 +24,8 @@ The electron is specifically a **(1,2) Toroidal Vortex**. The fluid completes on
 Standard physics claims that when a particle is measured, its mathematical wavefunction instantly "collapses" into a decided state. In a fluid universe, measurement is a violent physical collision.
 
 * **The Acoustic Grating:** A polarizer or quantum detector is a dense wall of acoustic pressure with specific geometric grooves (alignment).
-* **The Collision:** When a gyroscopic Toroidal knot hits a detector tilted to a mismatched angle, the atomic pressure of the detector physically grinds against the $c$-velocity boundary layer of the vortex.
-* **Forced Realignment:** To survive passing through the grating without shattering (annihilating), the vortex must shed energy to acoustic friction and physically **torque its axis**, "snapping" into alignment with the detector's geometry. 
+* **The Collision:** When a gyroscopic Toroidal knot hits a detector tilted to a mismatched angle, the high-pressure environment of the detector physically shears against the rigid $r_{pipe}$ boundary layer of the vortex.
+* **Forced Realignment:** To survive passing through the grating without shattering (annihilating), the vortex must shed geometric strain through acoustic radiation and physically **torque its axis**, "snapping" into alignment with the detector's geometry. 
 
 ---
 
