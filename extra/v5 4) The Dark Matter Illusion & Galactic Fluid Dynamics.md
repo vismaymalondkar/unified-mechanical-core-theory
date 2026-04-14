@@ -13,7 +13,7 @@ To prevent their math from crashing, mainstream physics injected a massive "ghos
 ## **2. The UPT Fix: Macroscopic Fluid Entrainment**
 The **Universal Plumbing Theory (UPT)** discards invisible particles entirely. The flat rotation curve is not a mass anomaly; it is a mathematically unavoidable output of **2D Macroscopic Fluid Dynamics** in a dense medium.
 
-In the UPT, the vacuum of space is a zero-friction fluid ($1.129 \times 10^{11} \text{ kg/m}^3$). Every star is a collection of microscopic spinning fluid pumps ($c$-velocity Rankine cores). When you put 100 billion of these stars into a localized area, they physically entrain and stir the surrounding universal fluid, creating a massive **Aetheric Hurricane** (a Super-Vortex).
+In the UPT, the vacuum of space is a zero-viscosity superfluid ($\rho_0 \approx 1.129 \times 10^{11} \text{ kg/m}^3$). Every star is a collection of microscopic spinning fluid pumps (Choked Flow cores operating at $P^*$). When you put 100 billion of these stars into a localized area, they physically entrain and stir the surrounding universal fluid, creating a massive **Aetheric Hurricane** (a Super-Vortex).
 
 ---
 
@@ -21,7 +21,7 @@ In the UPT, the vacuum of space is a zero-friction fluid ($1.129 \times 10^{11} 
 To understand why the math changes at the galactic scale, we must first document the mechanical pipeline of why galaxies flatten. In the UPT, galaxies are hammered into flat 2D disks by the thermodynamics of the universal ocean.
 
 * **Phase A: The Chaotic 3D Cloud:** When a galaxy forms, it is a 3D sphere of stars dragging fluid on random rotational axes. The crossing currents create extreme turbulence and acoustic shear. 
-* **Phase B: Spin Alignment:** Systems naturally seek the state of minimum energy dissipation. Over millions of years, the crushing friction of the dense ocean forces the spin axes of the 100 billion stars to align. Rogue stars experience massive fluid headwinds and are dragged into the collective current.
+* **Phase B: Spin Alignment:** Systems naturally seek the state of minimum energy dissipation. Over millions of years, the intense form drag and acoustic radiation pressure of the dense ocean forces the spin axes of the 100 billion stars to align. Rogue stars experience massive hydrodynamic headwinds and are dragged into the collective current.
 * **Phase C: Gyroscopic Flattening:** Once axes align, two forces flatten the structure. Centrifugal force throws matter outward, while the absolute baseline pressure ($P_0$) of the $10^{11}$ density fluid pushes inward from the top and bottom poles. 
 
 **Result:** The 3D spherical cloud is mechanically compressed into a 2D planar disk.
@@ -39,17 +39,17 @@ If the galaxy is a 2D cylinder, the background fluid velocity ($u$) pulling thro
 $$u_{background} = \frac{Q_{macro}}{\text{Area}} = \frac{\zeta M_{gal}}{2\pi r \cdot h}$$
 *(Where $h$ is the uniform thickness of the galactic disk).*
 
-We set the aerodynamic fluid force ($F = \rho \cdot Q_{star} \cdot u_{background}$) equal to the required Centripetal Force:
-$$\rho \cdot (\zeta m_{star}) \cdot \left( \frac{\zeta M_{gal}}{2\pi r \cdot h} \right) = \frac{m_{star} v^2}{r}$$
+We set the aerodynamic fluid force ($F = \rho_0 \cdot Q_{star} \cdot u_{background}$) equal to the required Centripetal Force:
+$$\rho_0 \cdot (\zeta m_{star}) \cdot \left( \frac{\zeta M_{gal}}{2\pi r \cdot h} \right) = \frac{m_{star} v^2}{r}$$
 
 Notice how the math perfectly cleans itself up:
 1. The distance variable ($r$) is in the denominator on both sides. **It completely cancels out.**
 2. The mass of the orbiting star ($m_{star}$) is on the top of both sides. **It completely cancels out.**
 
 We are left with the baseline rotation curve:
-$$v^2 = \frac{\rho \cdot \zeta^2 \cdot M_{gal}}{2\pi \cdot h}$$
+$$v^2 = \frac{\rho_0 \cdot \zeta^2 \cdot M_{gal}}{2\pi \cdot h}$$
 
-From the UPT derivation of the Gravitational Constant ($G = \frac{\rho \cdot \zeta^2}{4\pi}$), we know that $\rho \cdot \zeta^2 = 4\pi G$. Substituting this known constant directly into our equation gives the **UPT Master Equation for Galactic Rotation:**
+From the UPT derivation of the Gravitational Constant ($G = \frac{\rho_0 \cdot \zeta^2}{4\pi}$), we know that $\rho_0 \cdot \zeta^2 = 4\pi G$. Substituting this known constant directly into our equation gives the **UPT Master Equation for Galactic Rotation:**
 $$v^2 = \frac{4\pi G \cdot M_{gal}}{2\pi \cdot h}$$
 
 $$v = \sqrt{\frac{2 G M_{gal}}{h}}$$
@@ -61,11 +61,11 @@ This equation mathematically proves that in a 2D fluid disk, orbital velocity do
 ## **5. The Milky Way Unit Test (Zero Dark Matter)**
 To prove this is a physical reality and not just a mathematical trick, we can plug in the real-world observational data of our own Milky Way, using **only visible baryonic mass** (zero Dark Matter).
 
-* **$G$ (Gravitational Constant):** $6.67 \times 10^{-11} \text{ m}^3/\text{kg}\cdot\text{s}^2$
+* **$G$ (Gravitational Constant):** $6.674 \times 10^{-11} \text{ m}^3/\text{kg}\cdot\text{s}^2$
 * **$M_{gal}$ (Visible Mass):** $\approx 1.2 \times 10^{41} \text{ kg}$
 * **$h$ (Disk Thickness):** $\approx 9.46 \times 10^{18} \text{ m}$ (roughly 1,000 light-years)
 
-$$v = \sqrt{\frac{2 \cdot (6.67 \times 10^{-11}) \cdot (1.2 \times 10^{41})}{9.46 \times 10^{18}}}$$
+$$v = \sqrt{\frac{2 \cdot (6.674 \times 10^{-11}) \cdot (1.2 \times 10^{41})}{9.46 \times 10^{18}}}$$
 $$v \approx \mathbf{1.3 \times 10^6 \text{ m/s}} \text{ (or } \mathbf{1,300 \text{ km/s}})$$
 
 The observed, real-world flat rotation velocity of the Milky Way is roughly **$220 \text{ km/s}$**. 
@@ -78,7 +78,7 @@ The variation exists because the Milky Way is not a perfect, hard-walled cylinde
 ## **6. The Unit Test: The Globular Cluster Exception**
 If this fluid mechanic is true, small star clusters that fail to align their spins should not exhibit "Dark Matter" effects. 
 
-**Verification:** Deep space observations confirm that "Globular Clusters" (spherical clusters of a few million stars) maintain standard $1/r^2$ Newtonian orbits and show absolutely no signs of flat rotation curves. Because they lack the collective angular momentum to overcome fluid viscosity and stir the medium into a 2D whirlpool, they remain 3D point-sources. This perfectly validates the UPT geometric constraint.
+**Verification:** Deep space observations confirm that "Globular Clusters" (spherical clusters of a few million stars) maintain standard $1/r^2$ Newtonian orbits and show absolutely no signs of flat rotation curves. Because they lack the collective angular momentum and acoustic shear to stir the medium into a 2D whirlpool, they remain 3D point-sources. This perfectly validates the UPT geometric constraint.
 
 ---
 *© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
