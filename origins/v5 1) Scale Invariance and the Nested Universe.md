@@ -6,13 +6,24 @@ Instead, the universe operates on infinite **Scale Invariance**—a Russian Nest
 
 ---
 
-## 1. The Death of the "True Vacuum"
-In standard physics, the inside of a particle is treated as a fundamental 0D point or a true vacuum. In the Fractal UPT, what we perceive as an aerodynamic "void" inside the $r_{core}$ streamline is simply the resting fluid of the next microscopic dimension down.
+## 1. The Acoustic Horizon (The De Laval Membrane)
+In standard physics, the inside of a particle is treated as a fundamental 0D point or a true vacuum. In the Fractal UPT, what we perceive as an empty void inside the $r_{core}$ streamline is actually a state of extreme **Supersonic Expansion**.
 
-* **Level 0 (Our Universe):** The fluid we live in, resting at our massive baseline pressure of $P_0$.
-* **Level -1 (The Sub-Universe):** The fluid trapped inside our particles (inside $r_{core}$). To us, this fluid is redlining at Mach 1 ($c$) and dropped to critical pressure ($P^*$). But to a microscopic observer inside the core moving *with* the flow, it is a vast, resting fluid ocean with its own baseline pressure.
+The dimensional boundary operates exactly like a classical De Laval Nozzle (a rocket engine):
+* **The Level 0 Ocean (Subsonic):** The fluid we live in, resting at our massive baseline pressure of $P_0$. 
+* **The Throat ($P^*$):** As fluid is sucked into a particle, it accelerates. At the exact boundary of the $r_{core}$ Rankine Armor, the fluid hits Mach 1 ($c$). The pressure drops to the Critical Limit ($P^*$). Because it is choked, acoustic data from inside the core can no longer travel backward to reach us. It is an **Acoustic Horizon**.
+* **Level -1 (Supersonic Expansion):** Once the fluid crosses the $r_{core}$ throat, it enters the dimensional interior. Stripped of the Level 0 acoustic brake, the fluid violently expands. Its velocity skyrockets past Mach 1 (relative to us), and its static pressure plummets exponentially below $P^*$.
 
-In this model, **Mass and Energy** are not derived from tearing a hole into nothingness. They are strictly the thermodynamic measurement of the **Pressure Differential ($\Delta P$)** between the Level 0 ocean and the Level -1 ocean.
+## 2. Galilean Relativity and the Sub-Universe
+If the Level -1 fluid is a hyper-velocity, ultra-low-pressure supersonic jet, how can a fractal universe exist inside it? The answer is pure **Galilean Relativity**.
+
+Imagine flying inside a supersonic jet at Mach 3. If the windows are closed, you can pour a cup of coffee perfectly. Relative to you, the air inside the cabin is at rest. 
+
+The Level -1 universe is the fluid inside that supersonic expansion. 
+* To us (Level 0 observers looking down), the fluid inside an electron is a violent, churning, low-pressure jet stream. 
+* But to a microscopic observer forged *out* of that Level -1 fluid, they are moving *with* the supersonic flow. Relative to their own geometry, the Level -1 fluid feels like a vast, perfectly still, resting ocean with its own stable baseline pressure ($P_{-1}$).
+
+In this model, **Mass and Energy** are not derived from tearing a hole into nothingness. They are strictly the thermodynamic measurement of the **Pressure Differential ($\Delta P$)** between the subsonic Level 0 ocean and the supersonic Level -1 ocean.
 
 ## 2. The Rankine Armor as the Dimensional Membrane
 If our universe and the sub-universe are both made of fluid, what keeps them from mixing? 
