@@ -25,13 +25,6 @@ The Level -1 universe is the fluid inside that supersonic expansion.
 
 In this model, **Mass and Energy** are not derived from tearing a hole into nothingness. They are strictly the thermodynamic measurement of the **Pressure Differential ($\Delta P$)** between the subsonic Level 0 ocean and the supersonic Level -1 ocean.
 
-## 2. The Rankine Armor as the Dimensional Membrane
-If our universe and the sub-universe are both made of fluid, what keeps them from mixing? 
-
-When the Big Bang cavitation event occurred, the kinetic shear forced the fluid at the $r_{core}$ boundary to spin at Mach 1 (the speed of sound). This infinitesimally thin, indestructible wall of supersonic fluid (the Rankine Vortex Armor) acts as a perfect **Dynamic Seal**. 
-
-This armor is the literal, physical membrane that separates dimensions. It securely traps the lower-order fluid inside the particle, isolating the Level -1 pressure zone from the crushing Level 0 pressure zone.
-
 ## 3. The Macro-Verse (Level +1)
 Because the laws of classical hydrodynamics are scale-invariant, the fractal pattern must extend infinitely upward as well.
 
