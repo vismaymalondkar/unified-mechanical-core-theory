@@ -72,5 +72,30 @@ The UPT resolves this by applying the strict fluid dynamics of hyper-velocity je
 
 **Conclusion:** The deep Shower Maximum ($t_{max}$) recorded by the observatory is completely real. However, legacy physics misinterprets *what* it is measuring. The depth of the explosion does not represent the immense mass of a single, impossible 1 TeV super-particle. It represents the exact **Exhaustion Depth** of the hydrodynamic drill. Because human computers record the overlapping 50-car pile-up as a single timestamp, the physicist reads the total thermodynamic turbulence of the crash, sees a 1 TeV energy spike, and assumes the detector was hit by one impossible particle. There are no TeV photons. The universe strictly builds fiber-optic cables; human cameras are simply too blurry to see the individual strands.
 
+## **6. Falsifiability and the Diffraction Limit**
+The ultimate test of any physical theory is falsifiability. If the UPT dictates that the absolute structural limit of a single photon is 2.04 MeV, then legacy physics should easily be able to disprove it by demonstrating a single 1 TeV photon diffracting through a slit and producing an interference pattern that matches a $10^{-18} \text{ m}$ wavelength. 
+
+If this experiment succeeds, the UPT is instantly dead, and the 1 TeV super-particle is real. However, legacy physics has never run this experiment, and physically never will, due to strict material and hydrodynamic limits.
+
+### **The Slit Problem (The Limit of Human Hardware)**
+To measure wave interference, a diffraction grating is required. The physical gap between the slits must be roughly the same size as the wavelength itself. 
+* For **Visible Light** ($\approx 500 \text{ nm}$), physicists cut physical slits into metal. 
+* For **X-Rays** ($\approx 1 \text{ nm}$), physical cutting fails, so physicists use the natural microscopic gaps between atoms in a crystal lattice (X-Ray Crystallography). 
+
+If a 1 TeV photon actually existed, its wavelength would be roughly **$10^{-18}$ meters**—a thousand times smaller than a single proton. There is no crystal, no atomic lattice, and no physical structure in the universe with gaps that small. Therefore, legacy physics has never recorded a spatial interference pattern for a GeV or TeV photon. They possess absolutely zero wave-mechanic proof that frequencies above the $2r_{pipe}$ threshold actually exist; they merely assume the frequency exists by reading the thermodynamic heat of the Calorimeter crash and applying $E=hf$ backward.
+
+### **The Drill Effect (Why High-Energy Diffraction Fails)**
+If an experimentalist attempts to fire a 1 TeV signal at an atomic lattice anyway, standard physics assumes the ultra-small wave should pass cleanly through the empty space of the atom without diffracting. 
+
+In the UPT, this 1 TeV signal is not a single, infinitely small wave; it is a **Hydrodynamic Drill** (a drafted wave train of 500,000 maximum-density springs). When you fire a high-pressure kinetic jet at a microscopic mesh screen, the fluid does not politely diffract into an interference pattern. The sheer kinetic density of the drafted train violently interacts with the physical boundary of the lattice:
+1. The vanguard photons hit the atomic boundary and violently snap (Pair Production). 
+2. The resulting radial blowout shatters the "slit" (the atomic structure). 
+3. The rest of the wave train bores a continuous Cavitation Channel straight through the material.
+
+**Conclusion:** You cannot diffract a wave train. Above the 2.04 MeV threshold, the drafted signal ceases to behave like a single, oscillating wave and begins to behave strictly like an armor-piercing kinetic beam. This flawlessly explains why all classical wave-like behavior (diffraction, refraction, interference) completely vanishes in laboratory experiments at ultra-high energies. Legacy physics is fundamentally locked out from falsifying the 2.04 MeV limit because the universe strictly prevents high-energy plumbing from being photographed!
+
+---
+*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
+
 ---
 *© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
