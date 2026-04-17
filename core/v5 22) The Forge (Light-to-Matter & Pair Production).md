@@ -96,6 +96,3 @@ In the UPT, this 1 TeV signal is not a single, infinitely small wave; it is a **
 
 ---
 *© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
-
----
-*© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
