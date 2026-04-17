@@ -76,5 +76,22 @@ In the UPT, the electron is not a static, solid object; it is a continuous, dyna
 * **The Mechanics:** Because Vector 1 creates a continuous Choked Flow sink ($P^*$) at $r_{core}$, the surrounding universe constantly attempts to crush it. The fluid violently rushes inward to satisfy the pressure gradient.
 * **The Output:** This continuous, macroscopic inward pull of the ocean is the physical mechanism of **Gravity**.
 
+## **5. The Structural Length and Phase-Lock ($L_{pipe}$)**
+
+In the UPT, the fluid wire that constructs the electron is finite, strictly quantized, and geometrically locked to prevent self-destruction.
+
+* **The Unspooled Length ($L_{pipe}$):** The total, raw length of the fluid pipe is exactly eight times its macroscopic radius. 
+  $$L_{pipe} = \mathbf{8 R_{torus}}$$
+* **The Winding Integer ($N$):** When closed into a resting electron, this $8 R_{torus}$ fluid wire wraps into a Toroidal Helix consisting of exactly **108 coils**.
+
+### **The Aerodynamic Clearance Limit (Vortex Reconnection)**
+This 108-winding integer is a strict fluid dynamic survival requirement, not a theoretical abstraction. 
+
+The internal core of the electron's pipe ($r_{core}$) is a Choked Flow boundary—a hyper-pressurized, Mach-1 fluid wall actively holding back the ambient universal ocean. Because the 108 coils are packed tightly into a microscopic donut, these Mach-1 boundaries sit incredibly close together.
+
+To prevent catastrophic failure, the coils must be **Acoustically Phase-Locked**. The high-pressure ridge of one coil must perfectly mesh with the low-pressure draft of the next. If the winding number were an irrational fraction (e.g., $108.5$), the coils would fall out of phase, causing the Mach-1 walls of adjacent coils to physically intersect. 
+
+In fluid dynamics, when two high-speed vortex walls touch, it triggers **Vortex Reconnection**. The centrifugal pressure seal breaks, the ambient ocean violently rushes into the core, and the entire particle shatters into an acoustic shockwave. The $N=108$ integer is the exact aerodynamic clearance required to keep the electron's plumbing from destroying itself.
+
 ---
 *© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
