@@ -75,13 +75,24 @@ We plug in the exact real-world values established by both standard measurement 
 
 ### **Step 5C: The Incompressible Baseline vs. True Core**
 If we temporarily assume the fluid is incompressible (Density Ratio = 1), we resolve the numerator and denominator to find the baseline geometric radius:
-$$Numerator \approx 1.492 \times 10^{-58}$$
+$$Numerator \approx 1.492 \times 10^{-57}$$
 $$Denominator \approx 8.982 \times 10^{16}$$
-$$r_{baseline} = \sqrt{1.661 \times 10^{-75}} \approx \mathbf{4.07 \times 10^{-38} \text{ meters}}$$
+$$r_{baseline} = \sqrt{1.661 \times 10^{-74}} \approx \mathbf{1.288 \times 10^{-37} \text{ meters}}$$
 
 However, because the universal superfluid is compressible, the fluid stretches as it enters the Choked Flow state. The Critical Density ($\rho^*$) is lower than the resting density ($\rho_0$), meaning the ratio $(\rho^*/\rho_0)$ is a fraction less than 1. 
 
-Because this fraction is in the denominator of our equation, it dictates that the **True Compressible $r_{core}$** is geometrically slightly larger than the $4.07 \times 10^{-38} \text{ m}$ baseline. 
+Because this fraction is in the denominator of our equation, it dictates that the **True Compressible $r_{core}$** is geometrically slightly larger than the $1.288 \times 10^{-37} \text{ m}$ baseline. 
+
+---
+
+## **The Verdict: The Sub-Planck Singularity**
+This numerical output is a massive validation of the UPT architecture. 
+
+In standard physics, the **Planck Length** ($\approx 1.616 \times 10^{-35} \text{ m}$) is considered the absolute minimum scale of reality. When we ran the UPT hydrodynamic equation in reverse, the math calculated that the physical radius of the vacuum core drops directly into the **Sub-Planck regime** (roughly 1/125th the size of a standard Planck length).
+
+This perfectly aligns with classical fluid dynamics: the Planck scale is simply the chaotic, turbulent boundary layer of the fluid, but the absolute mathematical singularity—the Choked Flow nozzle where fluid velocity reaches exactly $c$—must be a geometrically smaller pinhole. 
+
+Gravity is unimaginably weak precisely because the $r_{core}$ intake pinhole is over $10^{22}$ times smaller than the $r_{pipe}$ containment wall holding it open.
 
 ---
 
