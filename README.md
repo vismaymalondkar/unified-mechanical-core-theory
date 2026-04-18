@@ -1,6 +1,6 @@
 > © 2026 Vismay Malondkar. **Universal Plumbing Theory (UPT)**. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-# Universal Plumbing Theory (v6.0)
+# Universal Plumbing Theory (v5.0)
 Make physics flow again.
 
 This repository treats the universe as a purely deterministic, local, **fluid-mechanical engineering system**. By replacing point particles and "Spacetime" with **3D Fluid Knots** and a high-density **Compressible Acoustic Superfluid**, the anomalies of both Quantum Mechanics and General Relativity resolve themselves. We don't need "new physics" or extra dimensions; we just need to fix the leaks.
@@ -59,4 +59,3 @@ The UPT rejects the existence of both "Absolute Zero" (a true empty vacuum) and 
 
 ![Electron](images/electron.png)
 ![Electron](images/photon.png)
-![Electron](images/proton.png)
