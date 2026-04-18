@@ -29,19 +29,6 @@ $$E_{elec} = \alpha \cdot mc^2$$
 
 ---
 
-## **3. The UPT Geometric Translation (The Pitch Angle)**
-The equation above proves that $\alpha$ is an **Energy Partition Coefficient**. 
-
-Given that $\alpha \approx 1/137.036$ (or $0.00729$), exactly **0.729%** of the electron's total energy budget is spent inducing the sideways Electric Swirl at its outer boundary. The remaining **99.271%** is dedicated to the Magnetic loop and the internal gyroscopic armor. 
-
-Because this induction split is strictly governed by the physical tilt of the coils, we can use $\alpha$ to calculate the exact geometric **Pitch Angle ($\theta$)** of the vortex thread. Since fluid kinetic energy scales with velocity squared:
-$$\sin^2(\theta) = \alpha$$
-$$\sin(\theta) = \sqrt{\frac{1}{137.036}}$$
-$$\sin(\theta) \approx 0.0854$$
-$$\mathbf{\theta \approx 4.9^\circ}$$
-
----
-
 ## **4. The Distance Rule ($1/r$) and the Grand Geometric Lock**
 How can the Electric Field require only $\alpha \cdot mc^2$ of the energy budget, while the UPT Gravity derivation requires the Electric Charge ($Q$) to balance against the **entire** $mc^2$ budget? 
 
@@ -55,9 +42,6 @@ The resolution lies in the fluid dynamics of spatial decay. The energy of a sphe
 Because the field energy drops by exactly $1/r$, the ratio of the energy at the Macroscopic Edge to the energy at the Microscopic Edge must perfectly equal the ratio of their physical radii:
 $$\frac{\text{Energy at } R_{torus}}{\text{Energy at } r_{pipe}} = \frac{\alpha \cdot mc^2}{1 \cdot mc^2} = \mathbf{\alpha}$$
 $$\mathbf{\frac{r_{pipe}}{R_{torus}} = \alpha}$$
-
-### **The Engine Blueprint is Flawless**
-The Fine Structure Constant simultaneously defines the **Pitch Angle** ($\sin^2\theta = \alpha$) that partitions the fluid, AND the **Aspect Ratio** ($r_{pipe} / R_{torus} = \alpha$) of the physical structure itself. The geometry dictates the pitch, the pitch dictates the flow, and the flow's spatial decay dictates the physical thickness of the wire required to hold the pressure. 
 
 ---
 
