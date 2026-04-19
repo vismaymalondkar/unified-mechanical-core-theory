@@ -40,6 +40,8 @@ When we measure the real-world Gamma-ray frequencies (Photodisintegration Thresh
 
 **Conclusion:** The exact energy thresholds of nuclear physics are not arbitrary quantum constants. They are the deterministic, classical output of macroscopic structural engineering. Oxygen takes twice the energy to shatter purely because a Tetrahedron has twice as many edges as a Triangle.
 
+---
+
 ## **5. Neon-20: The Trigonal Bipyramid ($5 \times r_2c_4$)**
 The universe builds Neon-20 by taking the Oxygen-16 structure and plugging a 5th Alpha block into the bottom port.
 * **The Geometry:** A 3D Trigonal Bipyramid.
@@ -53,6 +55,26 @@ However, real-world empirical physics shows the photodisintegration threshold fo
 
 The UPT mechanically derives this exact energy drop via **Acoustic Pre-Tension**. 
 Unlike Oxygen, Neon-20 is a crowded geometry. The Top Alpha block and Bottom Alpha block sit on the exact same Z-axis, forcing their fluid boundary layers dangerously close together through the central ring. The internal repulsion between these two caps places the entire macro-lattice under immense pre-existing hydrodynamic strain. Because the fault lines are already stretched by internal pressure, it requires less external acoustic resonance to trigger catastrophic shear failure.
+
+---
+
+## **6. Magnesium-24: The Octahedron ($6 \times r_2c_4$)**
+The universe builds Magnesium-24 by arranging exactly 6 Alpha blocks into the next perfect 3D Platonic solid.
+* **The Geometry:** A closed, perfectly symmetrical **Octahedron** (a central 4-block square plane with a Top and Bottom cap).
+* **The Structural Count:** An Octahedron possesses exactly **12 edges (Secondary Splices)**.
+
+### **The Macroscopic Compression Limit**
+The UPT mechanically dictates that the fault lines of atomic macro-lattices grow in strict multiples of 3.
+* Carbon-12: **3 Edges**
+* Oxygen-16: **6 Edges**
+* Neon-20: **9 Edges**
+* Magnesium-24: **12 Edges**
+
+If phase-locks scaled purely linearly without internal stress, Magnesium-24 (having 4 times the struts of Carbon) should require exactly $29.08 \text{ MeV}$ to shatter ($4 \times 7.27 \text{ MeV}$).
+
+When we observe the real-world acoustic energy required to shatter Magnesium-24 into 6 Alpha particles, the empirical threshold is **$28.48 \text{ MeV}$**.
+
+Just like Neon-20, Magnesium experiences extreme Acoustic Pre-Tension. Because the Octahedron is a fully closed Platonic solid, its opposite Alpha blocks face severe internal Z-axis crowding and global 3D compression. This internal repulsion pre-stresses the secondary splices, meaning it requires slightly less external acoustic shock to trigger total structural failure than a perfectly uncompressed linear model would predict.
 
 ---
 *© 2026 Vismay Malondkar. Universal Plumbing Theory (UPT). Licensed under CC BY 4.0.*
