@@ -16,17 +16,17 @@ To maintain phase-locked fluid boundaries without cavitation, the universe must 
 Using the Multi-Port Hub, the universe builds the initial linear and radial Super-Knots:
 * **Deuterium (H-2):** The simplest splice. Two cores undergo Vortex Reconnection at the Top and Bottom of a single electron ring. It forms a vertical strut (the **Dumbbell**), circulating fluid as one unbroken wire. *(Parts used: 2 Cores, 1 Ring).*
 * **Helium-3 (He-3):** Three cores splice radially into a single electron ring, spaced 120 degrees apart. It forms a flat **Y-Shape** or **Propeller** circuit. *(Parts used: 3 Cores, 1 Ring).*
-* **Tritium (H-3):** A heavy, unstable isotope. To hold three cores, it uses two electron rings spliced in a linear chain (Core-Ring-Core-Ring-Core). Because it forms a long, wobbly chain fighting against the ocean's turbulence, it is structurally weak and prone to snapping (decaying). *(Parts used: 3 Cores, 2 Rings).*
+* **Tritium (H-3):** A heavy, unstable isotope. It acts as an **Incomplete Alpha Block**. The two electron rings slide together in the X-Y plane to form a Coplanar Figure-8 hub, exposing 4 vertical ports. Three cores plunge into these ports (Core2-Ring-Ring-Core), leaving exactly one port empty. This "Empty Port" generates massive asymmetric suction, causing the nucleus to violently wobble in the ocean. This extreme hydrodynamic instability makes it prone to snapping (Beta Decay). *(Parts used: 3 Cores, 2 Rings).*
 
 ---
 
 ## **3. The Master Block: Helium-4 (The Alpha Particle)**
-If chains are wobbly and weak, how does the universe build stable heavy elements? It abandons linear chains entirely and folds into closed 3D polyhedrons. 
+If simple struts are weak and incomplete hubs are unstable, how does the universe build stable heavy elements? It fully occupies the ports to fold into closed 3D polyhedrons. 
 
-To build Helium-4 (2 Protons, 2 Neutrons), the universe brings exactly **4 Cores and 2 Electron Rings** to the table. Instead of a linear chain, it executes a highly stable fluid-dynamic folding maneuver based on a **Coplanar Hub** (similar to the $C_2H_4$ ethene molecule).
+To build Helium-4 (2 Protons, 2 Neutrons), the universe brings exactly **4 Cores and 2 Electron Rings** to the table. It executes a highly stable fluid-dynamic folding maneuver based on a fully loaded **Coplanar Hub** (similar to the $C_2H_4$ ethene molecule).
 
 1.  **The Coplanar Figure-8:** The two $0_1$ Electron Rings slide together in the exact same 2D plane (X-Y). Their boundaries cross via Vortex Reconnection, splicing them into a flat, rigid Figure-8 double-ring hub. 
-2.  **The Z-Axis Splice:** Because this central motherboard is flat, it exposes exactly 4 vertical ports (the Top and Bottom of each ring). The 4 massive Trefoil Cores plunge into these ports from the Z-axis (above and below the plane), splicing their flows entirely into the central hub. 
+2.  **The Z-Axis Splice:** Because this central motherboard is flat, it exposes exactly 4 vertical ports (the Top and Bottom of each ring). The 4 massive Trefoil Cores plunge into these ports from the Z-axis (above and below the plane), splicing their flows entirely into the central hub, leaving no empty ports. 
 3.  **Steric Hindrance (The Tetrahedral Lock):** The bulky Trefoil knots physically cannot sit directly next to each other without their outer lobes violently clashing. To survive, they push each other away, leaning outward and staggering along the Z-axis (alternating Up and Down). 
 
 **The Result:** This required Z-axis staggering naturally forces the centers of the 4 cores into a perfect, rigid **3D Tetrahedron**. 
