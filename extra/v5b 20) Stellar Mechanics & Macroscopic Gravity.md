@@ -25,7 +25,7 @@ In the calm vacuum of deep space, if two `r2c4` Alpha blocks collide, they bounc
 ## **4. Sunlight (Ejected Total Length)**
 The absolute law of Vortex Reconnection states that when smaller knots are spliced into a more efficient, symmetrical macro-structure, the new circuit geometrically requires less Total Length to maintain its shape.
 * **The Amputation:** Every single time the stellar whirlpool forces Alpha blocks to fuse, the new macro-structure physically amputates its unneeded slack. 
-* **The Escape:** Millions of times a second, these severed lengths of $r_{pipe}$ pinch themselves closed and torpedo outward. Because they are no longer anchored, their internal $c$-velocity $r_{core}$ drives them radially out of the whirlpool in straight lines. 
+* **The Escape:** Millions of times a second, these severed lengths of $r_{pipe}$ torpedo outward. Because they are no longer anchored, their internal $c$-velocity $r_{core}$ drives them radially out of the whirlpool in straight lines. 
 * **The Result:** These traveling pipes crash into the Earth, unspooling their internal kinetic energy against the $r_{pipe}$ boundaries of the atoms in our atmosphere and skin. Legacy physics calls these severed waste pipes **Photons**, and the resulting kinetic friction **Heat**.
 
 ---
