@@ -20,9 +20,7 @@ As the photon spring fights its way upstream from the $r_{core}$ to the $r_{pipe
 
 The photon cannot slow down—its gyroscopic physics mandate that it must travel at $c$ relative to the local fluid. Therefore, to resolve the kinetic drag, the physical geometry of the spring deforms:
 * The opposing fluid current physically pulls on the coils, stretching the spring out. 
-* As the spring stretches, the physical distance between each of the coils increases. 
-* In wave mechanics, the distance between coils is the **Wavelength**. 
-* Because the wavelength is now longer, the spring vibrates at a lower frequency. 
+* As the spring stretches, the physical distance between each of the coils increases and the total length increases. 
 
 ## **4. Chemical Reality: The Shift to Red**
 When this stretched photon finally breaks past the $r_{pipe}$ boundary and enters the calmer universal ocean of deep space, the damage to its geometry is permanent. It has spent a massive amount of its internal kinetic tension just surviving the upstream swim. 
