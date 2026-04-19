@@ -10,17 +10,17 @@ When the trillions of $3_1$ Trefoil knots inside the stellar $r_{core}$ spin, th
 This inward fluid velocity is what we experience as Gravity. Near the surface of the star (the $r_{pipe}$), this inward current is incredibly fast and dense.
 
 ## **2. The Outward Spring (The Photon)**
-During nuclear fusion at the core, severed pieces of fluid wire snap open into unlooped, 108-coil acoustic springs (Photons). Because of their internal gyroscopic tension, they drive themselves forward at exactly Mach 1 of the fluid ($c$, the speed of light).
+During nuclear fusion at the core, severed pieces of fluid wire snap open into unlooped, coiled acoustic springs (Photons). Because of their internal gyroscopic tension, they drive themselves forward at exactly Mach 1 of the fluid ($c$, the speed of light).
 
 * However, velocity is relative to the medium. 
 * The photon is driving outward at $c$, but the fluid it is traveling through is rushing inward. 
 
 ## **3. The Hydrodynamic Stretch (Redshift)**
-As the photon spring fights its way upstream from the $r_{core}$ to the $r_{pipe}$, the opposing fluid current creates immense physical drag on the structure of the 108 coils. 
+As the photon spring fights its way upstream from the $r_{core}$ to the $r_{pipe}$, the opposing fluid current creates immense physical drag on the structure of the coils. 
 
 The photon cannot slow down—its gyroscopic physics mandate that it must travel at $c$ relative to the local fluid. Therefore, to resolve the kinetic drag, the physical geometry of the spring deforms:
 * The opposing fluid current physically pulls on the coils, stretching the spring out. 
-* As the spring stretches, the physical distance between each of the 108 coils increases. 
+* As the spring stretches, the physical distance between each of the coils increases. 
 * In wave mechanics, the distance between coils is the **Wavelength**. 
 * Because the wavelength is now longer, the spring vibrates at a lower frequency. 
 
