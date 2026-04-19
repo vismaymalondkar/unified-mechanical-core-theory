@@ -52,7 +52,7 @@ $$R_\tau = R_e \cdot \left(\frac{0.511}{1776.86}\right) = \mathbf{R_e \cdot 0.00
 Despite shrinking by a factor of 3,477, the electrical charge of the Tau remains exactly $-1e$. Legacy physics relies on magical intrinsic properties to explain this. The UPT explains it strictly via fluid dynamics:
 
 **Charge is the total volume of fluid displaced by the spinning hardware against the resting density ($\rho_0$).**
-1. **Conserved Hardware:** The physical length of the gear churning the ocean ($L_{pipe} \propto 0.511 \text{ MeV}$) remains identical across all three generations. 
+1. **Conserved Hardware:** The physical length of the gear churning the ocean ($L_{base} \propto 0.511 \text{ MeV}$) remains identical across all three generations. While the particles borrow massive amounts of length to survive the extreme buckling, this is isentropic strain, not new physical gear teeth. Therefore, the physical hardware displacing the fluid sideways remains strictly conserved.
 2. **Conserved Displacement:** The standard Electron displaces fluid horizontally across a wide footprint. The Muon and Tau displace the exact same volume of fluid vertically via their high-amplitude buckling waves. 
 3. **The Ledger:** Because the total surface area of wire paddling the universal ocean is conserved, the intensity of the macroscopic acoustic wake remains structurally locked at $-1e$. 
 
