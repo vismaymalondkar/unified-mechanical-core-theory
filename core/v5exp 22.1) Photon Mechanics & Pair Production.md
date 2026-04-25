@@ -1,4 +1,4 @@
-# **Universal Plumbing Theory: Photon Mechanics & Pair Production **
+# **Universal Plumbing Theory: Photon Mechanics & Pair Production**
 
 **Core Thesis**: In legacy physics, light is treated as indestructible, 0-dimensional energy packets, leading to the paradox of "magical vanishing particles" during absorption. The Universal Plumbing Theory (UPT) proves that the 108-coil photon is the most fragile topological structure in the cosmos. It is a physical, open fluid spring that is mechanically shattered at low energies, but kinetically buckles into new matter at ultra-high energies. This deterministic fluid framework flawlessly derives Pair Production, the exact 50/50 matter-antimatter split, and the empirical odd-even photon rules observed in particle accelerators.
 
